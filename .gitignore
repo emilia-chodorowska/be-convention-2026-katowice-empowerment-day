@@ -1,0 +1,10 @@
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.m4v
+*.M4V
+lekcja_original.mov
+.DS_Store
+.idea/
+.vscode/
