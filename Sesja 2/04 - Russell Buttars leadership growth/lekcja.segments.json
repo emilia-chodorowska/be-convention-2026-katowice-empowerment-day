@@ -1,0 +1,8100 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": " Vice President of Global Strategy and Vice President of India, Russell Butters.",
+      "words": [
+        {
+          "word": " Vice",
+          "start": 0.0,
+          "end": 0.86
+        },
+        {
+          "word": " President",
+          "start": 0.86,
+          "end": 1.5
+        },
+        {
+          "word": " of",
+          "start": 1.5,
+          "end": 1.8
+        },
+        {
+          "word": " Global",
+          "start": 1.8,
+          "end": 2.08
+        },
+        {
+          "word": " Strategy",
+          "start": 2.08,
+          "end": 2.72
+        },
+        {
+          "word": " and",
+          "start": 2.72,
+          "end": 3.48
+        },
+        {
+          "word": " Vice",
+          "start": 3.48,
+          "end": 3.76
+        },
+        {
+          "word": " President",
+          "start": 3.76,
+          "end": 4.36
+        },
+        {
+          "word": " of",
+          "start": 4.36,
+          "end": 4.68
+        },
+        {
+          "word": " India,",
+          "start": 4.68,
+          "end": 5.28
+        },
+        {
+          "word": " Russell",
+          "start": 5.68,
+          "end": 6.32
+        },
+        {
+          "word": " Butters.",
+          "start": 6.32,
+          "end": 7.0
+        }
+      ]
+    },
+    {
+      "start": 15.66,
+      "end": 17.54,
+      "text": " Hello, doTERRA family.",
+      "words": [
+        {
+          "word": " Hello,",
+          "start": 15.66,
+          "end": 16.34
+        },
+        {
+          "word": " doTERRA",
+          "start": 16.66,
+          "end": 17.12
+        },
+        {
+          "word": " family.",
+          "start": 17.12,
+          "end": 17.54
+        }
+      ]
+    },
+    {
+      "start": 20.06,
+      "end": 23.02,
+      "text": " Oh, it is such an honor to be with you today.",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 20.06,
+          "end": 20.74
+        },
+        {
+          "word": " it",
+          "start": 20.94,
+          "end": 21.04
+        },
+        {
+          "word": " is",
+          "start": 21.04,
+          "end": 21.22
+        },
+        {
+          "word": " such",
+          "start": 21.22,
+          "end": 21.56
+        },
+        {
+          "word": " an",
+          "start": 21.56,
+          "end": 21.74
+        },
+        {
+          "word": " honor",
+          "start": 21.74,
+          "end": 21.98
+        },
+        {
+          "word": " to",
+          "start": 21.98,
+          "end": 22.2
+        },
+        {
+          "word": " be",
+          "start": 22.2,
+          "end": 22.36
+        },
+        {
+          "word": " with",
+          "start": 22.36,
+          "end": 22.56
+        },
+        {
+          "word": " you",
+          "start": 22.56,
+          "end": 22.7
+        },
+        {
+          "word": " today.",
+          "start": 22.7,
+          "end": 23.02
+        }
+      ]
+    },
+    {
+      "start": 23.740000000000002,
+      "end": 28.52,
+      "text": " So I just passed my 10-year mark in doTERRA in April.",
+      "words": [
+        {
+          "word": " So",
+          "start": 23.740000000000002,
+          "end": 24.42
+        },
+        {
+          "word": " I",
+          "start": 24.42,
+          "end": 24.64
+        },
+        {
+          "word": " just",
+          "start": 24.64,
+          "end": 24.9
+        },
+        {
+          "word": " passed",
+          "start": 24.9,
+          "end": 25.38
+        },
+        {
+          "word": " my",
+          "start": 25.38,
+          "end": 25.64
+        },
+        {
+          "word": " 10",
+          "start": 25.64,
+          "end": 25.98
+        },
+        {
+          "word": "-year",
+          "start": 25.98,
+          "end": 26.26
+        },
+        {
+          "word": " mark",
+          "start": 26.26,
+          "end": 26.7
+        },
+        {
+          "word": " in",
+          "start": 26.7,
+          "end": 27.48
+        },
+        {
+          "word": " doTERRA",
+          "start": 27.48,
+          "end": 28.0
+        },
+        {
+          "word": " in",
+          "start": 28.0,
+          "end": 28.22
+        },
+        {
+          "word": " April.",
+          "start": 28.22,
+          "end": 28.52
+        }
+      ]
+    },
+    {
+      "start": 29.52,
+      "end": 34.82,
+      "text": " And this is the first time that I have attended a convention outside of the U.S.",
+      "words": [
+        {
+          "word": " And",
+          "start": 29.36,
+          "end": 29.64
+        },
+        {
+          "word": " this",
+          "start": 29.64,
+          "end": 30.02
+        },
+        {
+          "word": " is",
+          "start": 30.02,
+          "end": 30.2
+        },
+        {
+          "word": " the",
+          "start": 30.2,
+          "end": 30.34
+        },
+        {
+          "word": " first",
+          "start": 30.34,
+          "end": 30.78
+        },
+        {
+          "word": " time",
+          "start": 30.78,
+          "end": 31.28
+        },
+        {
+          "word": " that",
+          "start": 31.28,
+          "end": 31.94
+        },
+        {
+          "word": " I",
+          "start": 31.94,
+          "end": 32.2
+        },
+        {
+          "word": " have",
+          "start": 32.2,
+          "end": 32.46
+        },
+        {
+          "word": " attended",
+          "start": 32.46,
+          "end": 32.82
+        },
+        {
+          "word": " a",
+          "start": 32.82,
+          "end": 33.04
+        },
+        {
+          "word": " convention",
+          "start": 33.04,
+          "end": 33.44
+        },
+        {
+          "word": " outside",
+          "start": 33.44,
+          "end": 33.98
+        },
+        {
+          "word": " of",
+          "start": 33.98,
+          "end": 34.26
+        },
+        {
+          "word": " the",
+          "start": 34.26,
+          "end": 34.36
+        },
+        {
+          "word": " U",
+          "start": 34.36,
+          "end": 34.52
+        },
+        {
+          "word": ".S.",
+          "start": 34.52,
+          "end": 34.82
+        }
+      ]
+    },
+    {
+      "start": 35.7,
+      "end": 44.2,
+      "text": " So over those times, over all those 10 years, I've had the pleasure of meeting so many different people at different events.",
+      "words": [
+        {
+          "word": " So",
+          "start": 35.7,
+          "end": 36.26
+        },
+        {
+          "word": " over",
+          "start": 36.26,
+          "end": 36.7
+        },
+        {
+          "word": " those",
+          "start": 36.7,
+          "end": 37.02
+        },
+        {
+          "word": " times,",
+          "start": 37.02,
+          "end": 37.38
+        },
+        {
+          "word": " over",
+          "start": 37.52,
+          "end": 37.74
+        },
+        {
+          "word": " all",
+          "start": 37.74,
+          "end": 38.12
+        },
+        {
+          "word": " those",
+          "start": 38.12,
+          "end": 38.3
+        },
+        {
+          "word": " 10",
+          "start": 38.3,
+          "end": 38.5
+        },
+        {
+          "word": " years,",
+          "start": 38.5,
+          "end": 38.86
+        },
+        {
+          "word": " I've",
+          "start": 39.16,
+          "end": 39.48
+        },
+        {
+          "word": " had",
+          "start": 39.48,
+          "end": 39.6
+        },
+        {
+          "word": " the",
+          "start": 39.6,
+          "end": 39.74
+        },
+        {
+          "word": " pleasure",
+          "start": 39.74,
+          "end": 40.14
+        },
+        {
+          "word": " of",
+          "start": 40.14,
+          "end": 40.46
+        },
+        {
+          "word": " meeting",
+          "start": 40.46,
+          "end": 40.7
+        },
+        {
+          "word": " so",
+          "start": 40.7,
+          "end": 41.14
+        },
+        {
+          "word": " many",
+          "start": 41.14,
+          "end": 41.4
+        },
+        {
+          "word": " different",
+          "start": 41.4,
+          "end": 41.68
+        },
+        {
+          "word": " people",
+          "start": 41.68,
+          "end": 42.2
+        },
+        {
+          "word": " at",
+          "start": 42.2,
+          "end": 43.32
+        },
+        {
+          "word": " different",
+          "start": 43.32,
+          "end": 43.66
+        },
+        {
+          "word": " events.",
+          "start": 43.66,
+          "end": 44.2
+        }
+      ]
+    },
+    {
+      "start": 44.48,
+      "end": 48.9,
+      "text": " But for many of you, this is the first time that we've had a chance to interact.",
+      "words": [
+        {
+          "word": " But",
+          "start": 44.48,
+          "end": 45.04
+        },
+        {
+          "word": " for",
+          "start": 45.04,
+          "end": 45.26
+        },
+        {
+          "word": " many",
+          "start": 45.26,
+          "end": 45.44
+        },
+        {
+          "word": " of",
+          "start": 45.44,
+          "end": 45.64
+        },
+        {
+          "word": " you,",
+          "start": 45.64,
+          "end": 45.8
+        },
+        {
+          "word": " this",
+          "start": 46.02,
+          "end": 46.18
+        },
+        {
+          "word": " is",
+          "start": 46.18,
+          "end": 46.36
+        },
+        {
+          "word": " the",
+          "start": 46.36,
+          "end": 46.52
+        },
+        {
+          "word": " first",
+          "start": 46.52,
+          "end": 46.94
+        },
+        {
+          "word": " time",
+          "start": 46.94,
+          "end": 47.34
+        },
+        {
+          "word": " that",
+          "start": 47.34,
+          "end": 47.54
+        },
+        {
+          "word": " we've",
+          "start": 47.54,
+          "end": 47.8
+        },
+        {
+          "word": " had",
+          "start": 47.8,
+          "end": 47.94
+        },
+        {
+          "word": " a",
+          "start": 47.94,
+          "end": 48.04
+        },
+        {
+          "word": " chance",
+          "start": 48.04,
+          "end": 48.34
+        },
+        {
+          "word": " to",
+          "start": 48.34,
+          "end": 48.54
+        },
+        {
+          "word": " interact.",
+          "start": 48.54,
+          "end": 48.9
+        }
+      ]
+    },
+    {
+      "start": 49.5,
+      "end": 53.82,
+      "text": " So I invite you to stop me. I would love to get to know you.",
+      "words": [
+        {
+          "word": " So",
+          "start": 49.5,
+          "end": 50.06
+        },
+        {
+          "word": " I",
+          "start": 50.06,
+          "end": 50.38
+        },
+        {
+          "word": " invite",
+          "start": 50.38,
+          "end": 50.82
+        },
+        {
+          "word": " you",
+          "start": 50.82,
+          "end": 51.04
+        },
+        {
+          "word": " to",
+          "start": 51.04,
+          "end": 51.28
+        },
+        {
+          "word": " stop",
+          "start": 51.28,
+          "end": 51.6
+        },
+        {
+          "word": " me.",
+          "start": 51.6,
+          "end": 51.9
+        },
+        {
+          "word": " I",
+          "start": 52.28,
+          "end": 52.44
+        },
+        {
+          "word": " would",
+          "start": 52.44,
+          "end": 52.64
+        },
+        {
+          "word": " love",
+          "start": 52.64,
+          "end": 52.84
+        },
+        {
+          "word": " to",
+          "start": 52.84,
+          "end": 53.02
+        },
+        {
+          "word": " get",
+          "start": 53.02,
+          "end": 53.2
+        },
+        {
+          "word": " to",
+          "start": 53.2,
+          "end": 53.36
+        },
+        {
+          "word": " know",
+          "start": 53.36,
+          "end": 53.56
+        },
+        {
+          "word": " you.",
+          "start": 53.56,
+          "end": 53.82
+        }
+      ]
+    },
+    {
+      "start": 54.44,
+      "end": 57.88,
+      "text": " For those of you that still may be wondering, who is this guy?",
+      "words": [
+        {
+          "word": " For",
+          "start": 54.44,
+          "end": 54.96
+        },
+        {
+          "word": " those",
+          "start": 54.96,
+          "end": 55.22
+        },
+        {
+          "word": " of",
+          "start": 55.22,
+          "end": 55.42
+        },
+        {
+          "word": " you",
+          "start": 55.42,
+          "end": 55.52
+        },
+        {
+          "word": " that",
+          "start": 55.52,
+          "end": 55.68
+        },
+        {
+          "word": " still",
+          "start": 55.68,
+          "end": 55.88
+        },
+        {
+          "word": " may",
+          "start": 55.88,
+          "end": 56.06
+        },
+        {
+          "word": " be",
+          "start": 56.06,
+          "end": 56.18
+        },
+        {
+          "word": " wondering,",
+          "start": 56.18,
+          "end": 56.52
+        },
+        {
+          "word": " who",
+          "start": 56.9,
+          "end": 57.24
+        },
+        {
+          "word": " is",
+          "start": 57.24,
+          "end": 57.42
+        },
+        {
+          "word": " this",
+          "start": 57.42,
+          "end": 57.62
+        },
+        {
+          "word": " guy?",
+          "start": 57.62,
+          "end": 57.88
+        }
+      ]
+    },
+    {
+      "start": 58.98,
+      "end": 64.64,
+      "text": " For the first seven years of my doTERRA journey, I spent on the U.S. Sales team.",
+      "words": [
+        {
+          "word": " For",
+          "start": 58.98,
+          "end": 59.5
+        },
+        {
+          "word": " the",
+          "start": 59.5,
+          "end": 59.66
+        },
+        {
+          "word": " first",
+          "start": 59.66,
+          "end": 59.96
+        },
+        {
+          "word": " seven",
+          "start": 59.96,
+          "end": 60.34
+        },
+        {
+          "word": " years",
+          "start": 60.34,
+          "end": 60.86
+        },
+        {
+          "word": " of",
+          "start": 60.86,
+          "end": 61.54
+        },
+        {
+          "word": " my",
+          "start": 61.54,
+          "end": 61.64
+        },
+        {
+          "word": " doTERRA",
+          "start": 61.64,
+          "end": 62.12
+        },
+        {
+          "word": " journey,",
+          "start": 62.12,
+          "end": 62.42
+        },
+        {
+          "word": " I",
+          "start": 62.8,
+          "end": 63.26
+        },
+        {
+          "word": " spent",
+          "start": 63.26,
+          "end": 63.52
+        },
+        {
+          "word": " on",
+          "start": 63.52,
+          "end": 63.68
+        },
+        {
+          "word": " the",
+          "start": 63.68,
+          "end": 63.78
+        },
+        {
+          "word": " U",
+          "start": 63.78,
+          "end": 63.94
+        },
+        {
+          "word": ".S.",
+          "start": 63.94,
+          "end": 64.06
+        },
+        {
+          "word": " Sales",
+          "start": 64.12,
+          "end": 64.34
+        },
+        {
+          "word": " team.",
+          "start": 64.34,
+          "end": 64.64
+        }
+      ]
+    },
+    {
+      "start": 65.2,
+      "end": 67.3,
+      "text": " Primarily as VP of U.S. Sales.",
+      "words": [
+        {
+          "word": " Primarily",
+          "start": 65.2,
+          "end": 65.72
+        },
+        {
+          "word": " as",
+          "start": 65.72,
+          "end": 66.14
+        },
+        {
+          "word": " VP",
+          "start": 66.14,
+          "end": 66.44
+        },
+        {
+          "word": " of",
+          "start": 66.44,
+          "end": 66.74
+        },
+        {
+          "word": " U",
+          "start": 66.74,
+          "end": 66.88
+        },
+        {
+          "word": ".S.",
+          "start": 66.88,
+          "end": 67.04
+        },
+        {
+          "word": " Sales.",
+          "start": 67.08,
+          "end": 67.3
+        }
+      ]
+    },
+    {
+      "start": 67.3,
+      "end": 76.86,
+      "text": " Over the last several years, I have opened the markets of India and the UAE and still oversee India today.",
+      "words": [
+        {
+          "word": " Over",
+          "start": 67.3,
+          "end": 68.56
+        },
+        {
+          "word": " the",
+          "start": 68.56,
+          "end": 68.72
+        },
+        {
+          "word": " last",
+          "start": 68.72,
+          "end": 68.98
+        },
+        {
+          "word": " several",
+          "start": 68.98,
+          "end": 69.4
+        },
+        {
+          "word": " years,",
+          "start": 69.4,
+          "end": 69.82
+        },
+        {
+          "word": " I",
+          "start": 70.12,
+          "end": 70.46
+        },
+        {
+          "word": " have",
+          "start": 70.46,
+          "end": 70.66
+        },
+        {
+          "word": " opened",
+          "start": 70.66,
+          "end": 71.16
+        },
+        {
+          "word": " the",
+          "start": 71.16,
+          "end": 71.5
+        },
+        {
+          "word": " markets",
+          "start": 71.5,
+          "end": 72.18
+        },
+        {
+          "word": " of",
+          "start": 72.18,
+          "end": 72.48
+        },
+        {
+          "word": " India",
+          "start": 72.48,
+          "end": 72.9
+        },
+        {
+          "word": " and",
+          "start": 72.9,
+          "end": 73.9
+        },
+        {
+          "word": " the",
+          "start": 73.9,
+          "end": 74.08
+        },
+        {
+          "word": " UAE",
+          "start": 74.08,
+          "end": 74.62
+        },
+        {
+          "word": " and",
+          "start": 74.62,
+          "end": 75.42
+        },
+        {
+          "word": " still",
+          "start": 75.42,
+          "end": 75.72
+        },
+        {
+          "word": " oversee",
+          "start": 75.72,
+          "end": 76.16
+        },
+        {
+          "word": " India",
+          "start": 76.16,
+          "end": 76.52
+        },
+        {
+          "word": " today.",
+          "start": 76.52,
+          "end": 76.86
+        }
+      ]
+    },
+    {
+      "start": 77.52,
+      "end": 85.56,
+      "text": " And in addition to this, this year I took on the role of Vice President of Global Strategy, mainly focusing on international.",
+      "words": [
+        {
+          "word": " And",
+          "start": 77.52,
+          "end": 77.86
+        },
+        {
+          "word": " in",
+          "start": 77.86,
+          "end": 78.04
+        },
+        {
+          "word": " addition",
+          "start": 78.04,
+          "end": 78.42
+        },
+        {
+          "word": " to",
+          "start": 78.42,
+          "end": 78.7
+        },
+        {
+          "word": " this,",
+          "start": 78.7,
+          "end": 79.06
+        },
+        {
+          "word": " this",
+          "start": 79.42,
+          "end": 79.98
+        },
+        {
+          "word": " year",
+          "start": 79.98,
+          "end": 80.24
+        },
+        {
+          "word": " I",
+          "start": 80.24,
+          "end": 80.4
+        },
+        {
+          "word": " took",
+          "start": 80.4,
+          "end": 80.6
+        },
+        {
+          "word": " on",
+          "start": 80.6,
+          "end": 80.78
+        },
+        {
+          "word": " the",
+          "start": 80.78,
+          "end": 80.9
+        },
+        {
+          "word": " role",
+          "start": 80.9,
+          "end": 81.14
+        },
+        {
+          "word": " of",
+          "start": 81.14,
+          "end": 81.38
+        },
+        {
+          "word": " Vice",
+          "start": 81.38,
+          "end": 81.6
+        },
+        {
+          "word": " President",
+          "start": 81.6,
+          "end": 82.02
+        },
+        {
+          "word": " of",
+          "start": 82.02,
+          "end": 82.24
+        },
+        {
+          "word": " Global",
+          "start": 82.24,
+          "end": 82.52
+        },
+        {
+          "word": " Strategy,",
+          "start": 82.52,
+          "end": 83.1
+        },
+        {
+          "word": " mainly",
+          "start": 83.52,
+          "end": 84.08
+        },
+        {
+          "word": " focusing",
+          "start": 84.08,
+          "end": 84.7
+        },
+        {
+          "word": " on",
+          "start": 84.7,
+          "end": 84.98
+        },
+        {
+          "word": " international.",
+          "start": 84.98,
+          "end": 85.56
+        }
+      ]
+    },
+    {
+      "start": 86.03999999999999,
+      "end": 88.32,
+      "text": " So I look forward to getting to know all of you.",
+      "words": [
+        {
+          "word": " So",
+          "start": 86.03999999999999,
+          "end": 86.5
+        },
+        {
+          "word": " I",
+          "start": 86.5,
+          "end": 86.6
+        },
+        {
+          "word": " look",
+          "start": 86.6,
+          "end": 86.82
+        },
+        {
+          "word": " forward",
+          "start": 86.82,
+          "end": 87.08
+        },
+        {
+          "word": " to",
+          "start": 87.08,
+          "end": 87.24
+        },
+        {
+          "word": " getting",
+          "start": 87.24,
+          "end": 87.46
+        },
+        {
+          "word": " to",
+          "start": 87.46,
+          "end": 87.66
+        },
+        {
+          "word": " know",
+          "start": 87.66,
+          "end": 87.84
+        },
+        {
+          "word": " all",
+          "start": 87.84,
+          "end": 88.04
+        },
+        {
+          "word": " of",
+          "start": 88.04,
+          "end": 88.2
+        },
+        {
+          "word": " you.",
+          "start": 88.2,
+          "end": 88.32
+        }
+      ]
+    },
+    {
+      "start": 88.96000000000001,
+      "end": 98.4,
+      "text": " So if you have any questions on India or any other international markets, I would be happy to answer those or track down the answers if I don't know them.",
+      "words": [
+        {
+          "word": " So",
+          "start": 88.96000000000001,
+          "end": 89.42
+        },
+        {
+          "word": " if",
+          "start": 89.42,
+          "end": 89.58
+        },
+        {
+          "word": " you",
+          "start": 89.58,
+          "end": 89.64
+        },
+        {
+          "word": " have",
+          "start": 89.64,
+          "end": 89.88
+        },
+        {
+          "word": " any",
+          "start": 89.88,
+          "end": 90.14
+        },
+        {
+          "word": " questions",
+          "start": 90.14,
+          "end": 90.66
+        },
+        {
+          "word": " on",
+          "start": 90.66,
+          "end": 90.94
+        },
+        {
+          "word": " India",
+          "start": 90.94,
+          "end": 91.36
+        },
+        {
+          "word": " or",
+          "start": 91.36,
+          "end": 92.2
+        },
+        {
+          "word": " any",
+          "start": 92.2,
+          "end": 92.56
+        },
+        {
+          "word": " other",
+          "start": 92.56,
+          "end": 92.78
+        },
+        {
+          "word": " international",
+          "start": 92.78,
+          "end": 93.32
+        },
+        {
+          "word": " markets,",
+          "start": 93.32,
+          "end": 93.78
+        },
+        {
+          "word": " I",
+          "start": 94.0,
+          "end": 94.26
+        },
+        {
+          "word": " would",
+          "start": 94.26,
+          "end": 94.38
+        },
+        {
+          "word": " be",
+          "start": 94.38,
+          "end": 94.5
+        },
+        {
+          "word": " happy",
+          "start": 94.5,
+          "end": 94.78
+        },
+        {
+          "word": " to",
+          "start": 94.78,
+          "end": 94.96
+        },
+        {
+          "word": " answer",
+          "start": 94.96,
+          "end": 95.3
+        },
+        {
+          "word": " those",
+          "start": 95.3,
+          "end": 95.72
+        },
+        {
+          "word": " or",
+          "start": 95.72,
+          "end": 96.38
+        },
+        {
+          "word": " track",
+          "start": 96.38,
+          "end": 96.74
+        },
+        {
+          "word": " down",
+          "start": 96.74,
+          "end": 96.94
+        },
+        {
+          "word": " the",
+          "start": 96.94,
+          "end": 97.08
+        },
+        {
+          "word": " answers",
+          "start": 97.08,
+          "end": 97.46
+        },
+        {
+          "word": " if",
+          "start": 97.46,
+          "end": 97.74
+        },
+        {
+          "word": " I",
+          "start": 97.74,
+          "end": 97.82
+        },
+        {
+          "word": " don't",
+          "start": 97.82,
+          "end": 98.02
+        },
+        {
+          "word": " know",
+          "start": 98.02,
+          "end": 98.18
+        },
+        {
+          "word": " them.",
+          "start": 98.18,
+          "end": 98.4
+        }
+      ]
+    },
+    {
+      "start": 98.4,
+      "end": 100.72,
+      "text": " But I do want to say this.",
+      "words": [
+        {
+          "word": " But",
+          "start": 98.4,
+          "end": 99.54
+        },
+        {
+          "word": " I",
+          "start": 99.54,
+          "end": 99.66
+        },
+        {
+          "word": " do",
+          "start": 99.66,
+          "end": 99.82
+        },
+        {
+          "word": " want",
+          "start": 99.82,
+          "end": 100.0
+        },
+        {
+          "word": " to",
+          "start": 100.0,
+          "end": 100.1
+        },
+        {
+          "word": " say",
+          "start": 100.1,
+          "end": 100.28
+        },
+        {
+          "word": " this.",
+          "start": 100.28,
+          "end": 100.72
+        }
+      ]
+    },
+    {
+      "start": 101.22,
+      "end": 108.26,
+      "text": " That watching from a distance over the past several years, I have been very impressed with the European market.",
+      "words": [
+        {
+          "word": " That",
+          "start": 101.22,
+          "end": 101.72
+        },
+        {
+          "word": " watching",
+          "start": 101.72,
+          "end": 102.08
+        },
+        {
+          "word": " from",
+          "start": 102.08,
+          "end": 102.34
+        },
+        {
+          "word": " a",
+          "start": 102.34,
+          "end": 102.48
+        },
+        {
+          "word": " distance",
+          "start": 102.48,
+          "end": 102.82
+        },
+        {
+          "word": " over",
+          "start": 102.82,
+          "end": 103.08
+        },
+        {
+          "word": " the",
+          "start": 103.08,
+          "end": 103.2
+        },
+        {
+          "word": " past",
+          "start": 103.2,
+          "end": 103.46
+        },
+        {
+          "word": " several",
+          "start": 103.46,
+          "end": 103.8
+        },
+        {
+          "word": " years,",
+          "start": 103.8,
+          "end": 104.26
+        },
+        {
+          "word": " I",
+          "start": 104.62,
+          "end": 105.14
+        },
+        {
+          "word": " have",
+          "start": 105.14,
+          "end": 105.26
+        },
+        {
+          "word": " been",
+          "start": 105.26,
+          "end": 105.42
+        },
+        {
+          "word": " very",
+          "start": 105.42,
+          "end": 105.8
+        },
+        {
+          "word": " impressed",
+          "start": 105.8,
+          "end": 106.58
+        },
+        {
+          "word": " with",
+          "start": 106.58,
+          "end": 107.26
+        },
+        {
+          "word": " the",
+          "start": 107.26,
+          "end": 107.42
+        },
+        {
+          "word": " European",
+          "start": 107.42,
+          "end": 107.74
+        },
+        {
+          "word": " market.",
+          "start": 107.74,
+          "end": 108.26
+        }
+      ]
+    },
+    {
+      "start": 108.66,
+      "end": 112.68,
+      "text": " Your growth, your programs, and especially all of you.",
+      "words": [
+        {
+          "word": " Your",
+          "start": 108.66,
+          "end": 108.98
+        },
+        {
+          "word": " growth,",
+          "start": 108.98,
+          "end": 109.52
+        },
+        {
+          "word": " your",
+          "start": 109.86,
+          "end": 110.16
+        },
+        {
+          "word": " programs,",
+          "start": 110.16,
+          "end": 110.74
+        },
+        {
+          "word": " and",
+          "start": 111.06,
+          "end": 111.36
+        },
+        {
+          "word": " especially",
+          "start": 111.36,
+          "end": 111.88
+        },
+        {
+          "word": " all",
+          "start": 111.88,
+          "end": 112.28
+        },
+        {
+          "word": " of",
+          "start": 112.28,
+          "end": 112.48
+        },
+        {
+          "word": " you.",
+          "start": 112.48,
+          "end": 112.68
+        }
+      ]
+    },
+    {
+      "start": 113.72,
+      "end": 123.88,
+      "text": " In fact, as we launched in India, we have used the Romanian market as an example of what strong growth in the European market has been.",
+      "words": [
+        {
+          "word": " In",
+          "start": 113.72,
+          "end": 114.04
+        },
+        {
+          "word": " fact,",
+          "start": 114.04,
+          "end": 114.42
+        },
+        {
+          "word": " as",
+          "start": 114.74,
+          "end": 115.3
+        },
+        {
+          "word": " we",
+          "start": 115.3,
+          "end": 115.48
+        },
+        {
+          "word": " launched",
+          "start": 115.48,
+          "end": 115.92
+        },
+        {
+          "word": " in",
+          "start": 115.92,
+          "end": 116.14
+        },
+        {
+          "word": " India,",
+          "start": 116.14,
+          "end": 116.48
+        },
+        {
+          "word": " we",
+          "start": 116.92,
+          "end": 117.48
+        },
+        {
+          "word": " have",
+          "start": 117.48,
+          "end": 117.66
+        },
+        {
+          "word": " used",
+          "start": 117.66,
+          "end": 117.9
+        },
+        {
+          "word": " the",
+          "start": 117.9,
+          "end": 118.04
+        },
+        {
+          "word": " Romanian",
+          "start": 118.04,
+          "end": 118.52
+        },
+        {
+          "word": " market",
+          "start": 118.52,
+          "end": 119.04
+        },
+        {
+          "word": " as",
+          "start": 119.04,
+          "end": 119.34
+        },
+        {
+          "word": " an",
+          "start": 119.34,
+          "end": 119.48
+        },
+        {
+          "word": " example",
+          "start": 119.48,
+          "end": 120.02
+        },
+        {
+          "word": " of",
+          "start": 120.02,
+          "end": 120.74
+        },
+        {
+          "word": " what",
+          "start": 120.74,
+          "end": 120.96
+        },
+        {
+          "word": " strong",
+          "start": 120.96,
+          "end": 121.38
+        },
+        {
+          "word": " growth",
+          "start": 121.38,
+          "end": 122.04
+        },
+        {
+          "word": " in",
+          "start": 122.04,
+          "end": 122.46
+        },
+        {
+          "word": " the",
+          "start": 122.46,
+          "end": 122.64
+        },
+        {
+          "word": " European",
+          "start": 122.64,
+          "end": 122.96
+        },
+        {
+          "word": " market",
+          "start": 122.96,
+          "end": 123.28
+        },
+        {
+          "word": " has",
+          "start": 123.28,
+          "end": 123.88
+        },
+        {
+          "word": " been.",
+          "start": 123.88,
+          "end": 123.88
+        }
+      ]
+    },
+    {
+      "start": 126.75999999999999,
+      "end": 132.58,
+      "text": " So I think about this. There are about 19 million people in Romania.",
+      "words": [
+        {
+          "word": " So",
+          "start": 126.75999999999999,
+          "end": 127.52
+        },
+        {
+          "word": " I",
+          "start": 127.52,
+          "end": 127.98
+        },
+        {
+          "word": " think",
+          "start": 127.98,
+          "end": 128.22
+        },
+        {
+          "word": " about",
+          "start": 128.22,
+          "end": 128.48
+        },
+        {
+          "word": " this.",
+          "start": 128.48,
+          "end": 128.94
+        },
+        {
+          "word": " There",
+          "start": 129.3,
+          "end": 129.8
+        },
+        {
+          "word": " are",
+          "start": 129.8,
+          "end": 130.06
+        },
+        {
+          "word": " about",
+          "start": 130.06,
+          "end": 130.34
+        },
+        {
+          "word": " 19",
+          "start": 130.34,
+          "end": 131.12
+        },
+        {
+          "word": " million",
+          "start": 131.12,
+          "end": 131.5
+        },
+        {
+          "word": " people",
+          "start": 131.5,
+          "end": 131.96
+        },
+        {
+          "word": " in",
+          "start": 131.96,
+          "end": 132.2
+        },
+        {
+          "word": " Romania.",
+          "start": 132.2,
+          "end": 132.58
+        }
+      ]
+    },
+    {
+      "start": 133.04,
+      "end": 138.22,
+      "text": " And over 50 diamonds. I think that's still growing, right? Amazing.",
+      "words": [
+        {
+          "word": " And",
+          "start": 133.04,
+          "end": 133.78
+        },
+        {
+          "word": " over",
+          "start": 133.78,
+          "end": 134.16
+        },
+        {
+          "word": " 50",
+          "start": 134.16,
+          "end": 134.62
+        },
+        {
+          "word": " diamonds.",
+          "start": 134.62,
+          "end": 135.16
+        },
+        {
+          "word": " I",
+          "start": 135.58,
+          "end": 135.74
+        },
+        {
+          "word": " think",
+          "start": 135.74,
+          "end": 135.86
+        },
+        {
+          "word": " that's",
+          "start": 135.86,
+          "end": 136.14
+        },
+        {
+          "word": " still",
+          "start": 136.14,
+          "end": 136.38
+        },
+        {
+          "word": " growing,",
+          "start": 136.38,
+          "end": 136.74
+        },
+        {
+          "word": " right?",
+          "start": 136.88,
+          "end": 137.02
+        },
+        {
+          "word": " Amazing.",
+          "start": 137.46,
+          "end": 138.22
+        }
+      ]
+    },
+    {
+      "start": 138.82,
+      "end": 148.26,
+      "text": " So with 1.4 billion people, it will be exciting to see how the India market develops over time.",
+      "words": [
+        {
+          "word": " So",
+          "start": 138.82,
+          "end": 139.58
+        },
+        {
+          "word": " with",
+          "start": 139.58,
+          "end": 140.06
+        },
+        {
+          "word": " 1",
+          "start": 140.06,
+          "end": 140.44
+        },
+        {
+          "word": ".4",
+          "start": 140.44,
+          "end": 141.42
+        },
+        {
+          "word": " billion",
+          "start": 141.42,
+          "end": 142.5
+        },
+        {
+          "word": " people,",
+          "start": 142.5,
+          "end": 143.78
+        },
+        {
+          "word": " it",
+          "start": 144.22,
+          "end": 144.72
+        },
+        {
+          "word": " will",
+          "start": 144.72,
+          "end": 144.86
+        },
+        {
+          "word": " be",
+          "start": 144.86,
+          "end": 145.0
+        },
+        {
+          "word": " exciting",
+          "start": 145.0,
+          "end": 145.44
+        },
+        {
+          "word": " to",
+          "start": 145.44,
+          "end": 145.7
+        },
+        {
+          "word": " see",
+          "start": 145.7,
+          "end": 145.9
+        },
+        {
+          "word": " how",
+          "start": 145.9,
+          "end": 146.12
+        },
+        {
+          "word": " the",
+          "start": 146.12,
+          "end": 146.32
+        },
+        {
+          "word": " India",
+          "start": 146.32,
+          "end": 146.7
+        },
+        {
+          "word": " market",
+          "start": 146.7,
+          "end": 147.1
+        },
+        {
+          "word": " develops",
+          "start": 147.1,
+          "end": 147.64
+        },
+        {
+          "word": " over",
+          "start": 147.64,
+          "end": 147.88
+        },
+        {
+          "word": " time.",
+          "start": 147.88,
+          "end": 148.26
+        }
+      ]
+    },
+    {
+      "start": 148.26,
+      "end": 152.8,
+      "text": " So thank you for setting the bar high for everyone to follow.",
+      "words": [
+        {
+          "word": " So",
+          "start": 148.26,
+          "end": 149.4
+        },
+        {
+          "word": " thank",
+          "start": 149.4,
+          "end": 149.7
+        },
+        {
+          "word": " you",
+          "start": 149.7,
+          "end": 149.96
+        },
+        {
+          "word": " for",
+          "start": 149.96,
+          "end": 150.18
+        },
+        {
+          "word": " setting",
+          "start": 150.18,
+          "end": 150.46
+        },
+        {
+          "word": " the",
+          "start": 150.46,
+          "end": 150.66
+        },
+        {
+          "word": " bar",
+          "start": 150.66,
+          "end": 150.92
+        },
+        {
+          "word": " high",
+          "start": 150.92,
+          "end": 151.36
+        },
+        {
+          "word": " for",
+          "start": 151.36,
+          "end": 151.94
+        },
+        {
+          "word": " everyone",
+          "start": 151.94,
+          "end": 152.28
+        },
+        {
+          "word": " to",
+          "start": 152.28,
+          "end": 152.46
+        },
+        {
+          "word": " follow.",
+          "start": 152.46,
+          "end": 152.8
+        }
+      ]
+    },
+    {
+      "start": 162.18,
+      "end": 165.7,
+      "text": " Okay, so this slide right here, this is not a mistake.",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 162.18,
+          "end": 162.8
+        },
+        {
+          "word": " so",
+          "start": 163.08,
+          "end": 163.16
+        },
+        {
+          "word": " this",
+          "start": 163.16,
+          "end": 163.54
+        },
+        {
+          "word": " slide",
+          "start": 163.54,
+          "end": 163.86
+        },
+        {
+          "word": " right",
+          "start": 163.86,
+          "end": 164.06
+        },
+        {
+          "word": " here,",
+          "start": 164.06,
+          "end": 164.36
+        },
+        {
+          "word": " this",
+          "start": 164.52,
+          "end": 164.78
+        },
+        {
+          "word": " is",
+          "start": 164.78,
+          "end": 164.9
+        },
+        {
+          "word": " not",
+          "start": 164.9,
+          "end": 165.12
+        },
+        {
+          "word": " a",
+          "start": 165.12,
+          "end": 165.28
+        },
+        {
+          "word": " mistake.",
+          "start": 165.28,
+          "end": 165.7
+        }
+      ]
+    },
+    {
+      "start": 166.5,
+      "end": 170.44,
+      "text": " Marketing did not forget to doTERRAize this slide.",
+      "words": [
+        {
+          "word": " Marketing",
+          "start": 166.5,
+          "end": 167.12
+        },
+        {
+          "word": " did",
+          "start": 167.12,
+          "end": 167.46
+        },
+        {
+          "word": " not",
+          "start": 167.46,
+          "end": 167.74
+        },
+        {
+          "word": " forget",
+          "start": 167.74,
+          "end": 168.14
+        },
+        {
+          "word": " to",
+          "start": 168.14,
+          "end": 168.42
+        },
+        {
+          "word": " doTERRAize",
+          "start": 168.42,
+          "end": 169.4
+        },
+        {
+          "word": " this",
+          "start": 169.4,
+          "end": 170.04
+        },
+        {
+          "word": " slide.",
+          "start": 170.04,
+          "end": 170.44
+        }
+      ]
+    },
+    {
+      "start": 170.44,
+      "end": 178.18,
+      "text": " But the thoughts I want to share with you today focus on leadership, and specifically leadership inside of doTERRA.",
+      "words": [
+        {
+          "word": " But",
+          "start": 170.44,
+          "end": 171.54
+        },
+        {
+          "word": " the",
+          "start": 171.54,
+          "end": 171.7
+        },
+        {
+          "word": " thoughts",
+          "start": 171.7,
+          "end": 171.98
+        },
+        {
+          "word": " I",
+          "start": 171.98,
+          "end": 172.12
+        },
+        {
+          "word": " want",
+          "start": 172.12,
+          "end": 172.28
+        },
+        {
+          "word": " to",
+          "start": 172.28,
+          "end": 172.4
+        },
+        {
+          "word": " share",
+          "start": 172.4,
+          "end": 172.56
+        },
+        {
+          "word": " with",
+          "start": 172.56,
+          "end": 172.74
+        },
+        {
+          "word": " you",
+          "start": 172.74,
+          "end": 172.84
+        },
+        {
+          "word": " today",
+          "start": 172.84,
+          "end": 173.12
+        },
+        {
+          "word": " focus",
+          "start": 173.12,
+          "end": 173.86
+        },
+        {
+          "word": " on",
+          "start": 173.86,
+          "end": 174.18
+        },
+        {
+          "word": " leadership,",
+          "start": 174.18,
+          "end": 174.68
+        },
+        {
+          "word": " and",
+          "start": 175.08,
+          "end": 175.64
+        },
+        {
+          "word": " specifically",
+          "start": 175.64,
+          "end": 176.34
+        },
+        {
+          "word": " leadership",
+          "start": 176.34,
+          "end": 177.0
+        },
+        {
+          "word": " inside",
+          "start": 177.0,
+          "end": 177.52
+        },
+        {
+          "word": " of",
+          "start": 177.52,
+          "end": 177.68
+        },
+        {
+          "word": " doTERRA.",
+          "start": 177.68,
+          "end": 178.18
+        }
+      ]
+    },
+    {
+      "start": 178.8,
+      "end": 187.02,
+      "text": " In other direct selling companies, and in the world in general, leadership can be many different things and can show up in different ways.",
+      "words": [
+        {
+          "word": " In",
+          "start": 178.8,
+          "end": 179.36
+        },
+        {
+          "word": " other",
+          "start": 179.36,
+          "end": 179.58
+        },
+        {
+          "word": " direct",
+          "start": 179.58,
+          "end": 179.86
+        },
+        {
+          "word": " selling",
+          "start": 179.86,
+          "end": 180.14
+        },
+        {
+          "word": " companies,",
+          "start": 180.14,
+          "end": 180.74
+        },
+        {
+          "word": " and",
+          "start": 180.94,
+          "end": 181.38
+        },
+        {
+          "word": " in",
+          "start": 181.38,
+          "end": 181.5
+        },
+        {
+          "word": " the",
+          "start": 181.5,
+          "end": 181.6
+        },
+        {
+          "word": " world",
+          "start": 181.6,
+          "end": 181.82
+        },
+        {
+          "word": " in",
+          "start": 181.82,
+          "end": 182.02
+        },
+        {
+          "word": " general,",
+          "start": 182.02,
+          "end": 182.42
+        },
+        {
+          "word": " leadership",
+          "start": 183.14,
+          "end": 183.6
+        },
+        {
+          "word": " can",
+          "start": 183.6,
+          "end": 183.86
+        },
+        {
+          "word": " be",
+          "start": 183.86,
+          "end": 183.98
+        },
+        {
+          "word": " many",
+          "start": 183.98,
+          "end": 184.22
+        },
+        {
+          "word": " different",
+          "start": 184.22,
+          "end": 184.52
+        },
+        {
+          "word": " things",
+          "start": 184.52,
+          "end": 185.02
+        },
+        {
+          "word": " and",
+          "start": 185.02,
+          "end": 185.58
+        },
+        {
+          "word": " can",
+          "start": 185.58,
+          "end": 185.76
+        },
+        {
+          "word": " show",
+          "start": 185.76,
+          "end": 186.04
+        },
+        {
+          "word": " up",
+          "start": 186.04,
+          "end": 186.24
+        },
+        {
+          "word": " in",
+          "start": 186.24,
+          "end": 186.36
+        },
+        {
+          "word": " different",
+          "start": 186.36,
+          "end": 186.58
+        },
+        {
+          "word": " ways.",
+          "start": 186.58,
+          "end": 187.02
+        }
+      ]
+    },
+    {
+      "start": 187.46,
+      "end": 189.56,
+      "text": " Some good, some bad.",
+      "words": [
+        {
+          "word": " Some",
+          "start": 187.46,
+          "end": 188.02
+        },
+        {
+          "word": " good,",
+          "start": 188.02,
+          "end": 188.38
+        },
+        {
+          "word": " some",
+          "start": 188.7,
+          "end": 189.24
+        },
+        {
+          "word": " bad.",
+          "start": 189.24,
+          "end": 189.56
+        }
+      ]
+    },
+    {
+      "start": 190.62,
+      "end": 194.92,
+      "text": " You may have heard the phrase, a picture is worth a thousand words.",
+      "words": [
+        {
+          "word": " You",
+          "start": 190.62,
+          "end": 191.18
+        },
+        {
+          "word": " may",
+          "start": 191.18,
+          "end": 191.36
+        },
+        {
+          "word": " have",
+          "start": 191.36,
+          "end": 191.58
+        },
+        {
+          "word": " heard",
+          "start": 191.58,
+          "end": 191.8
+        },
+        {
+          "word": " the",
+          "start": 191.8,
+          "end": 192.0
+        },
+        {
+          "word": " phrase,",
+          "start": 192.0,
+          "end": 192.54
+        },
+        {
+          "word": " a",
+          "start": 192.8,
+          "end": 193.42
+        },
+        {
+          "word": " picture",
+          "start": 193.42,
+          "end": 193.74
+        },
+        {
+          "word": " is",
+          "start": 193.74,
+          "end": 193.92
+        },
+        {
+          "word": " worth",
+          "start": 193.92,
+          "end": 194.1
+        },
+        {
+          "word": " a",
+          "start": 194.1,
+          "end": 194.26
+        },
+        {
+          "word": " thousand",
+          "start": 194.26,
+          "end": 194.52
+        },
+        {
+          "word": " words.",
+          "start": 194.52,
+          "end": 194.92
+        }
+      ]
+    },
+    {
+      "start": 194.92,
+      "end": 196.08,
+      "text": " Have you heard that?",
+      "words": [
+        {
+          "word": " Have",
+          "start": 194.92,
+          "end": 195.54
+        },
+        {
+          "word": " you",
+          "start": 195.54,
+          "end": 195.62
+        },
+        {
+          "word": " heard",
+          "start": 195.62,
+          "end": 195.78
+        },
+        {
+          "word": " that?",
+          "start": 195.78,
+          "end": 196.08
+        }
+      ]
+    },
+    {
+      "start": 197.5,
+      "end": 200.02,
+      "text": " Maybe that's just an American saying.",
+      "words": [
+        {
+          "word": " Maybe",
+          "start": 197.5,
+          "end": 198.14
+        },
+        {
+          "word": " that's",
+          "start": 198.14,
+          "end": 198.4
+        },
+        {
+          "word": " just",
+          "start": 198.4,
+          "end": 198.58
+        },
+        {
+          "word": " an",
+          "start": 198.58,
+          "end": 199.16
+        },
+        {
+          "word": " American",
+          "start": 199.16,
+          "end": 199.64
+        },
+        {
+          "word": " saying.",
+          "start": 199.64,
+          "end": 200.02
+        }
+      ]
+    },
+    {
+      "start": 200.42,
+      "end": 203.34,
+      "text": " Anyways, a picture is worth a thousand words.",
+      "words": [
+        {
+          "word": " Anyways,",
+          "start": 200.42,
+          "end": 200.98
+        },
+        {
+          "word": " a",
+          "start": 201.34,
+          "end": 201.54
+        },
+        {
+          "word": " picture",
+          "start": 201.54,
+          "end": 201.98
+        },
+        {
+          "word": " is",
+          "start": 201.98,
+          "end": 202.32
+        },
+        {
+          "word": " worth",
+          "start": 202.32,
+          "end": 202.52
+        },
+        {
+          "word": " a",
+          "start": 202.52,
+          "end": 202.7
+        },
+        {
+          "word": " thousand",
+          "start": 202.7,
+          "end": 202.96
+        },
+        {
+          "word": " words.",
+          "start": 202.96,
+          "end": 203.34
+        }
+      ]
+    },
+    {
+      "start": 203.94,
+      "end": 213.3,
+      "text": " So I'm going to show you a picture that I took personally, that to me, screams leadership, and maybe a lack of leadership.",
+      "words": [
+        {
+          "word": " So",
+          "start": 203.94,
+          "end": 204.58
+        },
+        {
+          "word": " I'm",
+          "start": 204.58,
+          "end": 204.88
+        },
+        {
+          "word": " going",
+          "start": 204.88,
+          "end": 205.08
+        },
+        {
+          "word": " to",
+          "start": 205.08,
+          "end": 205.24
+        },
+        {
+          "word": " show",
+          "start": 205.24,
+          "end": 205.46
+        },
+        {
+          "word": " you",
+          "start": 205.46,
+          "end": 205.62
+        },
+        {
+          "word": " a",
+          "start": 205.62,
+          "end": 205.76
+        },
+        {
+          "word": " picture",
+          "start": 205.76,
+          "end": 206.08
+        },
+        {
+          "word": " that",
+          "start": 206.08,
+          "end": 206.26
+        },
+        {
+          "word": " I",
+          "start": 206.26,
+          "end": 206.42
+        },
+        {
+          "word": " took",
+          "start": 206.42,
+          "end": 206.7
+        },
+        {
+          "word": " personally,",
+          "start": 206.7,
+          "end": 207.28
+        },
+        {
+          "word": " that",
+          "start": 207.28,
+          "end": 207.96
+        },
+        {
+          "word": " to",
+          "start": 207.96,
+          "end": 208.14
+        },
+        {
+          "word": " me,",
+          "start": 208.14,
+          "end": 208.7
+        },
+        {
+          "word": " screams",
+          "start": 209.0,
+          "end": 209.74
+        },
+        {
+          "word": " leadership,",
+          "start": 209.74,
+          "end": 210.3
+        },
+        {
+          "word": " and",
+          "start": 210.66,
+          "end": 211.4
+        },
+        {
+          "word": " maybe",
+          "start": 211.4,
+          "end": 211.86
+        },
+        {
+          "word": " a",
+          "start": 211.86,
+          "end": 212.24
+        },
+        {
+          "word": " lack",
+          "start": 212.24,
+          "end": 212.6
+        },
+        {
+          "word": " of",
+          "start": 212.6,
+          "end": 212.78
+        },
+        {
+          "word": " leadership.",
+          "start": 212.78,
+          "end": 213.3
+        }
+      ]
+    },
+    {
+      "start": 215.28,
+      "end": 218.28,
+      "text": " Okay, so let me tell you the story behind this picture.",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 215.28,
+          "end": 215.92
+        },
+        {
+          "word": " so",
+          "start": 216.1,
+          "end": 216.22
+        },
+        {
+          "word": " let",
+          "start": 216.22,
+          "end": 216.38
+        },
+        {
+          "word": " me",
+          "start": 216.38,
+          "end": 216.52
+        },
+        {
+          "word": " tell",
+          "start": 216.52,
+          "end": 216.72
+        },
+        {
+          "word": " you",
+          "start": 216.72,
+          "end": 216.8
+        },
+        {
+          "word": " the",
+          "start": 216.8,
+          "end": 216.98
+        },
+        {
+          "word": " story",
+          "start": 216.98,
+          "end": 217.34
+        },
+        {
+          "word": " behind",
+          "start": 217.34,
+          "end": 217.66
+        },
+        {
+          "word": " this",
+          "start": 217.66,
+          "end": 217.92
+        },
+        {
+          "word": " picture.",
+          "start": 217.92,
+          "end": 218.28
+        }
+      ]
+    },
+    {
+      "start": 219.28,
+      "end": 226.34,
+      "text": " Early one morning, in a rural part of Utah, I was out with my father-in-law doing chores.",
+      "words": [
+        {
+          "word": " Early",
+          "start": 219.28,
+          "end": 219.88
+        },
+        {
+          "word": " one",
+          "start": 219.88,
+          "end": 220.12
+        },
+        {
+          "word": " morning,",
+          "start": 220.12,
+          "end": 220.54
+        },
+        {
+          "word": " in",
+          "start": 220.72,
+          "end": 221.38
+        },
+        {
+          "word": " a",
+          "start": 221.38,
+          "end": 222.12
+        },
+        {
+          "word": " rural",
+          "start": 222.12,
+          "end": 222.38
+        },
+        {
+          "word": " part",
+          "start": 222.38,
+          "end": 222.64
+        },
+        {
+          "word": " of",
+          "start": 222.64,
+          "end": 222.78
+        },
+        {
+          "word": " Utah,",
+          "start": 222.78,
+          "end": 223.06
+        },
+        {
+          "word": " I",
+          "start": 223.66,
+          "end": 224.36
+        },
+        {
+          "word": " was",
+          "start": 224.36,
+          "end": 224.52
+        },
+        {
+          "word": " out",
+          "start": 224.52,
+          "end": 224.66
+        },
+        {
+          "word": " with",
+          "start": 224.66,
+          "end": 224.82
+        },
+        {
+          "word": " my",
+          "start": 224.82,
+          "end": 224.98
+        },
+        {
+          "word": " father",
+          "start": 224.98,
+          "end": 225.34
+        },
+        {
+          "word": "-in",
+          "start": 225.34,
+          "end": 225.52
+        },
+        {
+          "word": "-law",
+          "start": 225.52,
+          "end": 225.64
+        },
+        {
+          "word": " doing",
+          "start": 225.64,
+          "end": 225.94
+        },
+        {
+          "word": " chores.",
+          "start": 225.94,
+          "end": 226.34
+        }
+      ]
+    },
+    {
+      "start": 226.76,
+      "end": 227.72,
+      "text": " He's a farmer.",
+      "words": [
+        {
+          "word": " He's",
+          "start": 226.76,
+          "end": 227.24
+        },
+        {
+          "word": " a",
+          "start": 227.24,
+          "end": 227.34
+        },
+        {
+          "word": " farmer.",
+          "start": 227.34,
+          "end": 227.72
+        }
+      ]
+    },
+    {
+      "start": 228.26,
+      "end": 234.96,
+      "text": " We were driving down this dirt road, and in the distance, I could see something walking the road.",
+      "words": [
+        {
+          "word": " We",
+          "start": 228.26,
+          "end": 228.74
+        },
+        {
+          "word": " were",
+          "start": 228.74,
+          "end": 228.9
+        },
+        {
+          "word": " driving",
+          "start": 228.9,
+          "end": 229.28
+        },
+        {
+          "word": " down",
+          "start": 229.28,
+          "end": 229.56
+        },
+        {
+          "word": " this",
+          "start": 229.56,
+          "end": 229.82
+        },
+        {
+          "word": " dirt",
+          "start": 229.82,
+          "end": 230.04
+        },
+        {
+          "word": " road,",
+          "start": 230.04,
+          "end": 230.46
+        },
+        {
+          "word": " and",
+          "start": 230.68,
+          "end": 231.52
+        },
+        {
+          "word": " in",
+          "start": 231.52,
+          "end": 231.72
+        },
+        {
+          "word": " the",
+          "start": 231.72,
+          "end": 231.9
+        },
+        {
+          "word": " distance,",
+          "start": 231.9,
+          "end": 232.4
+        },
+        {
+          "word": " I",
+          "start": 232.4,
+          "end": 232.92
+        },
+        {
+          "word": " could",
+          "start": 232.92,
+          "end": 233.14
+        },
+        {
+          "word": " see",
+          "start": 233.14,
+          "end": 233.44
+        },
+        {
+          "word": " something",
+          "start": 233.44,
+          "end": 233.96
+        },
+        {
+          "word": " walking",
+          "start": 233.96,
+          "end": 234.44
+        },
+        {
+          "word": " the",
+          "start": 234.44,
+          "end": 234.66
+        },
+        {
+          "word": " road.",
+          "start": 234.66,
+          "end": 234.96
+        }
+      ]
+    },
+    {
+      "start": 236.36,
+      "end": 239.62,
+      "text": " As we got closer, I was amazed at what we found.",
+      "words": [
+        {
+          "word": " As",
+          "start": 236.36,
+          "end": 236.96
+        },
+        {
+          "word": " we",
+          "start": 236.96,
+          "end": 237.1
+        },
+        {
+          "word": " got",
+          "start": 237.1,
+          "end": 237.28
+        },
+        {
+          "word": " closer,",
+          "start": 237.28,
+          "end": 237.74
+        },
+        {
+          "word": " I",
+          "start": 237.76,
+          "end": 238.22
+        },
+        {
+          "word": " was",
+          "start": 238.22,
+          "end": 238.4
+        },
+        {
+          "word": " amazed",
+          "start": 238.4,
+          "end": 238.84
+        },
+        {
+          "word": " at",
+          "start": 238.84,
+          "end": 239.02
+        },
+        {
+          "word": " what",
+          "start": 239.02,
+          "end": 239.16
+        },
+        {
+          "word": " we",
+          "start": 239.16,
+          "end": 239.3
+        },
+        {
+          "word": " found.",
+          "start": 239.3,
+          "end": 239.62
+        }
+      ]
+    },
+    {
+      "start": 240.48000000000002,
+      "end": 244.2,
+      "text": " These sheep had gotten stuck in a cattle guard.",
+      "words": [
+        {
+          "word": " These",
+          "start": 240.48000000000002,
+          "end": 241.08
+        },
+        {
+          "word": " sheep",
+          "start": 241.08,
+          "end": 241.6
+        },
+        {
+          "word": " had",
+          "start": 241.6,
+          "end": 242.6
+        },
+        {
+          "word": " gotten",
+          "start": 242.6,
+          "end": 242.88
+        },
+        {
+          "word": " stuck",
+          "start": 242.88,
+          "end": 243.26
+        },
+        {
+          "word": " in",
+          "start": 243.26,
+          "end": 243.46
+        },
+        {
+          "word": " a",
+          "start": 243.46,
+          "end": 243.56
+        },
+        {
+          "word": " cattle",
+          "start": 243.56,
+          "end": 243.86
+        },
+        {
+          "word": " guard.",
+          "start": 243.86,
+          "end": 244.2
+        }
+      ]
+    },
+    {
+      "start": 245.16,
+      "end": 253.72,
+      "text": " Now, if you don't know what a cattle guard is, there are metal bars that go across the road that will allow cars and trucks to pass,",
+      "words": [
+        {
+          "word": " Now,",
+          "start": 245.16,
+          "end": 245.7
+        },
+        {
+          "word": " if",
+          "start": 245.76,
+          "end": 245.88
+        },
+        {
+          "word": " you",
+          "start": 245.88,
+          "end": 245.96
+        },
+        {
+          "word": " don't",
+          "start": 245.96,
+          "end": 246.18
+        },
+        {
+          "word": " know",
+          "start": 246.18,
+          "end": 246.32
+        },
+        {
+          "word": " what",
+          "start": 246.32,
+          "end": 246.42
+        },
+        {
+          "word": " a",
+          "start": 246.42,
+          "end": 246.56
+        },
+        {
+          "word": " cattle",
+          "start": 246.56,
+          "end": 246.82
+        },
+        {
+          "word": " guard",
+          "start": 246.82,
+          "end": 247.08
+        },
+        {
+          "word": " is,",
+          "start": 247.08,
+          "end": 247.56
+        },
+        {
+          "word": " there",
+          "start": 247.92,
+          "end": 248.5
+        },
+        {
+          "word": " are",
+          "start": 248.5,
+          "end": 248.66
+        },
+        {
+          "word": " metal",
+          "start": 248.66,
+          "end": 248.98
+        },
+        {
+          "word": " bars",
+          "start": 248.98,
+          "end": 249.46
+        },
+        {
+          "word": " that",
+          "start": 249.46,
+          "end": 249.68
+        },
+        {
+          "word": " go",
+          "start": 249.68,
+          "end": 249.86
+        },
+        {
+          "word": " across",
+          "start": 249.86,
+          "end": 250.26
+        },
+        {
+          "word": " the",
+          "start": 250.26,
+          "end": 250.48
+        },
+        {
+          "word": " road",
+          "start": 250.48,
+          "end": 250.8
+        },
+        {
+          "word": " that",
+          "start": 250.8,
+          "end": 251.52
+        },
+        {
+          "word": " will",
+          "start": 251.52,
+          "end": 251.72
+        },
+        {
+          "word": " allow",
+          "start": 251.72,
+          "end": 252.14
+        },
+        {
+          "word": " cars",
+          "start": 252.14,
+          "end": 252.56
+        },
+        {
+          "word": " and",
+          "start": 252.56,
+          "end": 252.74
+        },
+        {
+          "word": " trucks",
+          "start": 252.74,
+          "end": 252.98
+        },
+        {
+          "word": " to",
+          "start": 252.98,
+          "end": 253.2
+        },
+        {
+          "word": " pass,",
+          "start": 253.2,
+          "end": 253.72
+        }
+      ]
+    },
+    {
+      "start": 253.78,
+      "end": 261.1,
+      "text": " but when animals come up, they cannot cross because underneath the metal bars, it's empty.",
+      "words": [
+        {
+          "word": " but",
+          "start": 253.78,
+          "end": 254.4
+        },
+        {
+          "word": " when",
+          "start": 254.4,
+          "end": 254.62
+        },
+        {
+          "word": " animals",
+          "start": 254.62,
+          "end": 255.24
+        },
+        {
+          "word": " come",
+          "start": 255.24,
+          "end": 255.62
+        },
+        {
+          "word": " up,",
+          "start": 255.62,
+          "end": 255.96
+        },
+        {
+          "word": " they",
+          "start": 256.14,
+          "end": 256.62
+        },
+        {
+          "word": " cannot",
+          "start": 256.62,
+          "end": 256.9
+        },
+        {
+          "word": " cross",
+          "start": 256.9,
+          "end": 257.46
+        },
+        {
+          "word": " because",
+          "start": 257.46,
+          "end": 257.8
+        },
+        {
+          "word": " underneath",
+          "start": 257.8,
+          "end": 258.52
+        },
+        {
+          "word": " the",
+          "start": 258.52,
+          "end": 258.78
+        },
+        {
+          "word": " metal",
+          "start": 258.78,
+          "end": 258.98
+        },
+        {
+          "word": " bars,",
+          "start": 258.98,
+          "end": 259.48
+        },
+        {
+          "word": " it's",
+          "start": 259.66,
+          "end": 260.68
+        },
+        {
+          "word": " empty.",
+          "start": 260.68,
+          "end": 261.1
+        }
+      ]
+    },
+    {
+      "start": 261.3,
+      "end": 262.38,
+      "text": " There's a hole in the ground.",
+      "words": [
+        {
+          "word": " There's",
+          "start": 261.3,
+          "end": 261.5
+        },
+        {
+          "word": " a",
+          "start": 261.5,
+          "end": 261.6
+        },
+        {
+          "word": " hole",
+          "start": 261.6,
+          "end": 261.86
+        },
+        {
+          "word": " in",
+          "start": 261.86,
+          "end": 262.02
+        },
+        {
+          "word": " the",
+          "start": 262.02,
+          "end": 262.1
+        },
+        {
+          "word": " ground.",
+          "start": 262.1,
+          "end": 262.38
+        }
+      ]
+    },
+    {
+      "start": 263.46,
+      "end": 266.18,
+      "text": " So cows, cows are smart.",
+      "words": [
+        {
+          "word": " So",
+          "start": 263.46,
+          "end": 264.0
+        },
+        {
+          "word": " cows,",
+          "start": 264.0,
+          "end": 264.54
+        },
+        {
+          "word": " cows",
+          "start": 265.16,
+          "end": 265.52
+        },
+        {
+          "word": " are",
+          "start": 265.52,
+          "end": 265.68
+        },
+        {
+          "word": " smart.",
+          "start": 265.68,
+          "end": 266.18
+        }
+      ]
+    },
+    {
+      "start": 266.18,
+      "end": 267.84,
+      "text": " They never try to cross.",
+      "words": [
+        {
+          "word": " They",
+          "start": 266.18,
+          "end": 266.64
+        },
+        {
+          "word": " never",
+          "start": 266.64,
+          "end": 266.98
+        },
+        {
+          "word": " try",
+          "start": 266.98,
+          "end": 267.24
+        },
+        {
+          "word": " to",
+          "start": 267.24,
+          "end": 267.38
+        },
+        {
+          "word": " cross.",
+          "start": 267.38,
+          "end": 267.84
+        }
+      ]
+    },
+    {
+      "start": 268.72,
+      "end": 275.32,
+      "text": " Most sheep are smart enough, but it only takes one, if you know sheep.",
+      "words": [
+        {
+          "word": " Most",
+          "start": 268.72,
+          "end": 269.4
+        },
+        {
+          "word": " sheep",
+          "start": 269.4,
+          "end": 269.94
+        },
+        {
+          "word": " are",
+          "start": 269.94,
+          "end": 270.62
+        },
+        {
+          "word": " smart",
+          "start": 270.62,
+          "end": 270.94
+        },
+        {
+          "word": " enough,",
+          "start": 270.94,
+          "end": 271.36
+        },
+        {
+          "word": " but",
+          "start": 271.62,
+          "end": 272.28
+        },
+        {
+          "word": " it",
+          "start": 272.28,
+          "end": 272.46
+        },
+        {
+          "word": " only",
+          "start": 272.46,
+          "end": 272.74
+        },
+        {
+          "word": " takes",
+          "start": 272.74,
+          "end": 273.16
+        },
+        {
+          "word": " one,",
+          "start": 273.16,
+          "end": 273.66
+        },
+        {
+          "word": " if",
+          "start": 274.0,
+          "end": 274.66
+        },
+        {
+          "word": " you",
+          "start": 274.66,
+          "end": 274.78
+        },
+        {
+          "word": " know",
+          "start": 274.78,
+          "end": 274.98
+        },
+        {
+          "word": " sheep.",
+          "start": 274.98,
+          "end": 275.32
+        }
+      ]
+    },
+    {
+      "start": 275.86,
+      "end": 278.74,
+      "text": " So look at this picture really closely for a second.",
+      "words": [
+        {
+          "word": " So",
+          "start": 275.86,
+          "end": 276.28
+        },
+        {
+          "word": " look",
+          "start": 276.28,
+          "end": 276.6
+        },
+        {
+          "word": " at",
+          "start": 276.6,
+          "end": 276.74
+        },
+        {
+          "word": " this",
+          "start": 276.74,
+          "end": 276.94
+        },
+        {
+          "word": " picture",
+          "start": 276.94,
+          "end": 277.32
+        },
+        {
+          "word": " really",
+          "start": 277.32,
+          "end": 277.62
+        },
+        {
+          "word": " closely",
+          "start": 277.62,
+          "end": 278.02
+        },
+        {
+          "word": " for",
+          "start": 278.02,
+          "end": 278.3
+        },
+        {
+          "word": " a",
+          "start": 278.3,
+          "end": 278.42
+        },
+        {
+          "word": " second.",
+          "start": 278.42,
+          "end": 278.74
+        }
+      ]
+    },
+    {
+      "start": 279.32,
+      "end": 280.96,
+      "text": " What sticks out to you?",
+      "words": [
+        {
+          "word": " What",
+          "start": 279.32,
+          "end": 280.0
+        },
+        {
+          "word": " sticks",
+          "start": 280.0,
+          "end": 280.32
+        },
+        {
+          "word": " out",
+          "start": 280.32,
+          "end": 280.56
+        },
+        {
+          "word": " to",
+          "start": 280.56,
+          "end": 280.74
+        },
+        {
+          "word": " you?",
+          "start": 280.74,
+          "end": 280.96
+        }
+      ]
+    },
+    {
+      "start": 283.92,
+      "end": 288.26,
+      "text": " So do you notice that some of the sheep are facing different directions?",
+      "words": [
+        {
+          "word": " So",
+          "start": 283.92,
+          "end": 284.6
+        },
+        {
+          "word": " do",
+          "start": 284.6,
+          "end": 284.78
+        },
+        {
+          "word": " you",
+          "start": 284.78,
+          "end": 284.86
+        },
+        {
+          "word": " notice",
+          "start": 284.86,
+          "end": 285.26
+        },
+        {
+          "word": " that",
+          "start": 285.26,
+          "end": 285.78
+        },
+        {
+          "word": " some",
+          "start": 285.78,
+          "end": 286.24
+        },
+        {
+          "word": " of",
+          "start": 286.24,
+          "end": 286.36
+        },
+        {
+          "word": " the",
+          "start": 286.36,
+          "end": 286.48
+        },
+        {
+          "word": " sheep",
+          "start": 286.48,
+          "end": 286.76
+        },
+        {
+          "word": " are",
+          "start": 286.76,
+          "end": 286.98
+        },
+        {
+          "word": " facing",
+          "start": 286.98,
+          "end": 287.42
+        },
+        {
+          "word": " different",
+          "start": 287.42,
+          "end": 287.76
+        },
+        {
+          "word": " directions?",
+          "start": 287.76,
+          "end": 288.26
+        }
+      ]
+    },
+    {
+      "start": 289.48,
+      "end": 297.8,
+      "text": " So these sheep all came from the same direction, but as they crossed, some of them are now facing a different direction.",
+      "words": [
+        {
+          "word": " So",
+          "start": 289.48,
+          "end": 290.04
+        },
+        {
+          "word": " these",
+          "start": 290.04,
+          "end": 290.3
+        },
+        {
+          "word": " sheep",
+          "start": 290.3,
+          "end": 290.58
+        },
+        {
+          "word": " all",
+          "start": 290.58,
+          "end": 290.92
+        },
+        {
+          "word": " came",
+          "start": 290.92,
+          "end": 291.2
+        },
+        {
+          "word": " from",
+          "start": 291.2,
+          "end": 291.4
+        },
+        {
+          "word": " the",
+          "start": 291.4,
+          "end": 291.56
+        },
+        {
+          "word": " same",
+          "start": 291.56,
+          "end": 291.76
+        },
+        {
+          "word": " direction,",
+          "start": 291.76,
+          "end": 292.22
+        },
+        {
+          "word": " but",
+          "start": 292.62,
+          "end": 293.58
+        },
+        {
+          "word": " as",
+          "start": 293.58,
+          "end": 293.76
+        },
+        {
+          "word": " they",
+          "start": 293.76,
+          "end": 293.9
+        },
+        {
+          "word": " crossed,",
+          "start": 293.9,
+          "end": 294.58
+        },
+        {
+          "word": " some",
+          "start": 294.98,
+          "end": 295.84
+        },
+        {
+          "word": " of",
+          "start": 295.84,
+          "end": 296.04
+        },
+        {
+          "word": " them",
+          "start": 296.04,
+          "end": 296.12
+        },
+        {
+          "word": " are",
+          "start": 296.12,
+          "end": 296.26
+        },
+        {
+          "word": " now",
+          "start": 296.26,
+          "end": 296.44
+        },
+        {
+          "word": " facing",
+          "start": 296.44,
+          "end": 296.86
+        },
+        {
+          "word": " a",
+          "start": 296.86,
+          "end": 297.04
+        },
+        {
+          "word": " different",
+          "start": 297.04,
+          "end": 297.32
+        },
+        {
+          "word": " direction.",
+          "start": 297.32,
+          "end": 297.8
+        }
+      ]
+    },
+    {
+      "start": 298.7,
+      "end": 299.26,
+      "text": " Right?",
+      "words": [
+        {
+          "word": " Right?",
+          "start": 298.7,
+          "end": 299.26
+        }
+      ]
+    },
+    {
+      "start": 299.42,
+      "end": 305.14,
+      "text": " So that means they go all the way across, and then they went back to get stuck with their friends.",
+      "words": [
+        {
+          "word": " So",
+          "start": 299.42,
+          "end": 299.6
+        },
+        {
+          "word": " that",
+          "start": 299.6,
+          "end": 299.74
+        },
+        {
+          "word": " means",
+          "start": 299.74,
+          "end": 299.88
+        },
+        {
+          "word": " they",
+          "start": 299.88,
+          "end": 300.04
+        },
+        {
+          "word": " go",
+          "start": 300.04,
+          "end": 300.18
+        },
+        {
+          "word": " all",
+          "start": 300.18,
+          "end": 300.44
+        },
+        {
+          "word": " the",
+          "start": 300.44,
+          "end": 300.58
+        },
+        {
+          "word": " way",
+          "start": 300.58,
+          "end": 300.66
+        },
+        {
+          "word": " across,",
+          "start": 300.66,
+          "end": 301.14
+        },
+        {
+          "word": " and",
+          "start": 301.32,
+          "end": 301.92
+        },
+        {
+          "word": " then",
+          "start": 301.92,
+          "end": 302.06
+        },
+        {
+          "word": " they",
+          "start": 302.06,
+          "end": 302.22
+        },
+        {
+          "word": " went",
+          "start": 302.22,
+          "end": 302.48
+        },
+        {
+          "word": " back",
+          "start": 302.48,
+          "end": 303.0
+        },
+        {
+          "word": " to",
+          "start": 303.0,
+          "end": 303.76
+        },
+        {
+          "word": " get",
+          "start": 303.76,
+          "end": 303.96
+        },
+        {
+          "word": " stuck",
+          "start": 303.96,
+          "end": 304.24
+        },
+        {
+          "word": " with",
+          "start": 304.24,
+          "end": 304.48
+        },
+        {
+          "word": " their",
+          "start": 304.48,
+          "end": 304.66
+        },
+        {
+          "word": " friends.",
+          "start": 304.66,
+          "end": 305.14
+        }
+      ]
+    },
+    {
+      "start": 305.9,
+      "end": 306.46,
+      "text": " Okay?",
+      "words": [
+        {
+          "word": " Okay?",
+          "start": 305.9,
+          "end": 306.46
+        }
+      ]
+    },
+    {
+      "start": 308.06,
+      "end": 309.9,
+      "text": " Notice the in front.",
+      "words": [
+        {
+          "word": " Notice",
+          "start": 308.06,
+          "end": 308.62
+        },
+        {
+          "word": " the",
+          "start": 308.62,
+          "end": 309.18
+        },
+        {
+          "word": " in",
+          "start": 309.18,
+          "end": 309.4
+        },
+        {
+          "word": " front.",
+          "start": 309.4,
+          "end": 309.9
+        }
+      ]
+    },
+    {
+      "start": 310.36,
+      "end": 311.42,
+      "text": " You see that white?",
+      "words": [
+        {
+          "word": " You",
+          "start": 310.36,
+          "end": 310.68
+        },
+        {
+          "word": " see",
+          "start": 310.68,
+          "end": 310.86
+        },
+        {
+          "word": " that",
+          "start": 310.86,
+          "end": 311.08
+        },
+        {
+          "word": " white?",
+          "start": 311.08,
+          "end": 311.42
+        }
+      ]
+    },
+    {
+      "start": 312.9,
+      "end": 314.76,
+      "text": " This was in the middle of summer.",
+      "words": [
+        {
+          "word": " This",
+          "start": 312.9,
+          "end": 313.5
+        },
+        {
+          "word": " was",
+          "start": 313.5,
+          "end": 313.68
+        },
+        {
+          "word": " in",
+          "start": 313.68,
+          "end": 313.84
+        },
+        {
+          "word": " the",
+          "start": 313.84,
+          "end": 313.94
+        },
+        {
+          "word": " middle",
+          "start": 313.94,
+          "end": 314.16
+        },
+        {
+          "word": " of",
+          "start": 314.16,
+          "end": 314.34
+        },
+        {
+          "word": " summer.",
+          "start": 314.34,
+          "end": 314.76
+        }
+      ]
+    },
+    {
+      "start": 315.2,
+      "end": 316.38,
+      "text": " This isn't snow.",
+      "words": [
+        {
+          "word": " This",
+          "start": 315.2,
+          "end": 315.7
+        },
+        {
+          "word": " isn't",
+          "start": 315.7,
+          "end": 316.0
+        },
+        {
+          "word": " snow.",
+          "start": 316.0,
+          "end": 316.38
+        }
+      ]
+    },
+    {
+      "start": 317.18,
+      "end": 322.24,
+      "text": " That is from the wool, from them trying, them struggling to try to get free.",
+      "words": [
+        {
+          "word": " That",
+          "start": 317.18,
+          "end": 317.78
+        },
+        {
+          "word": " is",
+          "start": 317.78,
+          "end": 317.96
+        },
+        {
+          "word": " from",
+          "start": 317.96,
+          "end": 318.18
+        },
+        {
+          "word": " the",
+          "start": 318.18,
+          "end": 318.36
+        },
+        {
+          "word": " wool,",
+          "start": 318.36,
+          "end": 318.82
+        },
+        {
+          "word": " from",
+          "start": 319.18,
+          "end": 319.58
+        },
+        {
+          "word": " them",
+          "start": 319.58,
+          "end": 319.8
+        },
+        {
+          "word": " trying,",
+          "start": 319.8,
+          "end": 320.2
+        },
+        {
+          "word": " them",
+          "start": 320.52,
+          "end": 320.66
+        },
+        {
+          "word": " struggling",
+          "start": 320.66,
+          "end": 321.16
+        },
+        {
+          "word": " to",
+          "start": 321.16,
+          "end": 321.44
+        },
+        {
+          "word": " try",
+          "start": 321.44,
+          "end": 321.64
+        },
+        {
+          "word": " to",
+          "start": 321.64,
+          "end": 321.76
+        },
+        {
+          "word": " get",
+          "start": 321.76,
+          "end": 321.94
+        },
+        {
+          "word": " free.",
+          "start": 321.94,
+          "end": 322.24
+        }
+      ]
+    },
+    {
+      "start": 323.26,
+      "end": 327.26,
+      "text": " But they are helpless because their legs can't touch the ground.",
+      "words": [
+        {
+          "word": " But",
+          "start": 323.26,
+          "end": 323.86
+        },
+        {
+          "word": " they",
+          "start": 323.86,
+          "end": 324.04
+        },
+        {
+          "word": " are",
+          "start": 324.04,
+          "end": 324.16
+        },
+        {
+          "word": " helpless",
+          "start": 324.16,
+          "end": 324.64
+        },
+        {
+          "word": " because",
+          "start": 324.64,
+          "end": 325.06
+        },
+        {
+          "word": " their",
+          "start": 325.06,
+          "end": 325.42
+        },
+        {
+          "word": " legs",
+          "start": 325.42,
+          "end": 325.94
+        },
+        {
+          "word": " can't",
+          "start": 325.94,
+          "end": 326.4
+        },
+        {
+          "word": " touch",
+          "start": 326.4,
+          "end": 326.66
+        },
+        {
+          "word": " the",
+          "start": 326.66,
+          "end": 326.84
+        },
+        {
+          "word": " ground.",
+          "start": 326.84,
+          "end": 327.26
+        }
+      ]
+    },
+    {
+      "start": 327.8,
+      "end": 330.58,
+      "text": " And without help, they would die.",
+      "words": [
+        {
+          "word": " And",
+          "start": 327.8,
+          "end": 328.34
+        },
+        {
+          "word": " without",
+          "start": 328.34,
+          "end": 328.62
+        },
+        {
+          "word": " help,",
+          "start": 328.62,
+          "end": 329.08
+        },
+        {
+          "word": " they",
+          "start": 329.4,
+          "end": 330.12
+        },
+        {
+          "word": " would",
+          "start": 330.12,
+          "end": 330.28
+        },
+        {
+          "word": " die.",
+          "start": 330.28,
+          "end": 330.58
+        }
+      ]
+    },
+    {
+      "start": 331.32,
+      "end": 333.76,
+      "text": " But this story does have a happy ending.",
+      "words": [
+        {
+          "word": " But",
+          "start": 331.32,
+          "end": 331.92
+        },
+        {
+          "word": " this",
+          "start": 331.92,
+          "end": 332.2
+        },
+        {
+          "word": " story",
+          "start": 332.2,
+          "end": 332.58
+        },
+        {
+          "word": " does",
+          "start": 332.58,
+          "end": 332.9
+        },
+        {
+          "word": " have",
+          "start": 332.9,
+          "end": 333.14
+        },
+        {
+          "word": " a",
+          "start": 333.14,
+          "end": 333.22
+        },
+        {
+          "word": " happy",
+          "start": 333.22,
+          "end": 333.48
+        },
+        {
+          "word": " ending.",
+          "start": 333.48,
+          "end": 333.76
+        }
+      ]
+    },
+    {
+      "start": 334.2,
+      "end": 335.74,
+      "text": " The sheep didn't die.",
+      "words": [
+        {
+          "word": " The",
+          "start": 334.2,
+          "end": 334.76
+        },
+        {
+          "word": " sheep",
+          "start": 334.76,
+          "end": 335.04
+        },
+        {
+          "word": " didn't",
+          "start": 335.04,
+          "end": 335.44
+        },
+        {
+          "word": " die.",
+          "start": 335.44,
+          "end": 335.74
+        }
+      ]
+    },
+    {
+      "start": 336.18,
+      "end": 339.02,
+      "text": " However, it was a lot of work to free them.",
+      "words": [
+        {
+          "word": " However,",
+          "start": 336.18,
+          "end": 336.62
+        },
+        {
+          "word": " it",
+          "start": 337.08,
+          "end": 337.34
+        },
+        {
+          "word": " was",
+          "start": 337.34,
+          "end": 337.54
+        },
+        {
+          "word": " a",
+          "start": 337.54,
+          "end": 337.7
+        },
+        {
+          "word": " lot",
+          "start": 337.7,
+          "end": 337.92
+        },
+        {
+          "word": " of",
+          "start": 337.92,
+          "end": 338.08
+        },
+        {
+          "word": " work",
+          "start": 338.08,
+          "end": 338.32
+        },
+        {
+          "word": " to",
+          "start": 338.32,
+          "end": 338.52
+        },
+        {
+          "word": " free",
+          "start": 338.52,
+          "end": 338.74
+        },
+        {
+          "word": " them.",
+          "start": 338.74,
+          "end": 339.02
+        }
+      ]
+    },
+    {
+      "start": 339.53999999999996,
+      "end": 346.52,
+      "text": " It took a tractor, slings, and a lot of time and effort to lift each one of them out one by one.",
+      "words": [
+        {
+          "word": " It",
+          "start": 339.53999999999996,
+          "end": 340.02
+        },
+        {
+          "word": " took",
+          "start": 340.02,
+          "end": 340.22
+        },
+        {
+          "word": " a",
+          "start": 340.22,
+          "end": 340.38
+        },
+        {
+          "word": " tractor,",
+          "start": 340.38,
+          "end": 340.82
+        },
+        {
+          "word": " slings,",
+          "start": 341.6,
+          "end": 342.46
+        },
+        {
+          "word": " and",
+          "start": 342.52,
+          "end": 342.68
+        },
+        {
+          "word": " a",
+          "start": 342.68,
+          "end": 342.78
+        },
+        {
+          "word": " lot",
+          "start": 342.78,
+          "end": 342.96
+        },
+        {
+          "word": " of",
+          "start": 342.96,
+          "end": 343.04
+        },
+        {
+          "word": " time",
+          "start": 343.04,
+          "end": 343.26
+        },
+        {
+          "word": " and",
+          "start": 343.26,
+          "end": 343.44
+        },
+        {
+          "word": " effort",
+          "start": 343.44,
+          "end": 343.72
+        },
+        {
+          "word": " to",
+          "start": 343.72,
+          "end": 343.98
+        },
+        {
+          "word": " lift",
+          "start": 343.98,
+          "end": 344.26
+        },
+        {
+          "word": " each",
+          "start": 344.26,
+          "end": 344.88
+        },
+        {
+          "word": " one",
+          "start": 344.88,
+          "end": 345.06
+        },
+        {
+          "word": " of",
+          "start": 345.06,
+          "end": 345.2
+        },
+        {
+          "word": " them",
+          "start": 345.2,
+          "end": 345.34
+        },
+        {
+          "word": " out",
+          "start": 345.34,
+          "end": 345.7
+        },
+        {
+          "word": " one",
+          "start": 345.7,
+          "end": 345.98
+        },
+        {
+          "word": " by",
+          "start": 345.98,
+          "end": 346.16
+        },
+        {
+          "word": " one.",
+          "start": 346.16,
+          "end": 346.52
+        }
+      ]
+    },
+    {
+      "start": 347.55999999999995,
+      "end": 352.28,
+      "text": " And to keep them running back in to get stuck with their friends again.",
+      "words": [
+        {
+          "word": " And",
+          "start": 347.55999999999995,
+          "end": 348.03999999999996
+        },
+        {
+          "word": " to",
+          "start": 348.03999999999996,
+          "end": 348.52
+        },
+        {
+          "word": " keep",
+          "start": 348.52,
+          "end": 348.76
+        },
+        {
+          "word": " them",
+          "start": 348.76,
+          "end": 348.98
+        },
+        {
+          "word": " running",
+          "start": 348.98,
+          "end": 349.32
+        },
+        {
+          "word": " back",
+          "start": 349.32,
+          "end": 349.72
+        },
+        {
+          "word": " in",
+          "start": 349.72,
+          "end": 350.26
+        },
+        {
+          "word": " to",
+          "start": 350.26,
+          "end": 350.84
+        },
+        {
+          "word": " get",
+          "start": 350.84,
+          "end": 351.02
+        },
+        {
+          "word": " stuck",
+          "start": 351.02,
+          "end": 351.28
+        },
+        {
+          "word": " with",
+          "start": 351.28,
+          "end": 351.44
+        },
+        {
+          "word": " their",
+          "start": 351.44,
+          "end": 351.58
+        },
+        {
+          "word": " friends",
+          "start": 351.58,
+          "end": 351.88
+        },
+        {
+          "word": " again.",
+          "start": 351.88,
+          "end": 352.28
+        }
+      ]
+    },
+    {
+      "start": 352.74,
+      "end": 352.9,
+      "text": " Right?",
+      "words": [
+        {
+          "word": " Right?",
+          "start": 352.74,
+          "end": 352.9
+        }
+      ]
+    },
+    {
+      "start": 354.0,
+      "end": 357.04,
+      "text": " So there are so many lessons that can be drawn from this picture.",
+      "words": [
+        {
+          "word": " So",
+          "start": 354.0,
+          "end": 354.48
+        },
+        {
+          "word": " there",
+          "start": 354.48,
+          "end": 354.66
+        },
+        {
+          "word": " are",
+          "start": 354.66,
+          "end": 354.8
+        },
+        {
+          "word": " so",
+          "start": 354.8,
+          "end": 354.96
+        },
+        {
+          "word": " many",
+          "start": 354.96,
+          "end": 355.18
+        },
+        {
+          "word": " lessons",
+          "start": 355.18,
+          "end": 355.6
+        },
+        {
+          "word": " that",
+          "start": 355.6,
+          "end": 355.82
+        },
+        {
+          "word": " can",
+          "start": 355.82,
+          "end": 355.92
+        },
+        {
+          "word": " be",
+          "start": 355.92,
+          "end": 356.04
+        },
+        {
+          "word": " drawn",
+          "start": 356.04,
+          "end": 356.28
+        },
+        {
+          "word": " from",
+          "start": 356.28,
+          "end": 356.5
+        },
+        {
+          "word": " this",
+          "start": 356.5,
+          "end": 356.66
+        },
+        {
+          "word": " picture.",
+          "start": 356.66,
+          "end": 357.04
+        }
+      ]
+    },
+    {
+      "start": 357.24,
+      "end": 359.6,
+      "text": " But the one-on-one highlight is this.",
+      "words": [
+        {
+          "word": " But",
+          "start": 357.24,
+          "end": 357.58
+        },
+        {
+          "word": " the",
+          "start": 357.58,
+          "end": 357.76
+        },
+        {
+          "word": " one",
+          "start": 357.76,
+          "end": 358.02
+        },
+        {
+          "word": "-on",
+          "start": 358.02,
+          "end": 358.16
+        },
+        {
+          "word": "-one",
+          "start": 358.16,
+          "end": 358.32
+        },
+        {
+          "word": " highlight",
+          "start": 358.32,
+          "end": 358.76
+        },
+        {
+          "word": " is",
+          "start": 358.76,
+          "end": 359.24
+        },
+        {
+          "word": " this.",
+          "start": 359.24,
+          "end": 359.6
+        }
+      ]
+    },
+    {
+      "start": 359.6,
+      "end": 369.34,
+      "text": " As a leader in doTERRA, it doesn't matter if you're a leader of one, or a presidential diamond of a team of 10,000.",
+      "words": [
+        {
+          "word": " As",
+          "start": 359.6,
+          "end": 360.46
+        },
+        {
+          "word": " a",
+          "start": 360.46,
+          "end": 360.66
+        },
+        {
+          "word": " leader",
+          "start": 360.66,
+          "end": 360.9
+        },
+        {
+          "word": " in",
+          "start": 360.9,
+          "end": 361.18
+        },
+        {
+          "word": " doTERRA,",
+          "start": 361.18,
+          "end": 361.74
+        },
+        {
+          "word": " it",
+          "start": 362.14,
+          "end": 362.9
+        },
+        {
+          "word": " doesn't",
+          "start": 362.9,
+          "end": 363.24
+        },
+        {
+          "word": " matter",
+          "start": 363.24,
+          "end": 363.54
+        },
+        {
+          "word": " if",
+          "start": 363.54,
+          "end": 363.82
+        },
+        {
+          "word": " you're",
+          "start": 363.82,
+          "end": 363.96
+        },
+        {
+          "word": " a",
+          "start": 363.96,
+          "end": 364.08
+        },
+        {
+          "word": " leader",
+          "start": 364.08,
+          "end": 364.24
+        },
+        {
+          "word": " of",
+          "start": 364.24,
+          "end": 364.42
+        },
+        {
+          "word": " one,",
+          "start": 364.42,
+          "end": 364.8
+        },
+        {
+          "word": " or",
+          "start": 365.0,
+          "end": 366.14
+        },
+        {
+          "word": " a",
+          "start": 366.14,
+          "end": 366.3
+        },
+        {
+          "word": " presidential",
+          "start": 366.3,
+          "end": 366.78
+        },
+        {
+          "word": " diamond",
+          "start": 366.78,
+          "end": 367.38
+        },
+        {
+          "word": " of",
+          "start": 367.38,
+          "end": 368.06
+        },
+        {
+          "word": " a",
+          "start": 368.06,
+          "end": 368.18
+        },
+        {
+          "word": " team",
+          "start": 368.18,
+          "end": 368.42
+        },
+        {
+          "word": " of",
+          "start": 368.42,
+          "end": 368.62
+        },
+        {
+          "word": " 10",
+          "start": 368.62,
+          "end": 368.78
+        },
+        {
+          "word": ",000.",
+          "start": 368.78,
+          "end": 369.34
+        }
+      ]
+    },
+    {
+      "start": 371.22,
+      "end": 373.0,
+      "text": " You are the tractor.",
+      "words": [
+        {
+          "word": " You",
+          "start": 371.22,
+          "end": 371.9
+        },
+        {
+          "word": " are",
+          "start": 371.9,
+          "end": 372.44
+        },
+        {
+          "word": " the",
+          "start": 372.44,
+          "end": 372.62
+        },
+        {
+          "word": " tractor.",
+          "start": 372.62,
+          "end": 373.0
+        }
+      ]
+    },
+    {
+      "start": 373.54,
+      "end": 374.82,
+      "text": " This is leadership.",
+      "words": [
+        {
+          "word": " This",
+          "start": 373.54,
+          "end": 374.16
+        },
+        {
+          "word": " is",
+          "start": 374.16,
+          "end": 374.34
+        },
+        {
+          "word": " leadership.",
+          "start": 374.34,
+          "end": 374.82
+        }
+      ]
+    },
+    {
+      "start": 375.12,
+      "end": 377.04,
+      "text": " There is no title required.",
+      "words": [
+        {
+          "word": " There",
+          "start": 375.12,
+          "end": 375.7
+        },
+        {
+          "word": " is",
+          "start": 375.7,
+          "end": 375.84
+        },
+        {
+          "word": " no",
+          "start": 375.84,
+          "end": 376.04
+        },
+        {
+          "word": " title",
+          "start": 376.04,
+          "end": 376.42
+        },
+        {
+          "word": " required.",
+          "start": 376.42,
+          "end": 377.04
+        }
+      ]
+    },
+    {
+      "start": 377.38,
+      "end": 378.88,
+      "text": " It's just something you do.",
+      "words": [
+        {
+          "word": " It's",
+          "start": 377.38,
+          "end": 377.86
+        },
+        {
+          "word": " just",
+          "start": 377.86,
+          "end": 378.08
+        },
+        {
+          "word": " something",
+          "start": 378.08,
+          "end": 378.44
+        },
+        {
+          "word": " you",
+          "start": 378.44,
+          "end": 378.66
+        },
+        {
+          "word": " do.",
+          "start": 378.66,
+          "end": 378.88
+        }
+      ]
+    },
+    {
+      "start": 382.41999999999996,
+      "end": 385.56,
+      "text": " So I invite all of you to be the tractor.",
+      "words": [
+        {
+          "word": " So",
+          "start": 382.41999999999996,
+          "end": 383.02
+        },
+        {
+          "word": " I",
+          "start": 383.02,
+          "end": 383.2
+        },
+        {
+          "word": " invite",
+          "start": 383.2,
+          "end": 383.48
+        },
+        {
+          "word": " all",
+          "start": 383.48,
+          "end": 383.72
+        },
+        {
+          "word": " of",
+          "start": 383.72,
+          "end": 383.82
+        },
+        {
+          "word": " you",
+          "start": 383.82,
+          "end": 383.94
+        },
+        {
+          "word": " to",
+          "start": 383.94,
+          "end": 384.14
+        },
+        {
+          "word": " be",
+          "start": 384.14,
+          "end": 384.58
+        },
+        {
+          "word": " the",
+          "start": 384.58,
+          "end": 385.22
+        },
+        {
+          "word": " tractor.",
+          "start": 385.22,
+          "end": 385.56
+        }
+      ]
+    },
+    {
+      "start": 386.7,
+      "end": 391.22,
+      "text": " You are the leader to keep them from falling into challenging situations.",
+      "words": [
+        {
+          "word": " You",
+          "start": 386.7,
+          "end": 387.3
+        },
+        {
+          "word": " are",
+          "start": 387.3,
+          "end": 387.44
+        },
+        {
+          "word": " the",
+          "start": 387.44,
+          "end": 387.58
+        },
+        {
+          "word": " leader",
+          "start": 387.58,
+          "end": 387.9
+        },
+        {
+          "word": " to",
+          "start": 387.9,
+          "end": 388.12
+        },
+        {
+          "word": " keep",
+          "start": 388.12,
+          "end": 388.34
+        },
+        {
+          "word": " them",
+          "start": 388.34,
+          "end": 388.52
+        },
+        {
+          "word": " from",
+          "start": 388.52,
+          "end": 388.72
+        },
+        {
+          "word": " falling",
+          "start": 388.72,
+          "end": 389.22
+        },
+        {
+          "word": " into",
+          "start": 389.22,
+          "end": 389.92
+        },
+        {
+          "word": " challenging",
+          "start": 389.92,
+          "end": 390.42
+        },
+        {
+          "word": " situations.",
+          "start": 390.42,
+          "end": 391.22
+        }
+      ]
+    },
+    {
+      "start": 392.1,
+      "end": 397.24,
+      "text": " But when it happens, which it does for every leader, be the tractor.",
+      "words": [
+        {
+          "word": " But",
+          "start": 392.1,
+          "end": 392.66
+        },
+        {
+          "word": " when",
+          "start": 392.66,
+          "end": 392.86
+        },
+        {
+          "word": " it",
+          "start": 392.86,
+          "end": 393.0
+        },
+        {
+          "word": " happens,",
+          "start": 393.0,
+          "end": 393.48
+        },
+        {
+          "word": " which",
+          "start": 393.7,
+          "end": 394.12
+        },
+        {
+          "word": " it",
+          "start": 394.12,
+          "end": 394.26
+        },
+        {
+          "word": " does",
+          "start": 394.26,
+          "end": 394.48
+        },
+        {
+          "word": " for",
+          "start": 394.48,
+          "end": 394.7
+        },
+        {
+          "word": " every",
+          "start": 394.7,
+          "end": 395.04
+        },
+        {
+          "word": " leader,",
+          "start": 395.04,
+          "end": 395.42
+        },
+        {
+          "word": " be",
+          "start": 396.24,
+          "end": 396.42
+        },
+        {
+          "word": " the",
+          "start": 396.42,
+          "end": 396.84
+        },
+        {
+          "word": " tractor.",
+          "start": 396.84,
+          "end": 397.24
+        }
+      ]
+    },
+    {
+      "start": 398.28,
+      "end": 401.54,
+      "text": " So you may be asking yourself, okay, I'm struggling.",
+      "words": [
+        {
+          "word": " So",
+          "start": 398.28,
+          "end": 398.56
+        },
+        {
+          "word": " you",
+          "start": 398.56,
+          "end": 398.72
+        },
+        {
+          "word": " may",
+          "start": 398.72,
+          "end": 398.9
+        },
+        {
+          "word": " be",
+          "start": 398.9,
+          "end": 399.0
+        },
+        {
+          "word": " asking",
+          "start": 399.0,
+          "end": 399.24
+        },
+        {
+          "word": " yourself,",
+          "start": 399.24,
+          "end": 399.62
+        },
+        {
+          "word": " okay,",
+          "start": 399.8,
+          "end": 400.0
+        },
+        {
+          "word": " I'm",
+          "start": 400.52,
+          "end": 401.1
+        },
+        {
+          "word": " struggling.",
+          "start": 401.1,
+          "end": 401.54
+        }
+      ]
+    },
+    {
+      "start": 401.92,
+      "end": 404.66,
+      "text": " Or I have a team that may be struggling.",
+      "words": [
+        {
+          "word": " Or",
+          "start": 401.92,
+          "end": 402.48
+        },
+        {
+          "word": " I",
+          "start": 402.48,
+          "end": 402.76
+        },
+        {
+          "word": " have",
+          "start": 402.76,
+          "end": 403.0
+        },
+        {
+          "word": " a",
+          "start": 403.0,
+          "end": 403.16
+        },
+        {
+          "word": " team",
+          "start": 403.16,
+          "end": 403.54
+        },
+        {
+          "word": " that",
+          "start": 403.54,
+          "end": 404.0
+        },
+        {
+          "word": " may",
+          "start": 404.0,
+          "end": 404.16
+        },
+        {
+          "word": " be",
+          "start": 404.16,
+          "end": 404.28
+        },
+        {
+          "word": " struggling.",
+          "start": 404.28,
+          "end": 404.66
+        }
+      ]
+    },
+    {
+      "start": 404.94,
+      "end": 405.76,
+      "text": " What can I do?",
+      "words": [
+        {
+          "word": " What",
+          "start": 404.94,
+          "end": 405.2
+        },
+        {
+          "word": " can",
+          "start": 405.2,
+          "end": 405.4
+        },
+        {
+          "word": " I",
+          "start": 405.4,
+          "end": 405.52
+        },
+        {
+          "word": " do?",
+          "start": 405.52,
+          "end": 405.76
+        }
+      ]
+    },
+    {
+      "start": 406.52,
+      "end": 414.88,
+      "text": " In my 10 years of doTERRA, working with top leaders from around the world, this is where I would say to put your focus.",
+      "words": [
+        {
+          "word": " In",
+          "start": 406.52,
+          "end": 407.08
+        },
+        {
+          "word": " my",
+          "start": 407.08,
+          "end": 407.24
+        },
+        {
+          "word": " 10",
+          "start": 407.24,
+          "end": 407.52
+        },
+        {
+          "word": " years",
+          "start": 407.52,
+          "end": 407.94
+        },
+        {
+          "word": " of",
+          "start": 407.94,
+          "end": 408.28
+        },
+        {
+          "word": " doTERRA,",
+          "start": 408.28,
+          "end": 408.82
+        },
+        {
+          "word": " working",
+          "start": 409.32,
+          "end": 409.5
+        },
+        {
+          "word": " with",
+          "start": 409.5,
+          "end": 409.72
+        },
+        {
+          "word": " top",
+          "start": 409.72,
+          "end": 410.0
+        },
+        {
+          "word": " leaders",
+          "start": 410.0,
+          "end": 410.34
+        },
+        {
+          "word": " from",
+          "start": 410.34,
+          "end": 410.62
+        },
+        {
+          "word": " around",
+          "start": 410.62,
+          "end": 410.86
+        },
+        {
+          "word": " the",
+          "start": 410.86,
+          "end": 411.02
+        },
+        {
+          "word": " world,",
+          "start": 411.02,
+          "end": 411.34
+        },
+        {
+          "word": " this",
+          "start": 411.66,
+          "end": 412.3
+        },
+        {
+          "word": " is",
+          "start": 412.3,
+          "end": 412.52
+        },
+        {
+          "word": " where",
+          "start": 412.52,
+          "end": 412.86
+        },
+        {
+          "word": " I",
+          "start": 412.86,
+          "end": 413.44
+        },
+        {
+          "word": " would",
+          "start": 413.44,
+          "end": 413.64
+        },
+        {
+          "word": " say",
+          "start": 413.64,
+          "end": 413.9
+        },
+        {
+          "word": " to",
+          "start": 413.9,
+          "end": 414.1
+        },
+        {
+          "word": " put",
+          "start": 414.1,
+          "end": 414.34
+        },
+        {
+          "word": " your",
+          "start": 414.34,
+          "end": 414.48
+        },
+        {
+          "word": " focus.",
+          "start": 414.48,
+          "end": 414.88
+        }
+      ]
+    },
+    {
+      "start": 418.26,
+      "end": 419.94,
+      "text": " So what is leadership?",
+      "words": [
+        {
+          "word": " So",
+          "start": 418.26,
+          "end": 419.06
+        },
+        {
+          "word": " what",
+          "start": 419.06,
+          "end": 419.3
+        },
+        {
+          "word": " is",
+          "start": 419.3,
+          "end": 419.48
+        },
+        {
+          "word": " leadership?",
+          "start": 419.48,
+          "end": 419.94
+        }
+      ]
+    },
+    {
+      "start": 420.52,
+      "end": 425.36,
+      "text": " Earlier I mentioned leadership can be viewed a little differently as a wellness advocate.",
+      "words": [
+        {
+          "word": " Earlier",
+          "start": 420.52,
+          "end": 420.9
+        },
+        {
+          "word": " I",
+          "start": 420.9,
+          "end": 421.12
+        },
+        {
+          "word": " mentioned",
+          "start": 421.12,
+          "end": 421.58
+        },
+        {
+          "word": " leadership",
+          "start": 421.58,
+          "end": 422.14
+        },
+        {
+          "word": " can",
+          "start": 422.14,
+          "end": 422.36
+        },
+        {
+          "word": " be",
+          "start": 422.36,
+          "end": 422.5
+        },
+        {
+          "word": " viewed",
+          "start": 422.5,
+          "end": 422.88
+        },
+        {
+          "word": " a",
+          "start": 422.88,
+          "end": 423.58
+        },
+        {
+          "word": " little",
+          "start": 423.58,
+          "end": 423.82
+        },
+        {
+          "word": " differently",
+          "start": 423.82,
+          "end": 424.28
+        },
+        {
+          "word": " as",
+          "start": 424.28,
+          "end": 424.52
+        },
+        {
+          "word": " a",
+          "start": 424.52,
+          "end": 424.62
+        },
+        {
+          "word": " wellness",
+          "start": 424.62,
+          "end": 424.86
+        },
+        {
+          "word": " advocate.",
+          "start": 424.86,
+          "end": 425.36
+        }
+      ]
+    },
+    {
+      "start": 425.86,
+      "end": 430.94,
+      "text": " All these bold points are about how the world defines leadership.",
+      "words": [
+        {
+          "word": " All",
+          "start": 425.86,
+          "end": 426.28
+        },
+        {
+          "word": " these",
+          "start": 426.28,
+          "end": 426.56
+        },
+        {
+          "word": " bold",
+          "start": 426.56,
+          "end": 426.86
+        },
+        {
+          "word": " points",
+          "start": 426.86,
+          "end": 427.42
+        },
+        {
+          "word": " are",
+          "start": 427.42,
+          "end": 428.46
+        },
+        {
+          "word": " about",
+          "start": 428.46,
+          "end": 428.66
+        },
+        {
+          "word": " how",
+          "start": 428.66,
+          "end": 428.94
+        },
+        {
+          "word": " the",
+          "start": 428.94,
+          "end": 429.14
+        },
+        {
+          "word": " world",
+          "start": 429.14,
+          "end": 429.6
+        },
+        {
+          "word": " defines",
+          "start": 429.6,
+          "end": 430.4
+        },
+        {
+          "word": " leadership.",
+          "start": 430.4,
+          "end": 430.94
+        }
+      ]
+    },
+    {
+      "start": 431.28,
+      "end": 432.74,
+      "text": " And they are very important.",
+      "words": [
+        {
+          "word": " And",
+          "start": 431.28,
+          "end": 431.74
+        },
+        {
+          "word": " they",
+          "start": 431.74,
+          "end": 431.88
+        },
+        {
+          "word": " are",
+          "start": 431.88,
+          "end": 432.02
+        },
+        {
+          "word": " very",
+          "start": 432.02,
+          "end": 432.26
+        },
+        {
+          "word": " important.",
+          "start": 432.26,
+          "end": 432.74
+        }
+      ]
+    },
+    {
+      "start": 433.32,
+      "end": 437.84,
+      "text": " However, leadership in doTERRA builds on those great points.",
+      "words": [
+        {
+          "word": " However,",
+          "start": 433.32,
+          "end": 433.72
+        },
+        {
+          "word": " leadership",
+          "start": 434.5,
+          "end": 435.0
+        },
+        {
+          "word": " in",
+          "start": 435.0,
+          "end": 435.22
+        },
+        {
+          "word": " doTERRA",
+          "start": 435.22,
+          "end": 435.68
+        },
+        {
+          "word": " builds",
+          "start": 435.68,
+          "end": 436.42
+        },
+        {
+          "word": " on",
+          "start": 436.42,
+          "end": 436.82
+        },
+        {
+          "word": " those",
+          "start": 436.82,
+          "end": 437.08
+        },
+        {
+          "word": " great",
+          "start": 437.08,
+          "end": 437.28
+        },
+        {
+          "word": " points.",
+          "start": 437.28,
+          "end": 437.84
+        }
+      ]
+    },
+    {
+      "start": 439.76,
+      "end": 442.46,
+      "text": " Become your best, most authentic self.",
+      "words": [
+        {
+          "word": " Become",
+          "start": 439.76,
+          "end": 440.56
+        },
+        {
+          "word": " your",
+          "start": 440.56,
+          "end": 440.9
+        },
+        {
+          "word": " best,",
+          "start": 440.9,
+          "end": 441.28
+        },
+        {
+          "word": " most",
+          "start": 441.42,
+          "end": 441.62
+        },
+        {
+          "word": " authentic",
+          "start": 441.62,
+          "end": 442.04
+        },
+        {
+          "word": " self.",
+          "start": 442.04,
+          "end": 442.46
+        }
+      ]
+    },
+    {
+      "start": 443.24,
+      "end": 446.12,
+      "text": " Don't try to be somebody that you aren't.",
+      "words": [
+        {
+          "word": " Don't",
+          "start": 443.24,
+          "end": 443.84
+        },
+        {
+          "word": " try",
+          "start": 443.84,
+          "end": 444.24
+        },
+        {
+          "word": " to",
+          "start": 444.24,
+          "end": 444.52
+        },
+        {
+          "word": " be",
+          "start": 444.52,
+          "end": 444.76
+        },
+        {
+          "word": " somebody",
+          "start": 444.76,
+          "end": 445.24
+        },
+        {
+          "word": " that",
+          "start": 445.24,
+          "end": 445.44
+        },
+        {
+          "word": " you",
+          "start": 445.44,
+          "end": 445.6
+        },
+        {
+          "word": " aren't.",
+          "start": 445.6,
+          "end": 446.12
+        }
+      ]
+    },
+    {
+      "start": 446.44,
+      "end": 448.36,
+      "text": " You are more than enough.",
+      "words": [
+        {
+          "word": " You",
+          "start": 446.44,
+          "end": 447.04
+        },
+        {
+          "word": " are",
+          "start": 447.04,
+          "end": 447.56
+        },
+        {
+          "word": " more",
+          "start": 447.56,
+          "end": 447.76
+        },
+        {
+          "word": " than",
+          "start": 447.76,
+          "end": 447.92
+        },
+        {
+          "word": " enough.",
+          "start": 447.92,
+          "end": 448.36
+        }
+      ]
+    },
+    {
+      "start": 449.58000000000004,
+      "end": 454.46,
+      "text": " Create a clear vision and take consistent action over a long period of time.",
+      "words": [
+        {
+          "word": " Create",
+          "start": 449.58000000000004,
+          "end": 450.18
+        },
+        {
+          "word": " a",
+          "start": 450.18,
+          "end": 450.36
+        },
+        {
+          "word": " clear",
+          "start": 450.36,
+          "end": 450.56
+        },
+        {
+          "word": " vision",
+          "start": 450.56,
+          "end": 451.04
+        },
+        {
+          "word": " and",
+          "start": 451.04,
+          "end": 451.6
+        },
+        {
+          "word": " take",
+          "start": 451.6,
+          "end": 451.9
+        },
+        {
+          "word": " consistent",
+          "start": 451.9,
+          "end": 452.56
+        },
+        {
+          "word": " action",
+          "start": 452.56,
+          "end": 453.04
+        },
+        {
+          "word": " over",
+          "start": 453.04,
+          "end": 453.4
+        },
+        {
+          "word": " a",
+          "start": 453.4,
+          "end": 453.56
+        },
+        {
+          "word": " long",
+          "start": 453.56,
+          "end": 453.72
+        },
+        {
+          "word": " period",
+          "start": 453.72,
+          "end": 454.04
+        },
+        {
+          "word": " of",
+          "start": 454.04,
+          "end": 454.22
+        },
+        {
+          "word": " time.",
+          "start": 454.22,
+          "end": 454.46
+        }
+      ]
+    },
+    {
+      "start": 455.18,
+      "end": 456.88,
+      "text": " Your team will follow your lead.",
+      "words": [
+        {
+          "word": " Your",
+          "start": 455.18,
+          "end": 455.78
+        },
+        {
+          "word": " team",
+          "start": 455.78,
+          "end": 456.0
+        },
+        {
+          "word": " will",
+          "start": 456.0,
+          "end": 456.16
+        },
+        {
+          "word": " follow",
+          "start": 456.16,
+          "end": 456.44
+        },
+        {
+          "word": " your",
+          "start": 456.44,
+          "end": 456.64
+        },
+        {
+          "word": " lead.",
+          "start": 456.64,
+          "end": 456.88
+        }
+      ]
+    },
+    {
+      "start": 457.4,
+      "end": 463.08,
+      "text": " They see you doing two classes a week, they are likely to follow your lead and at least do one.",
+      "words": [
+        {
+          "word": " They",
+          "start": 457.4,
+          "end": 457.8
+        },
+        {
+          "word": " see",
+          "start": 457.8,
+          "end": 458.06
+        },
+        {
+          "word": " you",
+          "start": 458.06,
+          "end": 458.2
+        },
+        {
+          "word": " doing",
+          "start": 458.2,
+          "end": 458.44
+        },
+        {
+          "word": " two",
+          "start": 458.44,
+          "end": 458.7
+        },
+        {
+          "word": " classes",
+          "start": 458.7,
+          "end": 459.06
+        },
+        {
+          "word": " a",
+          "start": 459.06,
+          "end": 459.24
+        },
+        {
+          "word": " week,",
+          "start": 459.24,
+          "end": 459.54
+        },
+        {
+          "word": " they",
+          "start": 459.72,
+          "end": 460.06
+        },
+        {
+          "word": " are",
+          "start": 460.06,
+          "end": 460.18
+        },
+        {
+          "word": " likely",
+          "start": 460.18,
+          "end": 460.62
+        },
+        {
+          "word": " to",
+          "start": 460.62,
+          "end": 460.84
+        },
+        {
+          "word": " follow",
+          "start": 460.84,
+          "end": 461.2
+        },
+        {
+          "word": " your",
+          "start": 461.2,
+          "end": 461.46
+        },
+        {
+          "word": " lead",
+          "start": 461.46,
+          "end": 461.9
+        },
+        {
+          "word": " and",
+          "start": 461.9,
+          "end": 462.18
+        },
+        {
+          "word": " at",
+          "start": 462.18,
+          "end": 462.34
+        },
+        {
+          "word": " least",
+          "start": 462.34,
+          "end": 462.56
+        },
+        {
+          "word": " do",
+          "start": 462.56,
+          "end": 462.78
+        },
+        {
+          "word": " one.",
+          "start": 462.78,
+          "end": 463.08
+        }
+      ]
+    },
+    {
+      "start": 463.7,
+      "end": 469.64,
+      "text": " Whatever your level of effort is, most often they will be just under that bubble.",
+      "words": [
+        {
+          "word": " Whatever",
+          "start": 463.7,
+          "end": 464.24
+        },
+        {
+          "word": " your",
+          "start": 464.24,
+          "end": 464.48
+        },
+        {
+          "word": " level",
+          "start": 464.48,
+          "end": 464.78
+        },
+        {
+          "word": " of",
+          "start": 464.78,
+          "end": 464.98
+        },
+        {
+          "word": " effort",
+          "start": 464.98,
+          "end": 465.3
+        },
+        {
+          "word": " is,",
+          "start": 465.3,
+          "end": 465.64
+        },
+        {
+          "word": " most",
+          "start": 465.82,
+          "end": 466.04
+        },
+        {
+          "word": " often",
+          "start": 466.04,
+          "end": 466.66
+        },
+        {
+          "word": " they",
+          "start": 466.66,
+          "end": 467.48
+        },
+        {
+          "word": " will",
+          "start": 467.48,
+          "end": 467.74
+        },
+        {
+          "word": " be",
+          "start": 467.74,
+          "end": 468.04
+        },
+        {
+          "word": " just",
+          "start": 468.04,
+          "end": 468.34
+        },
+        {
+          "word": " under",
+          "start": 468.34,
+          "end": 468.72
+        },
+        {
+          "word": " that",
+          "start": 468.72,
+          "end": 469.02
+        },
+        {
+          "word": " bubble.",
+          "start": 469.02,
+          "end": 469.64
+        }
+      ]
+    },
+    {
+      "start": 470.98,
+      "end": 473.0,
+      "text": " Inspire and uplift others.",
+      "words": [
+        {
+          "word": " Inspire",
+          "start": 470.98,
+          "end": 471.72
+        },
+        {
+          "word": " and",
+          "start": 471.72,
+          "end": 472.18
+        },
+        {
+          "word": " uplift",
+          "start": 472.18,
+          "end": 472.5
+        },
+        {
+          "word": " others.",
+          "start": 472.5,
+          "end": 473.0
+        }
+      ]
+    },
+    {
+      "start": 473.48,
+      "end": 476.44,
+      "text": " Make this business rewarding and fun.",
+      "words": [
+        {
+          "word": " Make",
+          "start": 473.48,
+          "end": 474.22
+        },
+        {
+          "word": " this",
+          "start": 474.22,
+          "end": 474.62
+        },
+        {
+          "word": " business",
+          "start": 474.62,
+          "end": 475.18
+        },
+        {
+          "word": " rewarding",
+          "start": 475.18,
+          "end": 475.8
+        },
+        {
+          "word": " and",
+          "start": 475.8,
+          "end": 476.16
+        },
+        {
+          "word": " fun.",
+          "start": 476.16,
+          "end": 476.44
+        }
+      ]
+    },
+    {
+      "start": 477.14,
+      "end": 482.64,
+      "text": " People want to be around people that are happy and have a smile on their face.",
+      "words": [
+        {
+          "word": " People",
+          "start": 477.14,
+          "end": 477.72
+        },
+        {
+          "word": " want",
+          "start": 477.72,
+          "end": 478.04
+        },
+        {
+          "word": " to",
+          "start": 478.04,
+          "end": 478.26
+        },
+        {
+          "word": " be",
+          "start": 478.26,
+          "end": 478.46
+        },
+        {
+          "word": " around",
+          "start": 478.46,
+          "end": 478.84
+        },
+        {
+          "word": " people",
+          "start": 478.84,
+          "end": 479.56
+        },
+        {
+          "word": " that",
+          "start": 479.56,
+          "end": 479.88
+        },
+        {
+          "word": " are",
+          "start": 479.88,
+          "end": 480.26
+        },
+        {
+          "word": " happy",
+          "start": 480.26,
+          "end": 481.06
+        },
+        {
+          "word": " and",
+          "start": 481.06,
+          "end": 481.52
+        },
+        {
+          "word": " have",
+          "start": 481.52,
+          "end": 481.7
+        },
+        {
+          "word": " a",
+          "start": 481.7,
+          "end": 481.78
+        },
+        {
+          "word": " smile",
+          "start": 481.78,
+          "end": 482.0
+        },
+        {
+          "word": " on",
+          "start": 482.0,
+          "end": 482.14
+        },
+        {
+          "word": " their",
+          "start": 482.14,
+          "end": 482.26
+        },
+        {
+          "word": " face.",
+          "start": 482.26,
+          "end": 482.64
+        }
+      ]
+    },
+    {
+      "start": 483.74,
+      "end": 484.84,
+      "text": " Very important.",
+      "words": [
+        {
+          "word": " Very",
+          "start": 483.74,
+          "end": 484.4
+        },
+        {
+          "word": " important.",
+          "start": 484.4,
+          "end": 484.84
+        }
+      ]
+    },
+    {
+      "start": 485.08,
+      "end": 486.48,
+      "text": " Servant, purpose, and integrity.",
+      "words": [
+        {
+          "word": " Servant,",
+          "start": 485.08,
+          "end": 485.46
+        },
+        {
+          "word": " purpose,",
+          "start": 485.58,
+          "end": 485.8
+        },
+        {
+          "word": " and",
+          "start": 485.98,
+          "end": 486.12
+        },
+        {
+          "word": " integrity.",
+          "start": 486.12,
+          "end": 486.48
+        }
+      ]
+    },
+    {
+      "start": 486.88,
+      "end": 488.02,
+      "text": " This is our culture.",
+      "words": [
+        {
+          "word": " This",
+          "start": 486.88,
+          "end": 487.32
+        },
+        {
+          "word": " is",
+          "start": 487.32,
+          "end": 487.44
+        },
+        {
+          "word": " our",
+          "start": 487.44,
+          "end": 487.6
+        },
+        {
+          "word": " culture.",
+          "start": 487.6,
+          "end": 488.02
+        }
+      ]
+    },
+    {
+      "start": 488.38,
+      "end": 491.8,
+      "text": " It's one of the biggest things that makes doTERRA a difference.",
+      "words": [
+        {
+          "word": " It's",
+          "start": 488.38,
+          "end": 488.76
+        },
+        {
+          "word": " one",
+          "start": 488.76,
+          "end": 488.94
+        },
+        {
+          "word": " of",
+          "start": 488.94,
+          "end": 489.04
+        },
+        {
+          "word": " the",
+          "start": 489.04,
+          "end": 489.16
+        },
+        {
+          "word": " biggest",
+          "start": 489.16,
+          "end": 489.6
+        },
+        {
+          "word": " things",
+          "start": 489.6,
+          "end": 490.4
+        },
+        {
+          "word": " that",
+          "start": 490.4,
+          "end": 490.66
+        },
+        {
+          "word": " makes",
+          "start": 490.66,
+          "end": 490.94
+        },
+        {
+          "word": " doTERRA",
+          "start": 490.94,
+          "end": 491.42
+        },
+        {
+          "word": " a",
+          "start": 491.42,
+          "end": 491.6
+        },
+        {
+          "word": " difference.",
+          "start": 491.6,
+          "end": 491.8
+        }
+      ]
+    },
+    {
+      "start": 493.08,
+      "end": 495.24,
+      "text": " Empower people to grow and succeed.",
+      "words": [
+        {
+          "word": " Empower",
+          "start": 493.08,
+          "end": 493.96
+        },
+        {
+          "word": " people",
+          "start": 493.96,
+          "end": 494.32
+        },
+        {
+          "word": " to",
+          "start": 494.32,
+          "end": 494.52
+        },
+        {
+          "word": " grow",
+          "start": 494.52,
+          "end": 494.72
+        },
+        {
+          "word": " and",
+          "start": 494.72,
+          "end": 494.84
+        },
+        {
+          "word": " succeed.",
+          "start": 494.84,
+          "end": 495.24
+        }
+      ]
+    },
+    {
+      "start": 495.78,
+      "end": 497.66,
+      "text": " Isn't this the best part of doTERRA?",
+      "words": [
+        {
+          "word": " Isn't",
+          "start": 495.78,
+          "end": 496.38
+        },
+        {
+          "word": " this",
+          "start": 496.38,
+          "end": 496.52
+        },
+        {
+          "word": " the",
+          "start": 496.52,
+          "end": 496.66
+        },
+        {
+          "word": " best",
+          "start": 496.66,
+          "end": 496.88
+        },
+        {
+          "word": " part",
+          "start": 496.88,
+          "end": 497.08
+        },
+        {
+          "word": " of",
+          "start": 497.08,
+          "end": 497.2
+        },
+        {
+          "word": " doTERRA?",
+          "start": 497.2,
+          "end": 497.66
+        }
+      ]
+    },
+    {
+      "start": 498.22,
+      "end": 512.22,
+      "text": " Ask experienced leaders at doTERRA and they say they appreciate the financial aspects of the doTERRA business, but most importantly they love seeing people around them succeed even more.",
+      "words": [
+        {
+          "word": " Ask",
+          "start": 498.22,
+          "end": 498.76
+        },
+        {
+          "word": " experienced",
+          "start": 498.76,
+          "end": 499.68
+        },
+        {
+          "word": " leaders",
+          "start": 499.68,
+          "end": 500.16
+        },
+        {
+          "word": " at",
+          "start": 500.16,
+          "end": 501.06
+        },
+        {
+          "word": " doTERRA",
+          "start": 501.06,
+          "end": 501.74
+        },
+        {
+          "word": " and",
+          "start": 501.74,
+          "end": 502.74
+        },
+        {
+          "word": " they",
+          "start": 502.74,
+          "end": 502.92
+        },
+        {
+          "word": " say",
+          "start": 502.92,
+          "end": 503.26
+        },
+        {
+          "word": " they",
+          "start": 503.26,
+          "end": 503.94
+        },
+        {
+          "word": " appreciate",
+          "start": 503.94,
+          "end": 504.58
+        },
+        {
+          "word": " the",
+          "start": 504.58,
+          "end": 504.8
+        },
+        {
+          "word": " financial",
+          "start": 504.8,
+          "end": 505.28
+        },
+        {
+          "word": " aspects",
+          "start": 505.28,
+          "end": 505.9
+        },
+        {
+          "word": " of",
+          "start": 505.9,
+          "end": 506.08
+        },
+        {
+          "word": " the",
+          "start": 506.08,
+          "end": 506.16
+        },
+        {
+          "word": " doTERRA",
+          "start": 506.16,
+          "end": 506.56
+        },
+        {
+          "word": " business,",
+          "start": 506.56,
+          "end": 507.0
+        },
+        {
+          "word": " but",
+          "start": 507.3,
+          "end": 507.8
+        },
+        {
+          "word": " most",
+          "start": 507.8,
+          "end": 508.16
+        },
+        {
+          "word": " importantly",
+          "start": 508.16,
+          "end": 508.66
+        },
+        {
+          "word": " they",
+          "start": 508.66,
+          "end": 509.0
+        },
+        {
+          "word": " love",
+          "start": 509.0,
+          "end": 509.48
+        },
+        {
+          "word": " seeing",
+          "start": 509.48,
+          "end": 509.8
+        },
+        {
+          "word": " people",
+          "start": 509.8,
+          "end": 510.26
+        },
+        {
+          "word": " around",
+          "start": 510.26,
+          "end": 510.7
+        },
+        {
+          "word": " them",
+          "start": 510.7,
+          "end": 511.0
+        },
+        {
+          "word": " succeed",
+          "start": 511.0,
+          "end": 511.46
+        },
+        {
+          "word": " even",
+          "start": 511.46,
+          "end": 511.9
+        },
+        {
+          "word": " more.",
+          "start": 511.9,
+          "end": 512.22
+        }
+      ]
+    },
+    {
+      "start": 512.22,
+      "end": 516.62,
+      "text": " And last, build strong supportive communities.",
+      "words": [
+        {
+          "word": " And",
+          "start": 512.22,
+          "end": 513.46
+        },
+        {
+          "word": " last,",
+          "start": 513.46,
+          "end": 513.98
+        },
+        {
+          "word": " build",
+          "start": 514.42,
+          "end": 515.06
+        },
+        {
+          "word": " strong",
+          "start": 515.06,
+          "end": 515.5
+        },
+        {
+          "word": " supportive",
+          "start": 515.5,
+          "end": 516.0
+        },
+        {
+          "word": " communities.",
+          "start": 516.0,
+          "end": 516.62
+        }
+      ]
+    },
+    {
+      "start": 517.06,
+      "end": 520.88,
+      "text": " This is the result of the work from the top five.",
+      "words": [
+        {
+          "word": " This",
+          "start": 517.06,
+          "end": 517.6
+        },
+        {
+          "word": " is",
+          "start": 517.6,
+          "end": 517.8
+        },
+        {
+          "word": " the",
+          "start": 517.8,
+          "end": 517.94
+        },
+        {
+          "word": " result",
+          "start": 517.94,
+          "end": 518.48
+        },
+        {
+          "word": " of",
+          "start": 518.48,
+          "end": 519.2
+        },
+        {
+          "word": " the",
+          "start": 519.2,
+          "end": 519.32
+        },
+        {
+          "word": " work",
+          "start": 519.32,
+          "end": 519.68
+        },
+        {
+          "word": " from",
+          "start": 519.68,
+          "end": 520.12
+        },
+        {
+          "word": " the",
+          "start": 520.12,
+          "end": 520.26
+        },
+        {
+          "word": " top",
+          "start": 520.26,
+          "end": 520.48
+        },
+        {
+          "word": " five.",
+          "start": 520.48,
+          "end": 520.88
+        }
+      ]
+    },
+    {
+      "start": 521.98,
+      "end": 529.76,
+      "text": " So if you are looking for a job and this was on the job description, I think most people would apply for this.",
+      "words": [
+        {
+          "word": " So",
+          "start": 521.98,
+          "end": 522.7
+        },
+        {
+          "word": " if",
+          "start": 522.7,
+          "end": 522.92
+        },
+        {
+          "word": " you",
+          "start": 522.92,
+          "end": 523.02
+        },
+        {
+          "word": " are",
+          "start": 523.02,
+          "end": 523.18
+        },
+        {
+          "word": " looking",
+          "start": 523.18,
+          "end": 523.54
+        },
+        {
+          "word": " for",
+          "start": 523.54,
+          "end": 523.78
+        },
+        {
+          "word": " a",
+          "start": 523.78,
+          "end": 523.88
+        },
+        {
+          "word": " job",
+          "start": 523.88,
+          "end": 524.28
+        },
+        {
+          "word": " and",
+          "start": 524.28,
+          "end": 524.86
+        },
+        {
+          "word": " this",
+          "start": 524.86,
+          "end": 525.08
+        },
+        {
+          "word": " was",
+          "start": 525.08,
+          "end": 525.24
+        },
+        {
+          "word": " on",
+          "start": 525.24,
+          "end": 525.38
+        },
+        {
+          "word": " the",
+          "start": 525.38,
+          "end": 525.52
+        },
+        {
+          "word": " job",
+          "start": 525.52,
+          "end": 525.78
+        },
+        {
+          "word": " description,",
+          "start": 525.78,
+          "end": 526.32
+        },
+        {
+          "word": " I",
+          "start": 526.7,
+          "end": 527.48
+        },
+        {
+          "word": " think",
+          "start": 527.48,
+          "end": 527.76
+        },
+        {
+          "word": " most",
+          "start": 527.76,
+          "end": 528.08
+        },
+        {
+          "word": " people",
+          "start": 528.08,
+          "end": 528.44
+        },
+        {
+          "word": " would",
+          "start": 528.44,
+          "end": 528.64
+        },
+        {
+          "word": " apply",
+          "start": 528.64,
+          "end": 529.02
+        },
+        {
+          "word": " for",
+          "start": 529.02,
+          "end": 529.36
+        },
+        {
+          "word": " this.",
+          "start": 529.36,
+          "end": 529.76
+        }
+      ]
+    },
+    {
+      "start": 529.76,
+      "end": 534.66,
+      "text": " And this is why you talk about the business to everyone.",
+      "words": [
+        {
+          "word": " And",
+          "start": 529.76,
+          "end": 530.6
+        },
+        {
+          "word": " this",
+          "start": 530.6,
+          "end": 531.02
+        },
+        {
+          "word": " is",
+          "start": 531.02,
+          "end": 531.22
+        },
+        {
+          "word": " why",
+          "start": 531.22,
+          "end": 531.62
+        },
+        {
+          "word": " you",
+          "start": 531.62,
+          "end": 532.18
+        },
+        {
+          "word": " talk",
+          "start": 532.18,
+          "end": 532.52
+        },
+        {
+          "word": " about",
+          "start": 532.52,
+          "end": 532.8
+        },
+        {
+          "word": " the",
+          "start": 532.8,
+          "end": 532.98
+        },
+        {
+          "word": " business",
+          "start": 532.98,
+          "end": 533.4
+        },
+        {
+          "word": " to",
+          "start": 533.4,
+          "end": 534.08
+        },
+        {
+          "word": " everyone.",
+          "start": 534.08,
+          "end": 534.66
+        }
+      ]
+    },
+    {
+      "start": 535.1,
+      "end": 536.4,
+      "text": " This is what they want.",
+      "words": [
+        {
+          "word": " This",
+          "start": 535.1,
+          "end": 535.56
+        },
+        {
+          "word": " is",
+          "start": 535.56,
+          "end": 535.72
+        },
+        {
+          "word": " what",
+          "start": 535.72,
+          "end": 535.9
+        },
+        {
+          "word": " they",
+          "start": 535.9,
+          "end": 536.08
+        },
+        {
+          "word": " want.",
+          "start": 536.08,
+          "end": 536.4
+        }
+      ]
+    },
+    {
+      "start": 539.84,
+      "end": 542.24,
+      "text": " Okay, what is the key to your success?",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 539.84,
+          "end": 540.52
+        },
+        {
+          "word": " what",
+          "start": 540.7,
+          "end": 540.88
+        },
+        {
+          "word": " is",
+          "start": 540.88,
+          "end": 541.06
+        },
+        {
+          "word": " the",
+          "start": 541.06,
+          "end": 541.2
+        },
+        {
+          "word": " key",
+          "start": 541.2,
+          "end": 541.44
+        },
+        {
+          "word": " to",
+          "start": 541.44,
+          "end": 541.58
+        },
+        {
+          "word": " your",
+          "start": 541.58,
+          "end": 541.78
+        },
+        {
+          "word": " success?",
+          "start": 541.78,
+          "end": 542.24
+        }
+      ]
+    },
+    {
+      "start": 542.9200000000001,
+      "end": 547.2,
+      "text": " So you'll notice, I've been changing the title of this slide.",
+      "words": [
+        {
+          "word": " So",
+          "start": 542.9200000000001,
+          "end": 543.6
+        },
+        {
+          "word": " you'll",
+          "start": 543.6,
+          "end": 543.84
+        },
+        {
+          "word": " notice,",
+          "start": 543.84,
+          "end": 544.4
+        },
+        {
+          "word": " I've",
+          "start": 544.98,
+          "end": 545.4
+        },
+        {
+          "word": " been",
+          "start": 545.4,
+          "end": 545.5
+        },
+        {
+          "word": " changing",
+          "start": 545.5,
+          "end": 545.74
+        },
+        {
+          "word": " the",
+          "start": 545.74,
+          "end": 546.04
+        },
+        {
+          "word": " title",
+          "start": 546.04,
+          "end": 546.44
+        },
+        {
+          "word": " of",
+          "start": 546.44,
+          "end": 546.66
+        },
+        {
+          "word": " this",
+          "start": 546.66,
+          "end": 546.84
+        },
+        {
+          "word": " slide.",
+          "start": 546.84,
+          "end": 547.2
+        }
+      ]
+    },
+    {
+      "start": 547.94,
+      "end": 556.2,
+      "text": " So the exact same things that you do to be a leader are the same things that will lead to your success at doTERRA.",
+      "words": [
+        {
+          "word": " So",
+          "start": 547.94,
+          "end": 548.5
+        },
+        {
+          "word": " the",
+          "start": 548.5,
+          "end": 548.68
+        },
+        {
+          "word": " exact",
+          "start": 548.68,
+          "end": 549.08
+        },
+        {
+          "word": " same",
+          "start": 549.08,
+          "end": 549.38
+        },
+        {
+          "word": " things",
+          "start": 549.38,
+          "end": 549.94
+        },
+        {
+          "word": " that",
+          "start": 549.94,
+          "end": 550.38
+        },
+        {
+          "word": " you",
+          "start": 550.38,
+          "end": 550.54
+        },
+        {
+          "word": " do",
+          "start": 550.54,
+          "end": 550.9
+        },
+        {
+          "word": " to",
+          "start": 550.9,
+          "end": 551.3
+        },
+        {
+          "word": " be",
+          "start": 551.3,
+          "end": 551.42
+        },
+        {
+          "word": " a",
+          "start": 551.42,
+          "end": 551.54
+        },
+        {
+          "word": " leader",
+          "start": 551.54,
+          "end": 551.84
+        },
+        {
+          "word": " are",
+          "start": 551.84,
+          "end": 552.36
+        },
+        {
+          "word": " the",
+          "start": 552.36,
+          "end": 552.56
+        },
+        {
+          "word": " same",
+          "start": 552.56,
+          "end": 553.04
+        },
+        {
+          "word": " things",
+          "start": 553.04,
+          "end": 553.78
+        },
+        {
+          "word": " that",
+          "start": 553.78,
+          "end": 554.28
+        },
+        {
+          "word": " will",
+          "start": 554.28,
+          "end": 554.5
+        },
+        {
+          "word": " lead",
+          "start": 554.5,
+          "end": 554.7
+        },
+        {
+          "word": " to",
+          "start": 554.7,
+          "end": 554.84
+        },
+        {
+          "word": " your",
+          "start": 554.84,
+          "end": 555.02
+        },
+        {
+          "word": " success",
+          "start": 555.02,
+          "end": 555.52
+        },
+        {
+          "word": " at",
+          "start": 555.52,
+          "end": 555.78
+        },
+        {
+          "word": " doTERRA.",
+          "start": 555.78,
+          "end": 556.2
+        }
+      ]
+    },
+    {
+      "start": 559.2,
+      "end": 563.14,
+      "text": " I told you over the last couple of years, I've spent a lot of time in India.",
+      "words": [
+        {
+          "word": " I",
+          "start": 558.94,
+          "end": 559.22
+        },
+        {
+          "word": " told",
+          "start": 559.22,
+          "end": 559.5
+        },
+        {
+          "word": " you",
+          "start": 559.5,
+          "end": 559.7
+        },
+        {
+          "word": " over",
+          "start": 559.7,
+          "end": 559.88
+        },
+        {
+          "word": " the",
+          "start": 559.88,
+          "end": 560.36
+        },
+        {
+          "word": " last",
+          "start": 560.36,
+          "end": 560.58
+        },
+        {
+          "word": " couple",
+          "start": 560.58,
+          "end": 560.84
+        },
+        {
+          "word": " of",
+          "start": 560.84,
+          "end": 561.0
+        },
+        {
+          "word": " years,",
+          "start": 561.0,
+          "end": 561.28
+        },
+        {
+          "word": " I've",
+          "start": 561.46,
+          "end": 561.92
+        },
+        {
+          "word": " spent",
+          "start": 561.92,
+          "end": 562.1
+        },
+        {
+          "word": " a",
+          "start": 562.1,
+          "end": 562.24
+        },
+        {
+          "word": " lot",
+          "start": 562.24,
+          "end": 562.36
+        },
+        {
+          "word": " of",
+          "start": 562.36,
+          "end": 562.46
+        },
+        {
+          "word": " time",
+          "start": 562.46,
+          "end": 562.64
+        },
+        {
+          "word": " in",
+          "start": 562.64,
+          "end": 562.86
+        },
+        {
+          "word": " India.",
+          "start": 562.86,
+          "end": 563.14
+        }
+      ]
+    },
+    {
+      "start": 563.72,
+      "end": 568.42,
+      "text": " I feel this is a pretty fair explanation of how their traffic works.",
+      "words": [
+        {
+          "word": " I",
+          "start": 563.72,
+          "end": 564.28
+        },
+        {
+          "word": " feel",
+          "start": 564.28,
+          "end": 564.76
+        },
+        {
+          "word": " this",
+          "start": 564.76,
+          "end": 565.42
+        },
+        {
+          "word": " is",
+          "start": 565.42,
+          "end": 565.56
+        },
+        {
+          "word": " a",
+          "start": 565.56,
+          "end": 565.68
+        },
+        {
+          "word": " pretty",
+          "start": 565.68,
+          "end": 565.94
+        },
+        {
+          "word": " fair",
+          "start": 565.94,
+          "end": 566.2
+        },
+        {
+          "word": " explanation",
+          "start": 566.2,
+          "end": 566.96
+        },
+        {
+          "word": " of",
+          "start": 566.96,
+          "end": 567.24
+        },
+        {
+          "word": " how",
+          "start": 567.24,
+          "end": 567.38
+        },
+        {
+          "word": " their",
+          "start": 567.38,
+          "end": 567.58
+        },
+        {
+          "word": " traffic",
+          "start": 567.58,
+          "end": 567.92
+        },
+        {
+          "word": " works.",
+          "start": 567.92,
+          "end": 568.42
+        }
+      ]
+    },
+    {
+      "start": 569.6400000000001,
+      "end": 573.34,
+      "text": " Has your doTERRA business ever felt like this?",
+      "words": [
+        {
+          "word": " Has",
+          "start": 569.6400000000001,
+          "end": 570.2
+        },
+        {
+          "word": " your",
+          "start": 570.2,
+          "end": 570.46
+        },
+        {
+          "word": " doTERRA",
+          "start": 570.46,
+          "end": 571.0
+        },
+        {
+          "word": " business",
+          "start": 571.0,
+          "end": 571.44
+        },
+        {
+          "word": " ever",
+          "start": 571.44,
+          "end": 572.36
+        },
+        {
+          "word": " felt",
+          "start": 572.36,
+          "end": 572.66
+        },
+        {
+          "word": " like",
+          "start": 572.66,
+          "end": 572.92
+        },
+        {
+          "word": " this?",
+          "start": 572.92,
+          "end": 573.34
+        }
+      ]
+    },
+    {
+      "start": 574.62,
+      "end": 576.48,
+      "text": " Sometimes it gets a little crazy.",
+      "words": [
+        {
+          "word": " Sometimes",
+          "start": 574.62,
+          "end": 575.26
+        },
+        {
+          "word": " it",
+          "start": 575.26,
+          "end": 575.54
+        },
+        {
+          "word": " gets",
+          "start": 575.54,
+          "end": 575.72
+        },
+        {
+          "word": " a",
+          "start": 575.72,
+          "end": 575.84
+        },
+        {
+          "word": " little",
+          "start": 575.84,
+          "end": 575.98
+        },
+        {
+          "word": " crazy.",
+          "start": 575.98,
+          "end": 576.48
+        }
+      ]
+    },
+    {
+      "start": 577.12,
+      "end": 582.54,
+      "text": " Different programs, promotions, incentive, events, all the things.",
+      "words": [
+        {
+          "word": " Different",
+          "start": 577.12,
+          "end": 577.76
+        },
+        {
+          "word": " programs,",
+          "start": 577.76,
+          "end": 578.46
+        },
+        {
+          "word": " promotions,",
+          "start": 578.74,
+          "end": 579.32
+        },
+        {
+          "word": " incentive,",
+          "start": 580.04,
+          "end": 580.42
+        },
+        {
+          "word": " events,",
+          "start": 580.92,
+          "end": 581.36
+        },
+        {
+          "word": " all",
+          "start": 581.68,
+          "end": 582.0
+        },
+        {
+          "word": " the",
+          "start": 582.0,
+          "end": 582.16
+        },
+        {
+          "word": " things.",
+          "start": 582.16,
+          "end": 582.54
+        }
+      ]
+    },
+    {
+      "start": 583.48,
+      "end": 584.74,
+      "text": " Has it ever felt like this?",
+      "words": [
+        {
+          "word": " Has",
+          "start": 583.48,
+          "end": 583.72
+        },
+        {
+          "word": " it",
+          "start": 583.72,
+          "end": 583.82
+        },
+        {
+          "word": " ever",
+          "start": 583.82,
+          "end": 584.0
+        },
+        {
+          "word": " felt",
+          "start": 584.0,
+          "end": 584.22
+        },
+        {
+          "word": " like",
+          "start": 584.22,
+          "end": 584.42
+        },
+        {
+          "word": " this?",
+          "start": 584.42,
+          "end": 584.74
+        }
+      ]
+    },
+    {
+      "start": 588.64,
+      "end": 591.66,
+      "text": " Okay, who has been to India in here?",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 588.64,
+          "end": 589.28
+        },
+        {
+          "word": " who",
+          "start": 589.54,
+          "end": 589.76
+        },
+        {
+          "word": " has",
+          "start": 589.76,
+          "end": 589.98
+        },
+        {
+          "word": " been",
+          "start": 589.98,
+          "end": 590.18
+        },
+        {
+          "word": " to",
+          "start": 590.18,
+          "end": 590.38
+        },
+        {
+          "word": " India",
+          "start": 590.38,
+          "end": 590.8
+        },
+        {
+          "word": " in",
+          "start": 590.8,
+          "end": 591.44
+        },
+        {
+          "word": " here?",
+          "start": 591.44,
+          "end": 591.66
+        }
+      ]
+    },
+    {
+      "start": 592.8,
+      "end": 596.2,
+      "text": " Alright, is this not an exaggeration of the traffic?",
+      "words": [
+        {
+          "word": " Alright,",
+          "start": 592.8,
+          "end": 593.38
+        },
+        {
+          "word": " is",
+          "start": 593.58,
+          "end": 593.78
+        },
+        {
+          "word": " this",
+          "start": 593.78,
+          "end": 594.18
+        },
+        {
+          "word": " not",
+          "start": 594.18,
+          "end": 594.52
+        },
+        {
+          "word": " an",
+          "start": 594.52,
+          "end": 594.76
+        },
+        {
+          "word": " exaggeration",
+          "start": 594.76,
+          "end": 595.58
+        },
+        {
+          "word": " of",
+          "start": 595.58,
+          "end": 595.76
+        },
+        {
+          "word": " the",
+          "start": 595.76,
+          "end": 595.88
+        },
+        {
+          "word": " traffic?",
+          "start": 595.88,
+          "end": 596.2
+        }
+      ]
+    },
+    {
+      "start": 596.9,
+      "end": 599.42,
+      "text": " This is exactly what it's like.",
+      "words": [
+        {
+          "word": " This",
+          "start": 596.9,
+          "end": 597.54
+        },
+        {
+          "word": " is",
+          "start": 597.54,
+          "end": 597.74
+        },
+        {
+          "word": " exactly",
+          "start": 597.74,
+          "end": 598.74
+        },
+        {
+          "word": " what",
+          "start": 598.74,
+          "end": 599.04
+        },
+        {
+          "word": " it's",
+          "start": 599.04,
+          "end": 599.2
+        },
+        {
+          "word": " like.",
+          "start": 599.2,
+          "end": 599.42
+        }
+      ]
+    },
+    {
+      "start": 599.42,
+      "end": 603.78,
+      "text": " We do not want your doTERRA business to feel like this.",
+      "words": [
+        {
+          "word": " We",
+          "start": 599.42,
+          "end": 600.06
+        },
+        {
+          "word": " do",
+          "start": 600.06,
+          "end": 600.3
+        },
+        {
+          "word": " not",
+          "start": 600.3,
+          "end": 600.64
+        },
+        {
+          "word": " want",
+          "start": 600.64,
+          "end": 601.04
+        },
+        {
+          "word": " your",
+          "start": 601.04,
+          "end": 601.24
+        },
+        {
+          "word": " doTERRA",
+          "start": 601.24,
+          "end": 601.76
+        },
+        {
+          "word": " business",
+          "start": 601.76,
+          "end": 602.16
+        },
+        {
+          "word": " to",
+          "start": 602.16,
+          "end": 602.8
+        },
+        {
+          "word": " feel",
+          "start": 602.8,
+          "end": 603.04
+        },
+        {
+          "word": " like",
+          "start": 603.04,
+          "end": 603.3
+        },
+        {
+          "word": " this.",
+          "start": 603.3,
+          "end": 603.78
+        }
+      ]
+    },
+    {
+      "start": 604.98,
+      "end": 608.42,
+      "text": " Instead, all green stoplights.",
+      "words": [
+        {
+          "word": " Instead,",
+          "start": 604.98,
+          "end": 605.74
+        },
+        {
+          "word": " all",
+          "start": 606.86,
+          "end": 607.18
+        },
+        {
+          "word": " green",
+          "start": 607.18,
+          "end": 607.94
+        },
+        {
+          "word": " stoplights.",
+          "start": 607.94,
+          "end": 608.42
+        }
+      ]
+    },
+    {
+      "start": 609.52,
+      "end": 620.12,
+      "text": " My challenge for you over the next couple of days is pick three things that you can focus on that will help move your business forward.",
+      "words": [
+        {
+          "word": " My",
+          "start": 609.52,
+          "end": 610.08
+        },
+        {
+          "word": " challenge",
+          "start": 610.08,
+          "end": 610.54
+        },
+        {
+          "word": " for",
+          "start": 610.54,
+          "end": 610.88
+        },
+        {
+          "word": " you",
+          "start": 610.88,
+          "end": 611.3
+        },
+        {
+          "word": " over",
+          "start": 611.3,
+          "end": 611.84
+        },
+        {
+          "word": " the",
+          "start": 611.84,
+          "end": 612.0
+        },
+        {
+          "word": " next",
+          "start": 612.0,
+          "end": 612.26
+        },
+        {
+          "word": " couple",
+          "start": 612.26,
+          "end": 612.58
+        },
+        {
+          "word": " of",
+          "start": 612.58,
+          "end": 612.72
+        },
+        {
+          "word": " days",
+          "start": 612.72,
+          "end": 613.08
+        },
+        {
+          "word": " is",
+          "start": 613.08,
+          "end": 613.88
+        },
+        {
+          "word": " pick",
+          "start": 613.88,
+          "end": 614.24
+        },
+        {
+          "word": " three",
+          "start": 614.24,
+          "end": 614.62
+        },
+        {
+          "word": " things",
+          "start": 614.62,
+          "end": 615.32
+        },
+        {
+          "word": " that",
+          "start": 615.32,
+          "end": 616.3
+        },
+        {
+          "word": " you",
+          "start": 616.3,
+          "end": 616.66
+        },
+        {
+          "word": " can",
+          "start": 616.66,
+          "end": 617.88
+        },
+        {
+          "word": " focus",
+          "start": 617.88,
+          "end": 618.18
+        },
+        {
+          "word": " on",
+          "start": 618.18,
+          "end": 618.42
+        },
+        {
+          "word": " that",
+          "start": 618.42,
+          "end": 618.58
+        },
+        {
+          "word": " will",
+          "start": 618.58,
+          "end": 618.7
+        },
+        {
+          "word": " help",
+          "start": 618.7,
+          "end": 618.94
+        },
+        {
+          "word": " move",
+          "start": 618.94,
+          "end": 619.16
+        },
+        {
+          "word": " your",
+          "start": 619.16,
+          "end": 619.34
+        },
+        {
+          "word": " business",
+          "start": 619.34,
+          "end": 619.68
+        },
+        {
+          "word": " forward.",
+          "start": 619.68,
+          "end": 620.12
+        }
+      ]
+    },
+    {
+      "start": 620.12,
+      "end": 624.18,
+      "text": " Don't try to implement everything you learn and hear here.",
+      "words": [
+        {
+          "word": " Don't",
+          "start": 620.12,
+          "end": 621.46
+        },
+        {
+          "word": " try",
+          "start": 621.46,
+          "end": 621.66
+        },
+        {
+          "word": " to",
+          "start": 621.66,
+          "end": 621.82
+        },
+        {
+          "word": " implement",
+          "start": 621.82,
+          "end": 622.22
+        },
+        {
+          "word": " everything",
+          "start": 622.22,
+          "end": 622.74
+        },
+        {
+          "word": " you",
+          "start": 622.74,
+          "end": 623.0
+        },
+        {
+          "word": " learn",
+          "start": 623.0,
+          "end": 623.32
+        },
+        {
+          "word": " and",
+          "start": 623.32,
+          "end": 623.62
+        },
+        {
+          "word": " hear",
+          "start": 623.62,
+          "end": 623.86
+        },
+        {
+          "word": " here.",
+          "start": 623.86,
+          "end": 624.18
+        }
+      ]
+    },
+    {
+      "start": 624.66,
+      "end": 631.62,
+      "text": " Take the best pieces that are the most meaningful to you and implement those.",
+      "words": [
+        {
+          "word": " Take",
+          "start": 624.66,
+          "end": 625.46
+        },
+        {
+          "word": " the",
+          "start": 625.46,
+          "end": 625.68
+        },
+        {
+          "word": " best",
+          "start": 625.68,
+          "end": 626.16
+        },
+        {
+          "word": " pieces",
+          "start": 626.16,
+          "end": 626.78
+        },
+        {
+          "word": " that",
+          "start": 626.78,
+          "end": 627.22
+        },
+        {
+          "word": " are",
+          "start": 627.22,
+          "end": 627.32
+        },
+        {
+          "word": " the",
+          "start": 627.32,
+          "end": 627.44
+        },
+        {
+          "word": " most",
+          "start": 627.44,
+          "end": 627.76
+        },
+        {
+          "word": " meaningful",
+          "start": 627.76,
+          "end": 628.28
+        },
+        {
+          "word": " to",
+          "start": 628.28,
+          "end": 628.6
+        },
+        {
+          "word": " you",
+          "start": 628.6,
+          "end": 629.0
+        },
+        {
+          "word": " and",
+          "start": 629.0,
+          "end": 630.7
+        },
+        {
+          "word": " implement",
+          "start": 630.7,
+          "end": 631.16
+        },
+        {
+          "word": " those.",
+          "start": 631.16,
+          "end": 631.62
+        }
+      ]
+    },
+    {
+      "start": 631.96,
+      "end": 636.78,
+      "text": " So you notice, there's no red, no yellow on the stoplight.",
+      "words": [
+        {
+          "word": " So",
+          "start": 631.96,
+          "end": 632.5
+        },
+        {
+          "word": " you",
+          "start": 632.5,
+          "end": 632.66
+        },
+        {
+          "word": " notice,",
+          "start": 632.66,
+          "end": 633.06
+        },
+        {
+          "word": " there's",
+          "start": 633.36,
+          "end": 633.88
+        },
+        {
+          "word": " no",
+          "start": 633.88,
+          "end": 634.1
+        },
+        {
+          "word": " red,",
+          "start": 634.1,
+          "end": 634.52
+        },
+        {
+          "word": " no",
+          "start": 634.94,
+          "end": 635.46
+        },
+        {
+          "word": " yellow",
+          "start": 635.46,
+          "end": 635.9
+        },
+        {
+          "word": " on",
+          "start": 635.9,
+          "end": 636.14
+        },
+        {
+          "word": " the",
+          "start": 636.14,
+          "end": 636.26
+        },
+        {
+          "word": " stoplight.",
+          "start": 636.26,
+          "end": 636.78
+        }
+      ]
+    },
+    {
+      "start": 637.3,
+      "end": 638.36,
+      "text": " It is all green.",
+      "words": [
+        {
+          "word": " It",
+          "start": 637.3,
+          "end": 637.38
+        },
+        {
+          "word": " is",
+          "start": 637.38,
+          "end": 637.54
+        },
+        {
+          "word": " all",
+          "start": 637.54,
+          "end": 637.92
+        },
+        {
+          "word": " green.",
+          "start": 637.92,
+          "end": 638.36
+        }
+      ]
+    },
+    {
+      "start": 638.36,
+      "end": 642.48,
+      "text": " There are so many opportunities here for you at doTERRA.",
+      "words": [
+        {
+          "word": " There",
+          "start": 638.36,
+          "end": 639.34
+        },
+        {
+          "word": " are",
+          "start": 639.34,
+          "end": 639.58
+        },
+        {
+          "word": " so",
+          "start": 639.58,
+          "end": 639.88
+        },
+        {
+          "word": " many",
+          "start": 639.88,
+          "end": 640.18
+        },
+        {
+          "word": " opportunities",
+          "start": 640.18,
+          "end": 640.92
+        },
+        {
+          "word": " here",
+          "start": 640.92,
+          "end": 641.4
+        },
+        {
+          "word": " for",
+          "start": 641.4,
+          "end": 641.76
+        },
+        {
+          "word": " you",
+          "start": 641.76,
+          "end": 641.9
+        },
+        {
+          "word": " at",
+          "start": 641.9,
+          "end": 642.04
+        },
+        {
+          "word": " doTERRA.",
+          "start": 642.04,
+          "end": 642.48
+        }
+      ]
+    },
+    {
+      "start": 644.38,
+      "end": 648.54,
+      "text": " So at doTERRA, there is no title required for leadership.",
+      "words": [
+        {
+          "word": " So",
+          "start": 644.38,
+          "end": 645.26
+        },
+        {
+          "word": " at",
+          "start": 645.26,
+          "end": 645.36
+        },
+        {
+          "word": " doTERRA,",
+          "start": 645.36,
+          "end": 645.9
+        },
+        {
+          "word": " there",
+          "start": 646.18,
+          "end": 646.46
+        },
+        {
+          "word": " is",
+          "start": 646.46,
+          "end": 646.64
+        },
+        {
+          "word": " no",
+          "start": 646.64,
+          "end": 646.84
+        },
+        {
+          "word": " title",
+          "start": 646.84,
+          "end": 647.2
+        },
+        {
+          "word": " required",
+          "start": 647.2,
+          "end": 647.76
+        },
+        {
+          "word": " for",
+          "start": 647.76,
+          "end": 648.06
+        },
+        {
+          "word": " leadership.",
+          "start": 648.06,
+          "end": 648.54
+        }
+      ]
+    },
+    {
+      "start": 649.42,
+      "end": 657.78,
+      "text": " Simply stated, leadership is personal growth combined with empowering and serving others to achieve success.",
+      "words": [
+        {
+          "word": " Simply",
+          "start": 649.42,
+          "end": 649.76
+        },
+        {
+          "word": " stated,",
+          "start": 649.76,
+          "end": 650.26
+        },
+        {
+          "word": " leadership",
+          "start": 650.86,
+          "end": 651.36
+        },
+        {
+          "word": " is",
+          "start": 651.36,
+          "end": 651.84
+        },
+        {
+          "word": " personal",
+          "start": 651.84,
+          "end": 652.3
+        },
+        {
+          "word": " growth",
+          "start": 652.3,
+          "end": 652.78
+        },
+        {
+          "word": " combined",
+          "start": 652.78,
+          "end": 653.8
+        },
+        {
+          "word": " with",
+          "start": 653.8,
+          "end": 654.14
+        },
+        {
+          "word": " empowering",
+          "start": 654.14,
+          "end": 654.8
+        },
+        {
+          "word": " and",
+          "start": 654.8,
+          "end": 655.46
+        },
+        {
+          "word": " serving",
+          "start": 655.46,
+          "end": 655.82
+        },
+        {
+          "word": " others",
+          "start": 655.82,
+          "end": 656.24
+        },
+        {
+          "word": " to",
+          "start": 656.24,
+          "end": 656.82
+        },
+        {
+          "word": " achieve",
+          "start": 656.82,
+          "end": 657.14
+        },
+        {
+          "word": " success.",
+          "start": 657.14,
+          "end": 657.78
+        }
+      ]
+    },
+    {
+      "start": 658.2,
+      "end": 658.9,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": " Thank",
+          "start": 658.2,
+          "end": 658.64
+        },
+        {
+          "word": " you.",
+          "start": 658.64,
+          "end": 658.9
+        }
+      ]
+    },
+    {
+      "start": 658.9,
+      "end": 659.9,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": " Thank",
+          "start": 658.9,
+          "end": 658.9
+        },
+        {
+          "word": " you.",
+          "start": 658.9,
+          "end": 659.9
+        }
+      ]
+    }
+  ]
+}
