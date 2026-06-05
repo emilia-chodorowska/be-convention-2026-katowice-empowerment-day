@@ -1,6 +1,6 @@
 # doTERRA Bē Convention 2026 Katowice — General Session
 
-**Lokalizacja:** Spodek Arena, Katowice | **Data:** 29 maja 2026 (piątek) | **Blok:** General Session (09:30–12:30) | **Wystąpień:** 10 (9 prelegentów, Scott Johnson 2×) | **Łączny czas:** ok. 2h35min (po cięciach) | **Język:** EN | **Playlista YT:** (do utworzenia)
+**Lokalizacja:** Spodek Arena, Katowice | **Data:** 29 maja 2026 (piątek) | **Blok:** General Session (09:30–12:30) | **Wystąpień:** 10 (9 prelegentów, Scott Johnson 2×) | **Łączny czas:** ok. 2h35min (po cięciach) | **Język:** EN | **Playlista YT:** [General Session](https://www.youtube.com/playlist?list=PL2CEwcCp6FQaN75P3ZBR6HX7MzjS-rddp) (unlisted)
 
 > **To osobny dzień konwencji** — nie Empowerment Day (czwartek 28.05, [Sesja 1](../sesja1.html) + [Sesja 2](../Sesja%202/)). General Session to główna scena piątku: keynote'y korporacyjne (CEO, CMO, MD), premiery produktów i biznesowe zamknięcie.
 
