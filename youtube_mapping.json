@@ -1,5 +1,36 @@
 {
   "playlist_id": "PL2CEwcCp6FQa5JQ8RpkCus-w7HqSP---m",
   "playlist_url": "https://www.youtube.com/playlist?list=PL2CEwcCp6FQa5JQ8RpkCus-w7HqSP---m",
-  "videos": []
+  "videos": [
+    {
+      "file": "01-Michele-Farace-nie-pracuj-na-cudze-marzenie.mov",
+      "video_id": "X-9ObHzlBo8",
+      "url": "https://www.youtube.com/watch?v=X-9ObHzlBo8",
+      "title": "01. Michele Farace — Nie pracuj na cudze marzenie"
+    },
+    {
+      "file": "02-Dani-Lauer-stop-overthinking.mov",
+      "video_id": "wYrbtbJ61QM",
+      "url": "https://www.youtube.com/watch?v=wYrbtbJ61QM",
+      "title": "02. Dani Lauer — Stop overthinking"
+    },
+    {
+      "file": "03-Melina-Ilia-Philmon-LRP-sciezka-do-500.mov",
+      "video_id": "6_HhwmHC0AQ",
+      "url": "https://www.youtube.com/watch?v=6_HhwmHC0AQ",
+      "title": "03. Melina Ilia-Philmon — LRP i ścieżka do 500"
+    },
+    {
+      "file": "04-Panel-rekrutacja-przez-polaczenie.mov",
+      "video_id": "DAmIQBdYsck",
+      "url": "https://www.youtube.com/watch?v=DAmIQBdYsck",
+      "title": "04. Panel — Rekrutacja przez połączenie"
+    },
+    {
+      "file": "05-Tammy-Marti-stop-chasing-create-spaces.mov",
+      "video_id": "87jyZy9YHcs",
+      "url": "https://www.youtube.com/watch?v=87jyZy9YHcs",
+      "title": "05. Tammy Marti — Stop chasing, create spaces"
+    }
+  ]
 }
