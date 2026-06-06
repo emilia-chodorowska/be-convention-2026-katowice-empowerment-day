@@ -1,6 +1,6 @@
 # doTERRA Bē Convention 2026 Katowice — General Session (sobota)
 
-**Lokalizacja:** Spodek Arena, Katowice | **Data:** 30 maja 2026 (sobota) | **Bloki:** poranny „A Morning with Dr Mariza Snyder" (09:15) + General Session popołudnie | **Wystąpień:** 10 | **Łączny czas:** ok. 3h35min (po cięciach) | **Język:** EN | **Playlista YT:** (do utworzenia)
+**Lokalizacja:** Spodek Arena, Katowice | **Data:** 30 maja 2026 (sobota) | **Bloki:** poranny „A Morning with Dr Mariza Snyder" (09:15) + General Session popołudnie | **Wystąpień:** 10 | **Łączny czas:** ok. 3h35min (po cięciach) | **Język:** EN | **Playlista YT:** [General Session (sobota)](https://www.youtube.com/playlist?list=PL2CEwcCp6FQaQ6bsg1R1MR-c6VzuUN8nx) (unlisted)
 
 > **Trzeci i ostatni dzień konwencji.** Nie Empowerment Day (czwartek), nie piątkowa [General Session](../General%20Session/) — sobota domyka całość: poranny blok o zdrowiu kobiet, popołudniowa główna scena (korpo + osobiste historie liderów) i zamknięcie założyciela.
 
