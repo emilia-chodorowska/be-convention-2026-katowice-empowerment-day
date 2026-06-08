@@ -1,6 +1,6 @@
 # doTERRA Bē Convention 2026 Katowice — General Session (sobota)
 
-**Lokalizacja:** Spodek Arena, Katowice | **Data:** 30 maja 2026 (sobota) | **Bloki:** poranny „A Morning with Dr Mariza Snyder" (09:15) + General Session popołudnie | **Wystąpień:** 10 | **Łączny czas:** ok. 3h35min (po cięciach) | **Język:** EN | **Playlista YT:** [General Session (sobota)](https://www.youtube.com/playlist?list=PL2CEwcCp6FQaQ6bsg1R1MR-c6VzuUN8nx) (unlisted)
+**Lokalizacja:** Spodek Arena, Katowice | **Data:** 30 maja 2026 (sobota) | **Bloki:** poranny „A Morning with Dr Mariza Snyder" (09:15) + General Session popołudnie | **Wystąpień:** 10 | **Łączny czas:** ok. 3h48min (po cięciach) | **Język:** EN | **Playlista YT:** [General Session (sobota)](https://www.youtube.com/playlist?list=PL2CEwcCp6FQaQ6bsg1R1MR-c6VzuUN8nx) (unlisted)
 
 > **Trzeci i ostatni dzień konwencji.** Nie Empowerment Day (czwartek), nie piątkowa [General Session](../General%20Session/) — sobota domyka całość: poranny blok o zdrowiu kobiet, popołudniowa główna scena (korpo + osobiste historie liderów) i zamknięcie założyciela.
 
@@ -90,7 +90,7 @@ Most do hasła konwencji; najsilniej u Stirlinga (zamknięcie) i Marizy.
 
 1. **Dr Mariza Snyder: poranek o hormonach i energii kobiet** (50:40) — perymenopauza, sygnały ciała, „women reclaim their energy".
 2. **Mark Wolfert Jr.: duma i powołanie w doTERRA** (11:03) — powrót do firmy, „you are needed".
-3. **Russell Osguthorpe: jakość olejków vs konkurencja** (15:00, urwane) — adulteration, GCMS, „the right thing, the hard thing".
+3. **Russell Osguthorpe: jakość olejków vs konkurencja + dowody kliniczne** (28:07) — adulteration, GCMS, do 80% olejków w UE zafałszowanych, „the right thing, the hard thing" + dane kliniczne (Omega+, kadzidłowiec, Copaiba).
 4. **Anastassia Lempert: od korporacji IT do transformacji** (16:32) — 20 lat w IT, pustka, decyzja by rosnąć.
 5. **Emilie Bell: Co-Impact Sourcing i Healing Hands** (23:24) — Wietnam/Blue Dragon, „beyond essential oils".
 6. **Murray Smith: ludzie w centrum (historia z Lesbos)** (24:47) — Nikos i Katerina, EO Omega, społeczności.
