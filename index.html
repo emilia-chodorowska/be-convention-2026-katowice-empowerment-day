@@ -46,10 +46,46 @@ a.card:hover { border-color: var(--accent); transform: translateY(-2px); box-sha
 
 .note { color: #888; font-size: 13px; margin-top: 28px; text-align: center; }
 .note a { color: var(--accent); }
+
+/* ── Baner charytatywny (zbiórka dla Zoe) ── */
+.zoe-banner { display: block; position: relative; overflow: hidden; background: linear-gradient(135deg, #fdeef0 0%, #f6dbe0 100%); border: 1px solid #f0c9d1; border-radius: 18px; padding: 24px 220px 24px 26px; margin-bottom: 30px; text-decoration: none; min-height: 158px; transition: box-shadow .18s, transform .18s; }
+.zoe-banner:hover { box-shadow: 0 12px 34px rgba(190,70,100,.18); transform: translateY(-2px); }
+.zoe-tag { display: inline-block; background: #d35a77; color: #fff; font-size: 11px; font-weight: 700; letter-spacing: .4px; padding: 3px 11px; border-radius: 999px; margin-bottom: 10px; }
+.zoe-text h2 { color: #6e2b3e; font-size: 25px; line-height: 1.15; margin: 0 0 6px; }
+.zoe-text p { color: #8a4a5b; font-size: 14px; line-height: 1.5; margin: 0 0 14px; }
+.zoe-text .heart-name { color: #d35a77; font-weight: 700; }
+.zoe-cta { display: inline-flex; align-items: center; gap: 7px; background: #d35a77; color: #fff; font-weight: 600; font-size: 14px; padding: 10px 18px; border-radius: 9px; transition: background .15s; }
+.zoe-banner:hover .zoe-cta { background: #bd4865; }
+.zoe-banner picture { display: contents; }
+.zoe-girl { position: absolute; right: 18px; bottom: 0; height: 186px; width: auto; pointer-events: none; }
+@media (max-width: 600px) {
+  .zoe-banner { padding: 16px 116px 16px 16px; border-radius: 14px; min-height: 138px; }
+  .zoe-text h2 { font-size: 19px; }
+  .zoe-text p { font-size: 12.5px; margin-bottom: 12px; }
+  .zoe-cta { font-size: 12.5px; padding: 9px 13px; }
+  .zoe-girl { right: 6px; height: 140px; }
+}
+@media (max-width: 380px) {
+  .zoe-banner { padding-right: 100px; }
+  .zoe-girl { height: 122px; }
+}
 </style>
 </head>
 <body>
 <div class="container">
+
+<a class="zoe-banner" href="https://www.siepomaga.pl/zoe" target="_blank" rel="noopener">
+  <div class="zoe-text">
+    <span class="zoe-tag">♥ AKCJA CHARYTATYWNA</span>
+    <h2>Pomóż małej <span class="heart-name">Zoe</span></h2>
+    <p>Webinary z Symfonii Komórek i o perfumach botanicznych powstały na cele charytatywne — całe wsparcie idzie na leczenie Zoe. Razem możemy więcej.</p>
+    <span class="zoe-cta">Wesprzyj na siepomaga.pl/zoe →</span>
+  </div>
+  <picture>
+    <source srcset="zoe.webp" type="image/webp">
+    <img class="zoe-girl" src="zoe.png" alt="Zoe — dziewczynka z misiem" loading="eager" width="512" height="875">
+  </picture>
+</a>
 
 <header class="hub-header">
   <span class="accent-tag">doTERRA Bē Convention 2026</span>
