@@ -1,25 +1,25 @@
 ---
-title: "Panel: duplikacja i budowanie biznesu w Polsce od początku (Michał Paciorek + Eliza i Kinga Nowosielskie)"
+title: "Panel: duplikacja i budowanie biznesu w Polsce od początku (Michał Paciorek + Eliza Nowosielska i Kinga Duszyńska)"
 url: ""
 source_url: ""
 course: "doTERRA Bē Convention 2026 Katowice — Empowerment Day"
 lesson_num: 6
 session: "Sesja 2"
-speaker: "Michał Paciorek + Eliza Nowosielska + Kinga Nowosielska"
+speaker: "Michał Paciorek + Eliza Nowosielska + Kinga Duszyńska"
 date_recorded: 2026-05-28
 date_watched: 2026-05-28
 language: en
 tags: [doterra, mlm, network-marketing, convention-2026, empowerment-day, polska, duplikacja, panel, founder, leadership]
 ---
 
-# Sesja 2 [06] — Panel Michał Paciorek + Eliza i Kinga Nowosielskie: duplikacja i budowanie biznesu w Polsce od początku
+# Sesja 2 [06] — Panel Michał Paciorek + Eliza Nowosielska i Kinga Duszyńska: duplikacja i budowanie biznesu w Polsce od początku
 
-**Wydarzenie:** doTERRA Bē Convention 2026 Katowice · Empowerment Day · Sesja 2 | **Host:** Michał Paciorek (doTERRA staff/MC) | **Paneliści:** Eliza Nowosielska (Blue Diamond, Polska Founder), Kinga Nowosielska (architekt, dołączyła 8 lat temu), Beata (front-line Elizy, była branża IT, event organizer) | **Język:** EN | **Czas:** 14:40 | **Obejrzano:** 2026-05-28
+**Wydarzenie:** doTERRA Bē Convention 2026 Katowice · Empowerment Day · Sesja 2 | **Host:** Michał Paciorek (doTERRA staff/MC) | **Paneliści:** Eliza Nowosielska (Blue Diamond, Polska Founder), Kinga Duszyńska (architekt, dołączyła 8 lat temu), Beata (front-line Elizy, była branża IT, event organizer) | **Język:** EN | **Czas:** 14:40 | **Obejrzano:** 2026-05-28
 
 ## Główne punkty
 
 1. **Polska founderka zaczęła od konwencji w Amsterdamie 9 lat temu** — Eliza wspomina pierwszą konwencję doTERRA w Amsterdamie: sala 2000 osób obsesyjnie zakochanych w olejkach, a z Polski tylko ona i jej apple-IDka „Zach". W zwykłym notesie wypisała wtedy wizję: jaki team chce zbudować, z kim chce współpracować, jakie zarobki, ile miejsc dla teamu w founders' path. 9 lat później znalazła ten notes — niemal wszystko jest odhaczone.
-2. **„Nie wydarzyło się to, bo byłam kimś wyjątkowym — wydarzyło się, bo nie byłam sama"** — clue panelu. Eliza buduje od początku z Kingą Nowosielską i Ewą Wysowską („Ewana Wysowska" w transkrypcji); dziś ich linia to niemal połowa jej organizacji. Razem od 2017 robią program **Ed Within** — szkolenia, challenges, systemy używane także przez crossline.
+2. **„Nie wydarzyło się to, bo byłam kimś wyjątkowym — wydarzyło się, bo nie byłam sama"** — clue panelu. Eliza buduje od początku z Kingą Duszyńską i Ewą Wysowską („Ewana Wysowska" w transkrypcji); dziś ich linia to niemal połowa jej organizacji. Razem od 2017 robią program **Ed Within** — szkolenia, challenges, systemy używane także przez crossline.
 3. **Kinga: relacja z liceum + zaproszenie 8 lat temu zmieniło wszystko** — Kinga znała Elizę od czasów liceum. „I am so grateful that you thought of me when you started to develop the business and that I was on your list." Gdyby Eliza wtedy o niej nie pomyślała, Kinga dalej pracowałaby w biurze architektonicznym po 10 godzin dziennie.
 4. **Start z porodówki — działanie zamiast czekania** — Kinga zaczęła „on her due date" — organizowała klasy nawet z oddziału porodowego, zapraszała gości; Eliza prowadziła klasy olejowe. Potem Kinga jeździła po Europie z dzieckiem przy boku, a drugie było już w drodze.
 5. **„If you want to change something, you must change something. Now."** — Kinga o własnym zwrocie: głębokie, ciche, uporczywe poczucie, że musi zmienić życie + niedoskonałe, niewygodne działanie tu i teraz. Bez czekania na „odpowiedni moment". „I didn't feel competent. I didn't feel confident. I didn't feel ready. Sometimes I still don't. But I move anyway."
@@ -39,7 +39,7 @@ tags: [doterra, mlm, network-marketing, convention-2026, empowerment-day, polska
 
 Eliza otwiera opowieść od pierwszej konwencji doTERRA w Amsterdamie. Z Polski była tam tylko ona i „Zach" („my apple ID is Zach and me" — prawdopodobnie pomyłka Whispera z imieniem partnerki). W zwykłym notesie wypisała wtedy wizję: jaki team chce zbudować, z kim chce współpracować, jakie zarobki ma osiągnąć, ile miejsc w founders' path zarezerwowała dla swojego teamu. 9 lat później znalazła ten notes — prawie wszystko jest odhaczone. Presidential Diamond jeszcze przed nią.
 
-Klucz, który Eliza powtarza: „It didn't happen because I was someone special. It happened because I wasn't alone — from the very beginning." Stojące obok niej kobiety budowały z nią od pierwszych dni: Kinga Nowosielska i Ewa Wysowska. Dziś ten program to **niemal połowa organizacji Elizy**.
+Klucz, który Eliza powtarza: „It didn't happen because I was someone special. It happened because I wasn't alone — from the very beginning." Stojące obok niej kobiety budowały z nią od pierwszych dni: Kinga Duszyńska i Ewa Wysowska. Dziś ten program to **niemal połowa organizacji Elizy**.
 
 ### Ed Within: duplikacja przez wspólne programy
 
@@ -129,7 +129,7 @@ To clue duplikacji w polskim modelu Elizy: **liderka pomyślała o tobie z imien
 ### Osoby
 - **Michał Paciorek** — host panelu, doTERRA staff/MC
 - **Eliza Nowosielska** — Blue Diamond, Polska Founder, ścieżka do Presidential Diamond przed nią; zaczynała 9 lat temu od konwencji w Amsterdamie
-- **Kinga Nowosielska** — architekt z wykształcenia, znała Elizę z liceum, weszła do biznesu 8 lat temu, zaczęła „on her due date" z oddziału porodowego
+- **Kinga Duszyńska** — architekt z wykształcenia, znała Elizę z liceum, weszła do biznesu 8 lat temu, zaczęła „on her due date" z oddziału porodowego
 - **Beata** — front-line Elizy, wcześniej własny biznes IT (skończył się depresją), organizatorka eventów dla polskiej społeczności (200-300 osób)
 - **Ewa Wysowska** („Ewana Wysowska" w Whisperze) — trzecia z założycielek polskiego trzonu Elizy, współtwórczyni Ed Within
 - **Zach** — wzmianka o osobie towarzyszącej Elizie na pierwszej konwencji w Amsterdamie (możliwe, że pomyłka Whispera — „my apple ID is Zach")

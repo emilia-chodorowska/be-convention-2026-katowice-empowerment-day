@@ -18,7 +18,7 @@ Najmocniej wybijający się wątek całej sesji. **Trzy osoby z siedmiu** mówi�
 
 - **Eniko Gecsenyi** (otwierająca): *„we don't build businesses first, we build people"* — punkt wyjścia całego wystąpienia o typach osobowości DISC.
 - **Kristin Schindhelm:** *„we need you, not your performance"* — moment ujawnienia front-line ladies. Jej cała teza „beyond the plateau" to: stop performing dla widowni, begin to be new again dla siebie.
-- **Eliza Nowosielska + Kinga Nowosielska** (Panel): *„we don't need campuses, we need YOU"* — zarówno o systemie doTERRA jak i o partnerce z imienia w team.
+- **Eliza Nowosielska + Kinga Duszyńska** (Panel): *„we don't need campuses, we need YOU"* — zarówno o systemie doTERRA jak i o partnerce z imienia w team.
 - **Jessica Moultrie** (zamykająca): *„create an environment where people can become more than they originally believed possible"* — definicja przywództwa korpo.
 
 ### 2. Build yourself first — wewnętrzna praca zanim zewnętrzny wynik
@@ -86,7 +86,7 @@ Piąta oś — **wytrwałość codziennego pokazywania się**. Wszyscy mówią o
 > — **Patrycja Dębska** (Blue Diamond, Polska)
 
 > *„it didn't happen because I was someone special — it happened because I wasn't alone."*
-> — **Eliza Nowosielska** (Blue Diamond, Polska Founder) / Panel z Michał Paciorek + Kinga Nowosielska
+> — **Eliza Nowosielska** (Blue Diamond, Polska Founder) / Panel z Michał Paciorek + Kinga Duszyńska
 
 > *„strong leaders do not wait for permission. They build with integrity, with consistency, and with vision long before any results are even visible."*
 > — **Jessica Moultrie** (President for doTERRA North America)
@@ -98,7 +98,7 @@ Piąta oś — **wytrwałość codziennego pokazywania się**. Wszyscy mówią o
 3. [**Kristin Schindhelm: poza plateau — stop performing, begin to be new**](03%20-%20Kristin%20Schindhelm%20poza%20plateau/notatki.md) (22:47) — heart aches jako liderska szczerość.
 4. [**Russell Buttars: leadership = personal growth + serving others**](04%20-%20Russell%20Buttars%20leadership%20growth/notatki.md) (10:59) — pick 3, no title required, indyjski ruch.
 5. [**Patrycja Dębska: presence-identity-power-execution-service**](05%20-%20Patrycja%20Debska%20presence%20identity/notatki.md) (21:10) — 5 filarów inner leadership + analogia siłowni.
-6. [**Panel: Michał Paciorek + Eliza i Kinga Nowosielskie: duplikacja po polsku**](06%20-%20Panel%20Michal%20Paciorek%20Nowosielskie%20duplikacja/notatki.md) (14:40) — 8 lat budowy od jednego zaproszenia.
+6. [**Panel: Michał Paciorek + Eliza Nowosielska i Kinga Duszyńska: duplikacja po polsku**](06%20-%20Panel%20Michal%20Paciorek%20Nowosielskie%20duplikacja/notatki.md) (14:40) — 8 lat budowy od jednego zaproszenia.
 7. [**Jessica Moultrie: silne systemy potrzebują silnych liderów**](07%20-%20Jessica%20Moultrie%20silne%20systemy/notatki.md) (14:39) — przywództwo bez czekania na pozwolenie.
 
 ## Materiały

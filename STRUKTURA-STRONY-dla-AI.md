@@ -35,7 +35,7 @@ linię daty/godziny/liczby wystąpień, listę prelegentów, link „Wejdź →"
 
 **Listy prelegentów (tekst pod tytułem karty):**
 - Karta 1: Michele Farace, Dani Lauer, Melina Ilia-Philmon, Panel (Oliver Zabania), Tammy Marti.
-- Karta 2: Eniko Gecsenyi, Helena Olearska, Kristin Schindhelm, Russell Buttars, Patrycja Dębska, Panel (Michał Paciorek + Nowosielskie), Jessica Moultrie.
+- Karta 2: Eniko Gecsenyi, Helena Olearska, Kristin Schindhelm, Russell Buttars, Patrycja Dębska, Panel (Michał Paciorek + Eliza Nowosielska), Jessica Moultrie.
 - Karta 3: David Stirling, Mihaela Oprea, Michael Schluchter, Russell Osguthorpe, Scott Johnson (RevitaZen + OnGuard), Abby Stopher, Olga Mazur, Alexandra Nitsche, Angela Kersten.
 - Karta 4: Dr Mariza Snyder (poranek), Mark Wolfert, Russell Osguthorpe, Anastassia Lempert, Emilie Bell, Murray Smith, Elena Doandesi, Ionut Nitulescu, Daniela Huelsen, David Stirling (zamknięcie).
 
@@ -114,7 +114,7 @@ Session Page
 3. Kristin Schindhelm poza plateau — [03] · 22:47 · EN
 4. Russell Buttars leadership growth — [04] · 10:59 · EN
 5. Patrycja Debska presence identity — [05] · 21:10 · EN
-6. Panel Michał Paciorek + Nowosielskie duplikacja — [06] · 14:40 · EN
+6. Panel Michał Paciorek + Eliza Nowosielska duplikacja — [06] · 14:40 · EN
 7. Jessica Moultrie silne systemy — [07] · 14:39 · EN
 
 ### Strona 3 — General Session · piątek (29.05, 09:30–12:30, 10 wystąpień)
