@@ -91,7 +91,7 @@ Most do hasła konwencji; najsilniej u Stirlinga (zamknięcie) i Marizy.
 1. **Dr Mariza Snyder: poranek o hormonach i energii kobiet** (50:40) — perymenopauza, sygnały ciała, „women reclaim their energy".
 2. **Mark Wolfert Jr.: duma i powołanie w doTERRA** (11:03) — powrót do firmy, „you are needed".
 3. **Russell Osguthorpe: jakość olejków vs konkurencja + dowody kliniczne** (28:07) — adulteration, GCMS, do 80% olejków w UE zafałszowanych, „the right thing, the hard thing" + dane kliniczne (Omega+, kadzidłowiec, Copaiba).
-4. **Anastassia Lempert: od korporacji IT do transformacji** (16:32) — 20 lat w IT, pustka, decyzja by rosnąć.
+4. **Anastassia Lempert: Oparcie w kryzysie. Historia siły i decyzji.** (16:32) — 20 lat w IT, pustka, decyzja by rosnąć.
 5. **Emilie Bell: Co-Impact Sourcing i Healing Hands** (23:24) — Wietnam/Blue Dragon, „beyond essential oils".
 6. **Murray Smith: ludzie w centrum (historia z Lesbos)** (24:47) — Nikos i Katerina, EO Omega, społeczności.
 7. **Elena Doandesi: serce i środki, bądź obecny** (17:03) — architektka pomocy, Project 27, „people have names".

@@ -1,5 +1,5 @@
 ---
-title: "General Session [sobota] — Anastassia Lempert: od korporacji IT do transformacji"
+title: "General Session [sobota] — Anastassia Lempert: Oparcie w kryzysie. Historia siły i decyzji."
 course: "Bē Convention 2026 Katowice — General Session (sobota)"
 lesson_num: 4
 speaker: "Anastassia Lempert"
@@ -10,7 +10,7 @@ location: "Spodek Arena, Katowice"
 tags: [doterra, be-convention-2026, general-session, sobota, anastassia-lempert, transformacja, mindset]
 ---
 
-# Anastassia Lempert: od korporacji IT do transformacji
+# Anastassia Lempert: Oparcie w kryzysie. Historia siły i decyzji.
 
 **Bē Convention 2026 Katowice — General Session (sobota)** | Diamond | 30 maja 2026 | Spodek Arena | dł. 16:32
 
