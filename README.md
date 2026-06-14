@@ -2,7 +2,7 @@
 
 **Lokalizacja:** Spodek Arena, Katowice | **Data:** 28 maja 2026 | **Sesja:** 1 (10:00–12:45) | **Speakerów:** 5 | **Łączny czas:** ~1h50min | **Język:** EN | **Playlista YT:** [link](https://www.youtube.com/playlist?list=PL2CEwcCp6FQa5JQ8RpkCus-w7HqSP---m)
 
-> **Empowerment Day ma 2 sesje:** Sesja 1 (ta strona, 5 wystąpień rano) + [**Sesja 2**](Sesja%202/) (7 wystąpień popołudniu — Eniko Gecsenyi, Helena Olearska, Kristin Schindhelm, Russell Buttars, Patrycja Dębska, Panel Mika Paciorek + Nowosielskie, Jessica Moultrie).
+> **Empowerment Day ma 2 sesje:** Sesja 1 (ta strona, 5 wystąpień rano) + [**Sesja 2**](Sesja%202/) (7 wystąpień popołudniu — Eniko Gecsenyi, Helena Olearska, Kristin Schindhelm, Russell Buttars, Patrycja Dębska, Panel Michał Paciorek + Nowosielskie, Jessica Moultrie).
 
 ## O sesji
 

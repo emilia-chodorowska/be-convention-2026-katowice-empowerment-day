@@ -154,7 +154,7 @@ Krótkie „Thank you" i offer dla sali: *„If you want my videos, you can make
 ## Wzmianki
 
 ### Osoby
-- **Elisa** — kolejna prelegentka Empowerment Day, autorka analogii z TV („here's the remote, press here") — Helena bardzo wzięła ją do serca jako filozofię komunikacji z klientem.
+- **Eliza** — kolejna prelegentka Empowerment Day, autorka analogii z TV („here's the remote, press here") — Helena bardzo wzięła ją do serca jako filozofię komunikacji z klientem.
 
 ### Produkty doTERRA
 - **Home Essentials Kit** — 10 olejków + dyfuzor jako prezent, „best value option", domyślny pierwszy zestaw dla początkujących, na który idzie większość rejestracji.

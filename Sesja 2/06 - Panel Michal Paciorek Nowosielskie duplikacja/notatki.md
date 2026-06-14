@@ -1,20 +1,20 @@
 ---
-title: "Panel: duplikacja i budowanie biznesu w Polsce od początku (Mika Paciorek + Eliza i Kinga Nowosielskie)"
+title: "Panel: duplikacja i budowanie biznesu w Polsce od początku (Michał Paciorek + Eliza i Kinga Nowosielskie)"
 url: ""
 source_url: ""
 course: "doTERRA Bē Convention 2026 Katowice — Empowerment Day"
 lesson_num: 6
 session: "Sesja 2"
-speaker: "Mika Paciorek + Eliza Nowosielska + Kinga Nowosielska"
+speaker: "Michał Paciorek + Eliza Nowosielska + Kinga Nowosielska"
 date_recorded: 2026-05-28
 date_watched: 2026-05-28
 language: en
 tags: [doterra, mlm, network-marketing, convention-2026, empowerment-day, polska, duplikacja, panel, founder, leadership]
 ---
 
-# Sesja 2 [06] — Panel Mika Paciorek + Eliza i Kinga Nowosielskie: duplikacja i budowanie biznesu w Polsce od początku
+# Sesja 2 [06] — Panel Michał Paciorek + Eliza i Kinga Nowosielskie: duplikacja i budowanie biznesu w Polsce od początku
 
-**Wydarzenie:** doTERRA Bē Convention 2026 Katowice · Empowerment Day · Sesja 2 | **Host:** Mika Paciorek (doTERRA staff/MC) | **Paneliści:** Eliza Nowosielska (Blue Diamond, Polska Founder), Kinga Nowosielska (architekt, dołączyła 8 lat temu), Beata (front-line Elizy, była branża IT, event organizer) | **Język:** EN | **Czas:** 14:40 | **Obejrzano:** 2026-05-28
+**Wydarzenie:** doTERRA Bē Convention 2026 Katowice · Empowerment Day · Sesja 2 | **Host:** Michał Paciorek (doTERRA staff/MC) | **Paneliści:** Eliza Nowosielska (Blue Diamond, Polska Founder), Kinga Nowosielska (architekt, dołączyła 8 lat temu), Beata (front-line Elizy, była branża IT, event organizer) | **Język:** EN | **Czas:** 14:40 | **Obejrzano:** 2026-05-28
 
 ## Główne punkty
 
@@ -25,7 +25,7 @@ tags: [doterra, mlm, network-marketing, convention-2026, empowerment-day, polska
 5. **„If you want to change something, you must change something. Now."** — Kinga o własnym zwrocie: głębokie, ciche, uporczywe poczucie, że musi zmienić życie + niedoskonałe, niewygodne działanie tu i teraz. Bez czekania na „odpowiedni moment". „I didn't feel competent. I didn't feel confident. I didn't feel ready. Sometimes I still don't. But I move anyway."
 6. **Ulotka jako symbol duplikacji** — Eliza pokazuje Kindze ulotkę z paroma zdaniami o olejkach, którą dała jej na starcie: „This is all you need. Now you will go and you will do your lessons. Open the bottles — they will do the work for you." Ulotka „one leaflet and thousands of flags" → symbol, że nie musisz być ekspertem, żeby zacząć ten biznes; wystarczy pierwsze application tool + twoje doświadczenie.
 7. **„Mad scientists" — działały szybko, bez analizy słabości** — Kinga: „We didn't have time to reflect, we didn't analyze our weaknesses, our beliefs. We were in action." Nazwały siebie „mad scientists", organizowały masę spotkań, szkoliły ludzi na directorów i executive. „We simply felt that doTERRA will elevate our life and lives of many women to a new level."
-8. **Beata: z depresji w IT do community w doTERRA** — Beata (front-line Elizy) na początku nie potraktowała propozycji poważnie. Miała własny biznes IT, który wpędził ją w depresję. Po przeczytaniu pierwszej książki zrozumiała, że doTERRA to inny rodzaj biznesu. Szukała komfortu — a komfort dla niej oznacza ludzi, community i wolność. „I trusted Eva and Elisa that this wasn't a scam — that you can make money in this business. They knew what they were talking about when they said it's not *if* but *when*."
+8. **Beata: z depresji w IT do community w doTERRA** — Beata (front-line Elizy) na początku nie potraktowała propozycji poważnie. Miała własny biznes IT, który wpędził ją w depresję. Po przeczytaniu pierwszej książki zrozumiała, że doTERRA to inny rodzaj biznesu. Szukała komfortu — a komfort dla niej oznacza ludzi, community i wolność. „I trusted Eva and Eliza that this wasn't a scam — that you can make money in this business. They knew what they were talking about when they said it's not *if* but *when*."
 9. **Eventy = stretch i support całej polskiej społeczności** — Beata o pasji do eventów: Eliza nauczyła je „you have to be at every event". Na pierwszej konwencji doTERRA Beata zdecydowała, że zaangażuje się w organizację — chciała jakości. Razem z Ewą i Elizą organizowali konferencje i szkolenia dla polskiej społeczności (czasem 200-300 osób, w namiotach, w deszczu). „Relationships are the witnesses of doTERRA."
 10. **Recepta na start: wizja + wytrwałość + właściwi ludzie obok** — Beata podsumowuje: „You don't need a perfect plan. You don't need experience. All you need is vision, perseverance and the right people around you. And then when you truly take responsibility for your life, everything begins to change."
 11. **„Money will follow when you do something from heart"** — Eliza wraca do duchowego fundamentu: nigdy nie wątpiła w sukces tego biznesu, bo zmieniały ludzkie życia. „I feel when we do something from heart, the money will follow. We have built strong foundation for our community."
@@ -70,9 +70,9 @@ Kinga wspomina pierwsze miesiące: „We didn't have time to reflect. We didn't 
 
 ### Beata: z IT w depresji do community + eventów
 
-Mika oddaje głos Beacie — kolejnej osobie z front-line Elizy („a person you can talk numbers with, but also organize crazy events for 200-300 people outdoors, in the tents, in the rain — and still have fun"). Beata przyznaje: na początku, kiedy najlepsza przyjaciółka opowiedziała jej o doTERRA, nie potraktowała tego poważnie. Miała własny biznes IT, który **wpędził ją w depresję**.
+Michał oddaje głos Beacie — kolejnej osobie z front-line Elizy („a person you can talk numbers with, but also organize crazy events for 200-300 people outdoors, in the tents, in the rain — and still have fun"). Beata przyznaje: na początku, kiedy najlepsza przyjaciółka opowiedziała jej o doTERRA, nie potraktowała tego poważnie. Miała własny biznes IT, który **wpędził ją w depresję**.
 
-Po przeczytaniu pierwszej książki o tym biznesie zrozumiała, że to **inny rodzaj biznesu**. Wiedziała, że potrzebuje **komfortu** — a komfort dla niej oznacza **ludzi, community i wolność**. „In doTERRA I saw it. I trusted Eva and Elisa that this wasn't a scam. That you can make money in this business. They knew what they were talking about when they said: *it's not if, but when*."
+Po przeczytaniu pierwszej książki o tym biznesie zrozumiała, że to **inny rodzaj biznesu**. Wiedziała, że potrzebuje **komfortu** — a komfort dla niej oznacza **ludzi, community i wolność**. „In doTERRA I saw it. I trusted Eva and Eliza that this wasn't a scam. That you can make money in this business. They knew what they were talking about when they said: *it's not if, but when*."
 
 Pasja do eventów: Eliza zawsze powtarzała: „You have to be at every event." Na pierwszej konwencji doTERRA Beata zdecydowała, że zaangażuje się **w organizację** — bo chciała jakości. Razem z Ewą i Elizą organizowała konferencje i szkolenia dla polskiej społeczności. Te eventy były support i stretch dla całej społeczności.
 
@@ -92,9 +92,9 @@ Kinga sięga po metaforę „hamster wheel": „I didn't think I will enjoy buil
 
 Misja: powiedzieć jak największej liczbie osób o tej szansie. „We have to tell people that they can build the financial and time freedom here and they don't have to run like hamsters on a wheel. And let's have that courage."
 
-### Domknięcie: „If Elisa hadn't thought of me eight years ago…"
+### Domknięcie: „If Eliza hadn't thought of me eight years ago…"
 
-Kinga zamyka wystąpienie hołdem dla Elizy i Ewy: „If Elisa hadn't thought of me eight years ago, I would be working in an architecture office for sometimes ten hours a day. And ladies, if it wasn't for your courage, open mind and also persistence, we wouldn't be here today with doTERRA Europe Convention. So thank you very much from the bottom of my heart for everything that you've done."
+Kinga zamyka wystąpienie hołdem dla Elizy i Ewy: „If Eliza hadn't thought of me eight years ago, I would be working in an architecture office for sometimes ten hours a day. And ladies, if it wasn't for your courage, open mind and also persistence, we wouldn't be here today with doTERRA Europe Convention. So thank you very much from the bottom of my heart for everything that you've done."
 
 To clue duplikacji w polskim modelu Elizy: **liderka pomyślała o tobie z imienia i nazwiska, zaprosiła cię na swoją listę — i zmieniła ci życie**. Twoja praca: zrobić to samo dla kogoś innego.
 
@@ -110,7 +110,7 @@ To clue duplikacji w polskim modelu Elizy: **liderka pomyślała o tobie z imien
 
 > *Kinga: "We didn't have time to reflect. We didn't analyze our weaknesses, our beliefs. We were in action. We called ourselves mad scientists."*
 
-> *Beata: "I trusted Eva and Elisa that this wasn't a scam — that you can make money in this business. They knew what they were talking about when they said it's not if but when."*
+> *Beata: "I trusted Eva and Eliza that this wasn't a scam — that you can make money in this business. They knew what they were talking about when they said it's not if but when."*
 
 > *Beata: "Relationships are the witnesses of doTERRA."*
 
@@ -122,12 +122,12 @@ To clue duplikacji w polskim modelu Elizy: **liderka pomyślała o tobie z imien
 
 > *Kinga: "We have to tell people that they can build the financial and time freedom here and they don't have to run like hamsters on a wheel. And let's have that courage."*
 
-> *Kinga: "If Elisa hadn't thought of me eight years ago, I would be working in an architecture office for sometimes ten hours a day."*
+> *Kinga: "If Eliza hadn't thought of me eight years ago, I would be working in an architecture office for sometimes ten hours a day."*
 
 ## Wzmianki
 
 ### Osoby
-- **Mika Paciorek** — host panelu, doTERRA staff/MC
+- **Michał Paciorek** — host panelu, doTERRA staff/MC
 - **Eliza Nowosielska** — Blue Diamond, Polska Founder, ścieżka do Presidential Diamond przed nią; zaczynała 9 lat temu od konwencji w Amsterdamie
 - **Kinga Nowosielska** — architekt z wykształcenia, znała Elizę z liceum, weszła do biznesu 8 lat temu, zaczęła „on her due date" z oddziału porodowego
 - **Beata** — front-line Elizy, wcześniej własny biznes IT (skończył się depresją), organizatorka eventów dla polskiej społeczności (200-300 osób)
