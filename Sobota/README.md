@@ -88,7 +88,7 @@ Most do hasła konwencji; najsilniej u Stirlinga (zamknięcie) i Marizy.
 
 ## Lista wystąpień (chronologicznie)
 
-1. **Dr Mariza Snyder: poranek o hormonach i energii kobiet** (50:40) — perymenopauza, sygnały ciała, „women reclaim their energy".
+1. **Dr Mariza Snyder: hormony i energia kobiet** (50:40) — perymenopauza, sygnały ciała, „women reclaim their energy".
 2. **Mark Wolfert Jr.: duma i powołanie w doTERRA** (11:03) — powrót do firmy, „you are needed".
 3. **Russell Osguthorpe: jakość olejków vs konkurencja + dowody kliniczne** (28:07) — adulteration, GCMS, do 80% olejków w UE zafałszowanych, „the right thing, the hard thing" + dane kliniczne (Omega+, kadzidłowiec, Copaiba).
 4. **Anastassia Lempert: Oparcie w kryzysie. Historia siły i decyzji.** (16:32) — 20 lat w IT, pustka, decyzja by rosnąć.

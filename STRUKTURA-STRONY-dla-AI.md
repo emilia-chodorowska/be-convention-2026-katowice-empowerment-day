@@ -130,7 +130,7 @@ Session Page
 10. Angela Kersten — sprzedaż Convention Kit — [10] · Presidential Diamond, Germany Founder · 33:58 · EN
 
 ### Strona 4 — General Session · sobota (30.05, poranek + GS, 10 wystąpień)
-1. Dr Mariza Snyder — poranek: hormony i energia kobiet — [01] · Gość, zdrowie kobiet · 50:40 · EN
+1. Dr Mariza Snyder — hormony i energia kobiet — [01] · Gość, zdrowie kobiet · 50:40 · EN
 2. Mark Wolfert Jr. — duma i powołanie — [02] · Vice President, Europe · 11:03 · EN
 3. Dr Russell Osguthorpe — jakość vs konkurencja + dowody kliniczne — [03] · Chief Medical Officer · 28:07 · EN
 4. Anastassia Lempert — od IT do transformacji — [04] · Diamond · 16:32 · EN
