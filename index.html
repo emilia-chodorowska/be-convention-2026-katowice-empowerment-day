@@ -22,12 +22,12 @@
   .bc-card { transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease; }
   .bc-card:hover { box-shadow:0 26px 46px -30px rgba(20,20,25,.5); transform:translateY(-2px); border-color:#DCDCD3; }
   .bc-talk { transition:border-color .15s ease, box-shadow .15s ease, background .15s ease; }
-  .bc-talk:hover { border-color:#CFE2F2; box-shadow:0 14px 26px -22px rgba(20,20,25,.45); background:#FCFDFE; }
-  .bc-talk:focus-visible { outline:2px solid #1870B9; outline-offset:2px; }
+  .bc-talk:hover { border-color:#DED5EE; box-shadow:0 14px 26px -22px rgba(20,20,25,.45); background:#FCFBFE; }
+  .bc-talk:focus-visible { outline:2px solid #6E5BA6; outline-offset:2px; }
   .bc-back { transition:color .13s; }
   .bc-back:hover { color:#15171C !important; }
   .bc-pllink:hover { text-decoration:underline; }
-  .bc-sesspl:hover { border-color:#1870B9 !important; background:#EFF5FB !important; }
+  .bc-sesspl:hover { border-color:#6E5BA6 !important; background:#F3F0FA !important; }
 
   /* notatki (render z markdown) */
   .nt h2 { font-size:1.18rem; font-weight:800; letter-spacing:-.02em; line-height:1.2; margin:26px 0 6px; color:#15171C; }
@@ -162,13 +162,13 @@
       return '' +
         '<div class="bc-card" data-act="enter" data-i="' + i + '" role="button" tabindex="0" style="display:flex;flex-direction:column;background:#fff;border:1px solid #EAEAE3;border-radius:16px;padding:22px 24px;cursor:pointer;min-height:256px;">' +
           '<div style="display:flex;align-items:center;justify-content:space-between;">' +
-            '<span style="display:grid;place-items:center;width:34px;height:34px;border:1px solid #CFE2F2;background:#EAF2FA;border-radius:9px;font-size:.82rem;font-weight:800;color:#1870B9;letter-spacing:-.02em;font-variant-numeric:tabular-nums;">' + s.num + '</span>' +
-            '<a class="bc-pllink" href="' + URLS[i] + '" target="_blank" rel="noopener" data-act="stop" style="font-size:.76rem;font-weight:600;color:#1870B9;text-decoration:none;white-space:nowrap;">▶ playlista</a>' +
+            '<span style="display:grid;place-items:center;width:34px;height:34px;border:1px solid #DED5EE;background:#EFEAF8;border-radius:9px;font-size:.82rem;font-weight:800;color:#6E5BA6;letter-spacing:-.02em;font-variant-numeric:tabular-nums;">' + s.num + '</span>' +
+            '<a class="bc-pllink" href="' + URLS[i] + '" target="_blank" rel="noopener" data-act="stop" style="font-size:.76rem;font-weight:600;color:#6E5BA6;text-decoration:none;white-space:nowrap;">▶ playlista</a>' +
           '</div>' +
           '<h2 style="font-size:1.18rem;font-weight:700;letter-spacing:-.02em;line-height:1.22;margin-top:16px;">' + s.title + '</h2>' +
           '<div style="font-size:.82rem;color:#9CA3AF;font-weight:500;margin-top:6px;">' + s.meta + '</div>' +
           '<div style="font-size:.82rem;color:#6B7280;margin-top:12px;line-height:1.55;flex:1;">' + s.speakers + '</div>' +
-          '<div style="margin-top:16px;padding-top:14px;border-top:1px solid #F0F0EA;font-size:.88rem;font-weight:700;color:#1870B9;">Wejdź →</div>' +
+          '<div style="margin-top:16px;padding-top:14px;border-top:1px solid #F0F0EA;font-size:.88rem;font-weight:700;color:#6E5BA6;">Wejdź →</div>' +
         '</div>';
     }).join('');
 
@@ -189,11 +189,11 @@
         '<div style="max-width:980px;margin:0 auto;padding:clamp(34px,6vw,56px) clamp(16px,5vw,24px) 0;">' + zoe + '</div>' +
         '<div style="text-align:center;max-width:760px;margin:0 auto;padding:6px clamp(18px,5vw,24px) 8px;">' +
           '<span style="display:inline-flex;align-items:center;gap:9px;background:#fff;border:1px solid #E6E6E0;color:#6B7280;font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:8px 15px;border-radius:100px;">' +
-            '<span style="width:6px;height:6px;border-radius:50%;background:#1870B9;"></span>doTERRA Bē Convention 2026</span>' +
+            '<span style="width:6px;height:6px;border-radius:50%;background:#6E5BA6;"></span>doTERRA Bē Convention 2026</span>' +
           '<h1 style="font-size:clamp(2.2rem,5vw,3.1rem);font-weight:800;letter-spacing:-.035em;line-height:1.05;margin:22px 0 0;">Katowice · nagrania konwencji</h1>' +
           '<p style="font-size:1rem;color:#6B7280;margin:16px auto 0;max-width:44ch;">Spodek Arena · maj 2026. Wszystkie sesje, wystąpienia i transkrypcje z tłumaczeniami.</p>' +
           '<div style="margin-top:26px;">' +
-            '<a href="' + FULL + '" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:9px;background:#1870B9;color:#fff;border:none;border-radius:11px;padding:13px 20px;font-size:.94rem;font-weight:600;letter-spacing:-.01em;text-decoration:none;box-shadow:0 16px 30px -16px rgba(20,20,25,.6);">' +
+            '<a href="' + FULL + '" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:9px;background:#6E5BA6;color:#fff;border:none;border-radius:11px;padding:13px 20px;font-size:.94rem;font-weight:600;letter-spacing:-.01em;text-decoration:none;box-shadow:0 16px 30px -16px rgba(20,20,25,.6);">' +
               '<span style="font-size:.78rem;">▶</span> Cała konwencja (playlista)</a>' +
           '</div>' +
         '</div>' +
@@ -220,7 +220,7 @@
             '</div>' +
           '</div>' +
           '<div style="display:flex;gap:6px;flex:none;margin-top:1px;margin-left:auto;">' +
-            '<button data-act="film" title="Film (YouTube)" style="display:inline-flex;align-items:center;gap:6px;background:#1870B9;color:#fff;border:none;border-radius:8px;padding:7px 12px;font-size:.78rem;font-weight:600;"><span style="font-size:.66rem;">▶</span> Film</button>' +
+            '<button data-act="film" title="Film (YouTube)" style="display:inline-flex;align-items:center;gap:6px;background:#6E5BA6;color:#fff;border:none;border-radius:8px;padding:7px 12px;font-size:.78rem;font-weight:600;"><span style="font-size:.66rem;">▶</span> Film</button>' +
             '<button data-act="tr" data-i="' + i + '" title="Transkrypcja · PL / EN" style="background:#F1F1EC;color:#3A3D44;border:1px solid #E6E6E0;border-radius:8px;padding:7px 12px;font-size:.78rem;font-weight:600;">Transkrypcja</button>' +
             '<button data-act="notes" data-i="' + i + '" title="Notatki" style="background:#F1F1EC;color:#3A3D44;border:1px solid #E6E6E0;border-radius:8px;padding:7px 12px;font-size:.78rem;font-weight:600;">Notatki</button>' +
           '</div>' +
@@ -233,7 +233,7 @@
           '<span style="font-size:.95rem;line-height:1;">←</span> Wszystkie sesje</button>' +
         '<div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">' +
           '<span style="display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid #E6E6E0;color:#6B7280;font-size:.64rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:5px 12px;border-radius:100px;">' +
-            '<span style="width:5px;height:5px;border-radius:50%;background:#1870B9;"></span>' + s.eyebrow + '</span>' +
+            '<span style="width:5px;height:5px;border-radius:50%;background:#6E5BA6;"></span>' + s.eyebrow + '</span>' +
         '</div>' +
         '<h1 style="font-size:clamp(1.6rem,3.4vw,2.1rem);font-weight:800;letter-spacing:-.03em;line-height:1.08;margin:12px 0 0;">' + s.title + '</h1>' +
         '<div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:11px;">' +
@@ -243,7 +243,7 @@
         '</div>' +
         '<div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px 12px;margin:22px 0 10px;">' +
           '<h2 style="font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#9CA3AF;">Wystąpienia · ' + s.count + '</h2>' +
-          '<a class="bc-sesspl" href="' + URLS[sIdx] + '" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:7px;font-size:.8rem;font-weight:600;color:#1870B9;background:#fff;border:1px solid #CFE2F2;border-radius:8px;padding:7px 14px;text-decoration:none;white-space:nowrap;"><span style="font-size:.68rem;">▶</span> Playlista sesji</a>' +
+          '<a class="bc-sesspl" href="' + URLS[sIdx] + '" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:7px;font-size:.8rem;font-weight:600;color:#6E5BA6;background:#fff;border:1px solid #DED5EE;border-radius:8px;padding:7px 14px;text-decoration:none;white-space:nowrap;"><span style="font-size:.68rem;">▶</span> Playlista sesji</a>' +
         '</div>' +
         '<div style="display:flex;flex-direction:column;gap:7px;">' + rows + '</div>' +
       '</main>';
@@ -253,11 +253,11 @@
     var sIdx = state.sIdx, t = SESS[sIdx].talks[state.tIdx];
     var tab = state.tab, lang = state.lang;
     var tabStyle = function (k) {
-      return 'border:none;background:none;font:inherit;font-size:.88rem;font-weight:700;padding:10px 2px 12px;cursor:pointer;border-bottom:2px solid ' + (tab === k ? '#1870B9' : 'transparent') + ';color:' + (tab === k ? '#1870B9' : '#9CA3AF') + ';margin-bottom:-1px;';
+      return 'border:none;background:none;font:inherit;font-size:.88rem;font-weight:700;padding:10px 2px 12px;cursor:pointer;border-bottom:2px solid ' + (tab === k ? '#6E5BA6' : 'transparent') + ';color:' + (tab === k ? '#6E5BA6' : '#9CA3AF') + ';margin-bottom:-1px;';
     };
     var langBtn = function (code, label) {
       var on = lang === code;
-      return '<button data-act="lang" data-lang="' + code + '" style="border:1px solid ' + (on ? '#1870B9' : '#E6E6E0') + ';background:' + (on ? '#1870B9' : '#fff') + ';color:' + (on ? '#fff' : '#3A3D44') + ';font:inherit;font-size:.76rem;font-weight:600;padding:6px 12px;border-radius:100px;cursor:pointer;">' + label + '</button>';
+      return '<button data-act="lang" data-lang="' + code + '" style="border:1px solid ' + (on ? '#6E5BA6' : '#E6E6E0') + ';background:' + (on ? '#6E5BA6' : '#fff') + ';color:' + (on ? '#fff' : '#3A3D44') + ';font:inherit;font-size:.76rem;font-weight:600;padding:6px 12px;border-radius:100px;cursor:pointer;">' + label + '</button>';
     };
 
     var langBar = tab === 'tr'
@@ -277,7 +277,7 @@
             '<h1 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:-.03em;line-height:1.1;margin:7px 0 0;">' + t.name + '</h1>' +
             '<div style="font-size:.95rem;color:#6B7280;margin-top:3px;">' + t.topic + '</div>' +
           '</div>' +
-          '<a href="' + URLS[sIdx] + '" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:#1870B9;color:#fff;border-radius:10px;padding:11px 18px;font-size:.86rem;font-weight:600;text-decoration:none;flex:none;"><span style="font-size:.72rem;">▶</span> Obejrzyj nagranie</a>' +
+          '<a href="' + URLS[sIdx] + '" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:#6E5BA6;color:#fff;border-radius:10px;padding:11px 18px;font-size:.86rem;font-weight:600;text-decoration:none;flex:none;"><span style="font-size:.72rem;">▶</span> Obejrzyj nagranie</a>' +
         '</div>' +
         '<div style="display:flex;gap:24px;margin-top:22px;border-bottom:1px solid #ECECE6;">' +
           '<button data-act="showtr" style="' + tabStyle('tr') + '">Transkrypcja</button>' +
