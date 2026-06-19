@@ -37,6 +37,9 @@
   .nt ul, .nt ol { margin:8px 0 8px 4px; padding-left:22px; }
   .nt li { font-size:1rem; color:#2C2E34; line-height:1.62; margin:7px 0; }
   .nt strong { color:#15171C; font-weight:700; }
+  .nt em { font-style:italic; }
+  .nt blockquote { margin:14px 0; padding:11px 18px; border-left:3px solid #DED5EE; background:#FAF8FE; border-radius:0 10px 10px 0; }
+  .nt blockquote p { font-size:1rem; color:#3A3D44; font-style:italic; line-height:1.6; margin:6px 0; }
   .nt .nt-meta { font-size:.86rem; color:#6B7280; line-height:1.6; background:#fff; border:1px solid #ECECE6; border-radius:10px; padding:13px 15px; margin:10px 0 4px; }
 
   /* ── Baner charytatywny (zbiórka dla Zoe) ── */
@@ -154,7 +157,7 @@
   function esc(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
   function encPath(dir) { return dir.split('/').map(encodeURIComponent).join('/'); }
   function talkMeta(sIdx, t) { return 'Sesja ' + (sIdx + 1) + ' · [' + t.n + ']' + (t.role ? ' · ' + t.role : '') + ' · ' + t.dur; }
-  function inlineMd(s) { return esc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>'); }
+  function inlineMd(s) { return esc(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\*([^*]+?)\*/g, '<em>$1</em>'); }
 
   // ── views ───────────────────────────────────────────────
   function renderHub() {
@@ -366,18 +369,27 @@
       if (end !== -1) { md = md.slice(md.indexOf('\n', end + 1) + 1); }
     }
     var lines = md.split('\n');
-    var out = [], listType = null, listItems = [];
+    var out = [], listType = null, listItems = [], bq = [];
 
     function flushList() {
       if (!listType) return;
       out.push('<' + listType + '>' + listItems.join('') + '</' + listType + '>');
       listType = null; listItems = [];
     }
+    function flushBq() {
+      if (!bq.length) return;
+      out.push('<blockquote>' + bq.map(function (l) { return '<p>' + inlineMd(l) + '</p>'; }).join('') + '</blockquote>');
+      bq = [];
+    }
 
     for (var i = 0; i < lines.length; i++) {
       var line = lines[i];
       var raw = line.trim();
-      if (!raw) { flushList(); continue; }
+      if (!raw) { flushList(); flushBq(); continue; }
+
+      // blockquote (cytaty): linie zaczynające się od ">"
+      if (raw.charAt(0) === '>') { flushList(); bq.push(raw.replace(/^>\s?/, '')); continue; }
+      flushBq();
 
       var h = raw.match(/^(#{1,6})\s+(.*)$/);
       if (h) {
@@ -408,6 +420,7 @@
       }
     }
     flushList();
+    flushBq();
     return out.join('');
   }
 
