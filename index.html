@@ -424,13 +424,52 @@
     return out.join('');
   }
 
-  // ── nawigacja ───────────────────────────────────────────
-  function go(view) { state.view = view; render(); window.scrollTo(0, 0); }
+  // ── nawigacja + historia przeglądarki ───────────────────
+  // Stan widoku ↔ hash w URL, dzięki czemu Wstecz/Dalej działają i można
+  // podlinkować konkretne wystąpienie (np. ...#s3/5/notes).
+  function stateToHash(st) {
+    if (st.view === 'session') return '#s' + (st.sIdx + 1);
+    if (st.view === 'detail') {
+      var h = '#s' + (st.sIdx + 1) + '/' + (st.tIdx + 1) + '/' + st.tab;
+      if (st.tab === 'tr') h += '/' + st.lang.toLowerCase();
+      return h;
+    }
+    return ''; // hub
+  }
+  function clampIdx(v, max) { v = +v - 1; if (isNaN(v)) v = 0; return Math.max(0, Math.min(max, v)); }
+  function hashToState(hash) {
+    var def = { view: 'hub', sIdx: 0, tIdx: 0, tab: 'tr', lang: 'PL' };
+    hash = (hash || '').replace(/^#/, '');
+    if (!hash) return def;
+    var m = hash.match(/^s(\d+)(?:\/(\d+)\/(tr|notes)(?:\/(pl|en))?)?$/i);
+    if (!m) return def;
+    var sIdx = clampIdx(m[1], SESS.length - 1);
+    if (m[2] == null) return { view: 'session', sIdx: sIdx, tIdx: 0, tab: 'tr', lang: 'PL' };
+    var tIdx = clampIdx(m[2], SESS[sIdx].talks.length - 1);
+    var tab = (m[3] || 'tr').toLowerCase() === 'notes' ? 'notes' : 'tr';
+    var lang = (m[4] || 'pl').toUpperCase() === 'EN' ? 'EN' : 'PL';
+    return { view: 'detail', sIdx: sIdx, tIdx: tIdx, tab: tab, lang: lang };
+  }
+  function urlFor(st) { return stateToHash(st) || (location.pathname + location.search); }
+  function snapshot() { return { view: state.view, sIdx: state.sIdx, tIdx: state.tIdx, tab: state.tab, lang: state.lang }; }
+  function applyState(st) { state.view = st.view; state.sIdx = st.sIdx; state.tIdx = st.tIdx; state.tab = st.tab; state.lang = st.lang; }
+
+  // pushState = nowy wpis w historii (Wstecz cofa o jeden widok)
+  function go(view) { state.view = view; history.pushState(snapshot(), '', urlFor(state)); render(); window.scrollTo(0, 0); }
+  // replaceState = zmiana w obrębie tego samego widoku (zakładka/język) — nie zaśmieca Wstecz
+  function replace() { history.replaceState(snapshot(), '', urlFor(state)); }
+
   function render() {
     if (state.view === 'hub') renderHub();
     else if (state.view === 'session') renderSession();
     else renderDetail();
   }
+
+  // Wstecz/Dalej przeglądarki → odtwórz zapisany stan widoku
+  window.addEventListener('popstate', function (e) {
+    applyState((e.state && e.state.view) ? e.state : hashToState(location.hash));
+    render(); window.scrollTo(0, 0);
+  });
 
   app.addEventListener('click', function (e) {
     var el = e.target.closest('[data-act]');
@@ -444,9 +483,9 @@
     if (act === 'tr') { state.tIdx = +el.getAttribute('data-i'); state.tab = 'tr'; state.lang = 'PL'; go('detail'); return; }
     if (act === 'notes') { state.tIdx = +el.getAttribute('data-i'); state.tab = 'notes'; go('detail'); return; }
     if (act === 'back') { go('session'); return; }
-    if (act === 'showtr') { state.tab = 'tr'; renderDetail(); return; }
-    if (act === 'shownotes') { state.tab = 'notes'; renderDetail(); return; }
-    if (act === 'lang') { state.lang = el.getAttribute('data-lang'); renderDetail(); return; }
+    if (act === 'showtr') { state.tab = 'tr'; replace(); renderDetail(); return; }
+    if (act === 'shownotes') { state.tab = 'notes'; replace(); renderDetail(); return; }
+    if (act === 'lang') { state.lang = el.getAttribute('data-lang'); replace(); renderDetail(); return; }
   });
 
   // enter na kartach hub (klawiatura)
@@ -458,6 +497,9 @@
     if (talkEl) { e.preventDefault(); state.tIdx = +talkEl.getAttribute('data-i'); state.tab = 'tr'; state.lang = 'PL'; go('detail'); }
   });
 
+  // start: stan z adresu URL (obsługa deep-linków) + ustaw pierwszy wpis historii
+  applyState(hashToState(location.hash));
+  history.replaceState(snapshot(), '', urlFor(state));
   render();
 })();
 </script>
