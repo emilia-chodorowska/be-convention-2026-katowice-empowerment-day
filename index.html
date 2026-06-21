@@ -148,6 +148,16 @@
     }
   ];
 
+  // ── ID filmów YouTube w kolejności wystąpień (z youtube_mapping_calosc.json) ──
+  var VIDS = [
+    'X-9ObHzlBo8','wYrbtbJ61QM','6_HhwmHC0AQ','DAmIQBdYsck','87jyZy9YHcs',
+    'KG3Wqfhu7wM','NTvCE5zqAbM','51lacblhlhQ','lJB2k5A1o7s','Onxr9gitAO0','EYvQEIVrAHY','iE2TNbaROvk',
+    'nqiBnNc26XE','DxS6TyRVVek','U2BlAZ0g-B0','od1LRwNU_ms','zxV6Y7jLFcY','YG7qahkXbiM','nfpPJMMNEV0','_hC_g9NhTuk','Rr3b0FGN9LE','OQvzUvxuT-I',
+    'plHb-woiCeI','0Yq7rIHDrIc','93dFAk91Dtk','4zKZrvzA5aE','SdASfsJJ6rk','wO21uELLKS0','o9IKac35ZJo','JSMATFlv8IE','1A5EH_mer8o','sa-rkw3AAyM'
+  ];
+  (function () { var k = 0; SESS.forEach(function (s) { s.talks.forEach(function (t) { t.vid = VIDS[k++]; }); }); })();
+  function vidUrl(vid) { return 'https://www.youtube.com/watch?v=' + vid; }
+
   // ── state ──
   var state = { view: 'hub', sIdx: 0, tIdx: 0, tab: 'tr', lang: 'PL' };
   var app = document.getElementById('app');
@@ -223,7 +233,7 @@
             '</div>' +
           '</div>' +
           '<div style="display:flex;gap:6px;flex:none;margin-top:1px;margin-left:auto;">' +
-            '<button data-act="film" title="Film (YouTube)" style="display:inline-flex;align-items:center;gap:6px;background:#6E5BA6;color:#fff;border:none;border-radius:8px;padding:7px 12px;font-size:.78rem;font-weight:600;"><span style="font-size:.66rem;">▶</span> Film</button>' +
+            '<button data-act="film" data-i="' + i + '" title="Film (YouTube)" style="display:inline-flex;align-items:center;gap:6px;background:#6E5BA6;color:#fff;border:none;border-radius:8px;padding:7px 12px;font-size:.78rem;font-weight:600;"><span style="font-size:.66rem;">▶</span> Film</button>' +
             '<button data-act="tr" data-i="' + i + '" title="Transkrypcja · PL / EN" style="background:#F1F1EC;color:#3A3D44;border:1px solid #E6E6E0;border-radius:8px;padding:7px 12px;font-size:.78rem;font-weight:600;">Transkrypcja</button>' +
             '<button data-act="notes" data-i="' + i + '" title="Notatki" style="background:#F1F1EC;color:#3A3D44;border:1px solid #E6E6E0;border-radius:8px;padding:7px 12px;font-size:.78rem;font-weight:600;">Notatki</button>' +
           '</div>' +
@@ -280,7 +290,7 @@
             '<h1 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;letter-spacing:-.03em;line-height:1.1;margin:7px 0 0;">' + t.name + '</h1>' +
             '<div style="font-size:.95rem;color:#6B7280;margin-top:3px;">' + t.topic + '</div>' +
           '</div>' +
-          '<a href="' + URLS[sIdx] + '" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:#6E5BA6;color:#fff;border-radius:10px;padding:11px 18px;font-size:.86rem;font-weight:600;text-decoration:none;flex:none;"><span style="font-size:.72rem;">▶</span> Obejrzyj nagranie</a>' +
+          '<a href="' + vidUrl(t.vid) + '" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:#6E5BA6;color:#fff;border-radius:10px;padding:11px 18px;font-size:.86rem;font-weight:600;text-decoration:none;flex:none;"><span style="font-size:.72rem;">▶</span> Obejrzyj nagranie</a>' +
         '</div>' +
         '<div style="display:flex;gap:24px;margin-top:22px;border-bottom:1px solid #ECECE6;">' +
           '<button data-act="showtr" style="' + tabStyle('tr') + '">Transkrypcja</button>' +
@@ -479,7 +489,7 @@
     if (act === 'stop') { e.stopPropagation(); return; } // link playlisty na karcie
     if (act === 'enter') { state.sIdx = +el.getAttribute('data-i'); go('session'); return; }
     if (act === 'hub') { go('hub'); return; }
-    if (act === 'film') { window.open(URLS[state.sIdx], '_blank', 'noopener'); return; }
+    if (act === 'film') { window.open(vidUrl(SESS[state.sIdx].talks[+el.getAttribute('data-i')].vid), '_blank', 'noopener'); return; }
     if (act === 'tr') { state.tIdx = +el.getAttribute('data-i'); state.tab = 'tr'; state.lang = 'PL'; go('detail'); return; }
     if (act === 'notes') { state.tIdx = +el.getAttribute('data-i'); state.tab = 'notes'; go('detail'); return; }
     if (act === 'back') { go('session'); return; }
